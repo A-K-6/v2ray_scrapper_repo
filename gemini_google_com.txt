@@ -1,5 +1,3 @@
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=/news&security=none&encryption=none&host=cdn.ir&type=ws#WiFi-@V2rayAlpha--6
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?encryption=none&security=none&type=ws&host=cdn.ir&path=/news#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#@Daily_Configs
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?security=none&type=ws&path=/news&host=cdn.ir&encryption=none#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE 🧭 3.1MB/s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.150.157:990#%F0%9F%87%BF%F0%9F%87%A6ZA%28AzadNet.t.me%29%20%287%29
 vmess://eyJhZGQiOiIxNDkuMzAuMjMyLjEwMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0NjA5MDhiOC1kZTE2LTQyZTktYmQwZC0xOTE1MjJhYjkyYTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiMTUwOTciLCJwcyI6IvCfh7rwn4e4VVMoQXphZE5ldC50Lm1lKSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
