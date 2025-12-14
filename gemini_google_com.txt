@@ -1,9 +1,4 @@
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws?ed=2048&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=terazhedi.info#@V2ray1_Ng
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&insecure=0&allowInsecure=0&type=ws&path=/sghiyws#⚡ @Fast78_Channel | Best Free Configs
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&insecure=1&allowInsecure=1&type=ws&host=terazhedi.info&path=/sghiyws#@Daily_Configs
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#@V2rayNGVPN <= کانفیگ رایگان
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&type=ws&allowInsecure=0&sni=terazhedi.info#[🛸]
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#limo
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#free
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&fp=chrome&type=ws&sni=terazhedi.info&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#✅سرورهایبیشتردرکانال:prrofile_purple@✅
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&type=ws&sni=terazhedi.info#🇩🇪@FreakConfig
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=1&host=terazhedi.info&type=ws&allowInsecure=1&sni=terazhedi.info&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.150.157:990#%F0%9F%87%BF%F0%9F%87%A6ZA%28AzadNet.t.me%29%20%287%29
