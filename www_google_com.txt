@@ -1,4 +1,5 @@
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@141.101.120.143:2086?encryption=none&security=none&type=ws&host=vless.hubp.de&path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&sni=vless.hubp.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20314ms
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.81.75:80?encryption=none&security=none&type=ws&host=vless.hubp.de&path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&sni=vless.hubp.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20360ms
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@141.101.120.187:2086?encryption=none&security=none&type=ws&host=vless.hubp.de&path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&sni=vless.hubp.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20401ms
-vless://Parsashonam-Bot-38@104.17.147.22:8880?encryption=none&security=none&type=ws&host=Fi.Parsashonam.CfD.&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056#%F0%9F%87%BA%F0%9F%87%B3%20UN%203602ms
+vless://SERVERNETT-SERVERNETT1@rf4.sernett.ir:80?encryption=none&security=none&type=xhttp&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20441ms
+vless://SERVERNETT-SERVERNETT1@rf4.sernett.ir:80?encryption=none&security=none&type=xhttp&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20444ms
+vless://SERVERNETT-SERVERNETT1@rf4.sernett.ir:80?encryption=none&security=none&type=xhttp&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20448ms
+vless://SERVERNETT-SERVERNETT1@rf4.sernett.ir:80?encryption=none&security=none&type=xhttp&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20454ms
+vless://SERVERNETT-SERVERNETT1@rf4.sernett.ir:80?encryption=none&security=none&type=xhttp&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20457ms
