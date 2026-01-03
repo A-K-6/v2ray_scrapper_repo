@@ -1,2 +1,2 @@
-vless://d63129ab-04a5-4797-8a70-84f4ab610ca9@217.16.16.251:8443?encryption=none&security=reality&type=tcp&sni=eh.vk.vom&fp=chrome&pbk=bPN2gQ-96uG3DZONnduotvwViMDsUsN2XZnRkzXcMxk&sid=edc87d796657fbe5#%F0%9F%87%B7%F0%9F%87%BA%20RU%20777ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS1F6dkhVM0dFYkZ6dnE2ejBZWVhrdGhiWkNlUmdOYg@us.vcloudn.com:1234#%F0%9F%87%BA%F0%9F%87%B3%20UN%205613ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS1F6dkhVM0dFYkZ6dnE2ejBZWVhrdGhiWkNlUmdOYg@us.vcloudn.com:1234#%F0%9F%87%BA%F0%9F%87%B3%20UN%20683ms
+vless://d63129ab-04a5-4797-8a70-84f4ab610ca9@217.16.16.251:8443?encryption=none&security=reality&type=tcp&sni=eh.vk.vom&fp=chrome&pbk=bPN2gQ-96uG3DZONnduotvwViMDsUsN2XZnRkzXcMxk&sid=edc87d796657fbe5#%F0%9F%87%B7%F0%9F%87%BA%20RU%20747ms
