@@ -1,2 +1,5 @@
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.27.29.194:80?encryption=none&security=none&type=ws&host=vless.hubp.de&path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&sni=vless.hubp.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201118ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS1F6dkhVM0dFYkZ6dnE2ejBZWVhrdGhiWkNlUmdOYg@us.vcloudn.com:1234#%F0%9F%87%BA%F0%9F%87%B3%20UN%205698ms
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@172.67.145.95:2095?encryption=none&security=none&type=ws&host=vless.hubp.de&path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&sni=vless.hubp.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201798ms
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.27.29.194:80?encryption=none&security=none&type=ws&host=vless.hubp.de&path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&sni=vless.hubp.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201824ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#%F0%9F%87%B3%F0%9F%87%B1%20NL%205518ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS1F6dkhVM0dFYkZ6dnE2ejBZWVhrdGhiWkNlUmdOYg@us.vcloudn.com:1234#%F0%9F%87%BA%F0%9F%87%B3%20UN%205760ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#%F0%9F%87%B3%F0%9F%87%B1%20NL%206280ms
