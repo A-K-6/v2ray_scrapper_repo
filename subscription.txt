@@ -1,5 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20331ms
-vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80?encryption=none&security=none&type=ws&host=elegaNt-PrOJECt4lB40WUCws.wiNDLEr.Co.uK&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512#%F0%9F%87%BA%F0%9F%87%B3%20UN%20457ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.247.151:990#%F0%9F%87%A7%F0%9F%87%AC%20BG%20708ms
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@172.67.151.137:2095?encryption=none&security=none&type=ws&host=vless.hubp.de&path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&sni=vless.hubp.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20710ms
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.81.75:80?encryption=none&security=none&type=ws&host=vless.hubp.de&path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&sni=vless.hubp.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20712ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#%F0%9F%87%A7%F0%9F%87%AC%20BG%20463ms
+vless://7fc953d6-ae75-46fb-a970-10b57d513487@45.139.26.152:7443?encryption=none&security=reality&type=tcp&sni=eh.vk.com&flow=xtls-rprx-vision&fp=chrome&pbk=BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA&sid=fd88bd27db4cc661#%F0%9F%87%B7%F0%9F%87%BA%20RU%201235ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@134.255.210.49:990#%F0%9F%87%A8%F0%9F%87%BE%20CY%201663ms
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@141.101.120.244:2086?encryption=none&security=none&type=ws&host=vless.hubp.de&path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&sni=vless.hubp.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201761ms
+vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80?encryption=none&security=none&type=ws&host=elegaNt-PrOJECt4lB40WUCws.wiNDLEr.Co.uK&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%206314ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#%F0%9F%87%B3%F0%9F%87%B1%20NL%206973ms
