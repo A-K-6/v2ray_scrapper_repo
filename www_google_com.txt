@@ -1,4 +1,1 @@
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@141.101.120.244:2086?encryption=none&security=none&type=ws&host=vless.hubp.de&path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&sni=vless.hubp.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20663ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VlpvREdUaXZJdGFHV1ZSbkNCYndnSUZvWncwMk1nMzkwSzBOaVdOVzV0SFRqbFY@194.38.23.137:31348#%F0%9F%87%BA%F0%9F%87%A6%20UA%20916ms
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.81.75:80?encryption=none&security=none&type=ws&host=vless.hubp.de&path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&sni=vless.hubp.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201691ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#%F0%9F%87%B3%F0%9F%87%B1%20NL%204518ms
+vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80?encryption=none&security=none&type=ws&host=elegaNt-PrOJECt4lB40WUCws.wiNDLEr.Co.uK&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20880ms
