@@ -1,1 +1,1 @@
-vless://0b516cf6-cd76-470c-954d-9374d734f445@151.101.3.19:80?encryption=none&security=none&type=ws&host=yalandonya.global.ssl.fastly.net&path=%2Fsite#%F0%9F%87%BA%F0%9F%87%B8%20US%205668ms
+vless://40d28513-d1c3-4346-a480-27601b0650f4@185.228.236.237:80?encryption=none&security=none&type=ws&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&path=%2Fclassgap#%F0%9F%87%AE%F0%9F%87%B7%20IR%202681ms
