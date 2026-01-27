@@ -1,2 +1,1 @@
-vless://3a4ddfac-e7da-48c9-9648-4a366109fc3a@api.steamsale.ir:443?encryption=none&security=tls&type=ws&host=mtn.vpsmee.ir&path=%2FX0PX5Vup1qlVVzhxp6ic50a&sni=cdn.vpsmee.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205947ms
-vless://23c4fadc-224c-45cd-aa04-7e03c3666954@94.101.191.188:8080?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%207538ms
+vless://3a4ddfac-e7da-48c9-9648-4a366109fc3a@api.steamsale.ir:443?encryption=none&security=tls&type=ws&host=mtn.vpsmee.ir&path=%2FX0PX5Vup1qlVVzhxp6ic50a&sni=cdn.vpsmee.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205909ms
