@@ -1,2 +1,1 @@
-vless://40d28513-d1c3-4346-a480-27601b0650f4@185.228.236.237:80?encryption=none&security=none&type=ws&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&path=%2Fclassgap#%F0%9F%87%AE%F0%9F%87%B7%20IR%204992ms
-vless://11003d58-cbb3-4ade-a70b-9e095e49d676@us.asreabi.ir:443?encryption=none&security=none&type=ws&host=playstation.com&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%206081ms
+vless://23c4fadc-224c-45cd-aa04-7e03c3666954@94.101.191.188:8080?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%206022ms
