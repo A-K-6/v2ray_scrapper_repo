@@ -1,1 +1,1 @@
-vless://5eff824f-da00-4a9f-a6d0-1d8eaa0c37ae@151.101.192.223:80?encryption=none&security=none&type=ws&host=goucci.io&path=%2Fcontainers%2Ffi#%F0%9F%87%BA%F0%9F%87%B8%20US%206787ms
+vless://11003d58-cbb3-4ade-a70b-9e095e49d676@us.asreabi.ir:443?encryption=none&security=none&type=ws&host=playstation.com&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%206081ms
