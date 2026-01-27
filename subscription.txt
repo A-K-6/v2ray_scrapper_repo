@@ -1,1 +1,1 @@
-vless://0cdab3ab-67dd-4342-a78f-710a32d0c3bb@cdn.torprospeed.ir:2087?encryption=none&security=tls&type=ws&host=ww.sodogodping.ir&path=%2F&sni=ww.sodogodping.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%206411ms
+vless://40d28513-d1c3-4346-a480-27601b0650f4@185.228.236.237:80?encryption=none&security=none&type=ws&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&path=%2Fclassgap#%F0%9F%87%AE%F0%9F%87%B7%20IR%207410ms
