@@ -1,4 +1,4 @@
-trojan://n875vm39ii96@104.17.163.123:8443?security=tls&sni=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net&type=ws&path=%2F%3Fed%3D2560&host=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net#%F0%9F%87%BA%F0%9F%87%B3%20UN%20494ms
-trojan://11fd7d06-a1fb-4a47-a490-e0a62d1e1c0e@104.17.74.206:443?security=tls&sni=afrcloud4.mmv.kr&type=ws&path=%2F36.95.152.58%3A12137&host=afrcloud4.mmv.kr#%F0%9F%87%BA%F0%9F%87%B3%20UN%20602ms
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%20902ms
-trojan://humanity@104.18.32.47:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%202329ms
+trojan://n875vm39ii96@104.17.163.123:8443?security=tls&sni=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net&type=ws&path=%2F%3Fed%3D2560&host=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net#%F0%9F%87%BA%F0%9F%87%B3%20UN%20353ms
+trojan://11fd7d06-a1fb-4a47-a490-e0a62d1e1c0e@104.17.74.206:443?security=tls&sni=afrcloud4.mmv.kr&type=ws&path=%2F36.95.152.58%3A12137&host=afrcloud4.mmv.kr#%F0%9F%87%BA%F0%9F%87%B3%20UN%20536ms
+trojan://humanity@104.18.32.47:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%201038ms
+vless://a46a3035-8c34-43f8-b7d3-d4877a50c92e@104.18.32.47:443?encryption=none&security=tls&type=ws&host=kk1.gaming-center.ir&path=%2Ftest&sni=kk1.gaming-center.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206752ms
