@@ -1,1 +1,1 @@
-trojan://n875vm39ii96@104.17.163.123:8443?security=tls&sni=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net&type=ws&path=%2F%3Fed%3D2560&host=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net#%F0%9F%87%BA%F0%9F%87%B3%20UN%20472ms
+trojan://n875vm39ii96@104.17.163.123:8443?security=tls&sni=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net&type=ws&path=%2F%3Fed%3D2560&host=fflved5b71of0dhntg2ier40sswwuydkqf.zjde5.de5.net#%F0%9F%87%BA%F0%9F%87%B3%20UN%20704ms
