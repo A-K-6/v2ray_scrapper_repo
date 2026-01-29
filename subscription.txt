@@ -1,3 +1,2 @@
-vless://6ade68c2-026d-40b7-843f-d39afeba688d@212.80.8.136:53315?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%204663ms
-vless://561103ea-a4fd-42cd-9cef-8364c5031aa9@de1.alligatovpn.top:443?encryption=none&security=tls&type=ws&host=de1.alligatovpn.top&path=%2F&sni=de1.alligatovpn.top#%F0%9F%87%BA%F0%9F%87%B3%20UN%205829ms
-vless://3a4ddfac-e7da-48c9-9648-4a366109fc3a@api.steamsale.ir:443?encryption=none&security=tls&type=ws&host=mtn.vpsmee.ir&path=%2FX0PX5Vup1qlVVzhxp6ic50a&sni=cdn.vpsmee.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206256ms
+vless://6ade68c2-026d-40b7-843f-d39afeba688d@212.80.8.136:53315?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202488ms
+vless://21f9985c-d363-4eee-957f-720e9e9f9b8d@192.200.160.13:443?encryption=none&security=tls&type=ws&host=temp2.ali.lat&path=%2F&sni=temp2.ali.lat#%F0%9F%87%BA%F0%9F%87%B8%20US%207742ms
