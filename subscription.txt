@@ -1,1 +1,2 @@
-vless://517c776e-afbf-4749-9643-73c3ea26b905@fox2.wizard2shop.org:2083?encryption=none&security=tls&type=ws&host=xiz20.wizard2shop.org&path=%2F%3Fed%3D2560&sni=xiz20.wizard2shop.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207613ms
+vless://517c776e-afbf-4749-9643-73c3ea26b905@fox2.wizard2shop.org:2083?encryption=none&security=tls&type=ws&host=xiz20.wizard2shop.org&path=%2F%3Fed%3D2560&sni=xiz20.wizard2shop.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203219ms
+vless://4ac793c2-34d6-4774-946d-88680601f5b4@ip.ali.lat:2096?encryption=none&security=tls&type=ws&host=temporary.ali.lat&path=%2F&sni=temporary.ali.lat#%F0%9F%87%BA%F0%9F%87%B3%20UN%205874ms
