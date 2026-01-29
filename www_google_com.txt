@@ -1,2 +1,1 @@
-vless://00a8d864-307a-49ec-9229-22c4c130fcf1@www.devpirate.baby:53352?encryption=none&security=tls&type=tcp&sni=www.devpirate.baby&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20723ms
-vless://517c776e-afbf-4749-9643-73c3ea26b905@fox2.wizard2shop.org:2083?encryption=none&security=tls&type=ws&host=xiz20.wizard2shop.org&path=%2F%3Fed%3D2560&sni=xiz20.wizard2shop.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202207ms
+vless://561103ea-a4fd-42cd-9cef-8364c5031aa9@de1.alligatovpn.top:443?encryption=none&security=tls&type=ws&host=de1.alligatovpn.top&path=%2F&sni=de1.alligatovpn.top#%F0%9F%87%BA%F0%9F%87%B3%20UN%205829ms
