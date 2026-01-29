@@ -1,1 +1,1 @@
-vless://561103ea-a4fd-42cd-9cef-8364c5031aa9@de1.alligatovpn.top:443?encryption=none&security=tls&type=ws&host=de1.alligatovpn.top&path=%2F&sni=de1.alligatovpn.top#%F0%9F%87%BA%F0%9F%87%B3%20UN%205829ms
+vless://00a8d864-307a-49ec-9229-22c4c130fcf1@www.devpirate.baby:53352?encryption=none&security=tls&type=tcp&sni=www.devpirate.baby&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20599ms
