@@ -1,1 +1,1 @@
-vless://6ade68c2-026d-40b7-843f-d39afeba688d@212.80.8.136:53315?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201461ms
+vless://561103ea-a4fd-42cd-9cef-8364c5031aa9@de1.alligatovpn.top:443?encryption=none&security=tls&type=ws&host=de1.alligatovpn.top&path=%2F&sni=de1.alligatovpn.top#%F0%9F%87%BA%F0%9F%87%B3%20UN%206300ms
