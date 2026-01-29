@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#%F0%9F%87%A7%F0%9F%87%AC%20BG%205517ms
-trojan://humanity@208.103.161.110:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&host=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8%20US%205868ms
-trojan://humanity@free1.aattaash.com:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&host=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B3%20UN%207436ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#%F0%9F%87%BA%F0%9F%87%B8%20US%207558ms
+trojan://bpb-trojan@www.csgo.com:443?security=tls&sni=singbox.lu567890.us.kg&type=ws&path=%2Ftr%3Fed%3D2560&host=singbox.lu567890.us.kg#%F0%9F%87%BA%F0%9F%87%B3%20UN%20938ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDEyMzltcyIsImFkZCI6ImlyMS5tcmFodnZhemkuY29tIiwicG9ydCI6IjQyOTgzIiwiaWQiOiIzMDA0MGNhMi00MDBjLTQ5ZjgtOTYwOS1mMTQzM2YyMDY5MWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
