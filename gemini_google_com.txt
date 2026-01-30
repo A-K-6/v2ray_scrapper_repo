@@ -1,2 +1,1 @@
-trojan://bpb-trojan@www.csgo.com:443?security=tls&sni=singbox.lu567890.us.kg&type=ws&path=%2Ftr%3Fed%3D2560&host=singbox.lu567890.us.kg#%F0%9F%87%BA%F0%9F%87%B3%20UN%20938ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDEyMzltcyIsImFkZCI6ImlyMS5tcmFodnZhemkuY29tIiwicG9ydCI6IjQyOTgzIiwiaWQiOiIzMDA0MGNhMi00MDBjLTQ5ZjgtOTYwOS1mMTQzM2YyMDY5MWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%F0%9F%87%BA%F0%9F%87%B3%20UN%20824ms
