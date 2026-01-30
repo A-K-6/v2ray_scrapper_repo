@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#%F0%9F%87%B1%F0%9F%87%B9%20LT%20466ms
-vless://0ebef9a3-58d0-45c7-bff2-26c28a474231@iran.raynomusic.ir:4040?encryption=none&security=none&type=ws&host=turkey.raynomusic.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%201685ms
-vless://44536d8e-9a37-6ce7-5be3-dd3f232c34f8@85.133.161.168:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FNL%2F0#%F0%9F%87%AE%F0%9F%87%B7%20IR%203941ms
-vless://517c776e-afbf-4749-9643-73c3ea26b905@fox2.wizard2shop.org:2083?encryption=none&security=tls&type=ws&host=xiz20.wizard2shop.org&path=%2F%3Fed%3D2560&sni=xiz20.wizard2shop.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206756ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#%F0%9F%87%B1%F0%9F%87%B9%20LT%202051ms
+vless://44536d8e-9a37-6ce7-5be3-dd3f232c34f8@85.133.161.168:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FNL%2F0#%F0%9F%87%AE%F0%9F%87%B7%20IR%202282ms
+vless://3a4ddfac-e7da-48c9-9648-4a366109fc3a@8.6.112.0:443?encryption=none&security=tls&type=ws&host=mtn.vpsmee.ir&path=%2FX0PX5Vup1qlVVzhxp6ic50a&sni=cdn.vpsmee.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202504ms
+vless://517c776e-afbf-4749-9643-73c3ea26b905@fox2.wizard2shop.org:2083?encryption=none&security=tls&type=ws&host=xiz20.wizard2shop.org&path=%2F%3Fed%3D2560&sni=xiz20.wizard2shop.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207682ms
