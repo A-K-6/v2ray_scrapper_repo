@@ -1,2 +1,1 @@
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@cf.narton.ir:8443?encryption=none&security=tls&type=ws&host=hitgram.ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&sni=hitgram.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202514ms
-vless://38cc3dff-5114-429f-9a45-fed484086c47@fi1.persianhostnet.ir:5121?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%206663ms
+vless://44536d8e-9a37-6ce7-5be3-dd3f232c34f8@85.133.161.177:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FNL%2F0#%F0%9F%87%AE%F0%9F%87%B7%20IR%204549ms
