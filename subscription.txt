@@ -1,2 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#%F0%9F%87%B1%F0%9F%87%B9%20LT%202807ms
-vless://517c776e-afbf-4749-9643-73c3ea26b905@fox2.wizard2shop.org:2083?encryption=none&security=tls&type=ws&host=xiz20.wizard2shop.org&path=%2F%3Fed%3D2560&sni=xiz20.wizard2shop.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202838ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDE0ODltcyIsImFkZCI6ImRlLnphcmFzaXRlLmlyIiwicG9ydCI6IjY1MzMiLCJpZCI6IjdmZWE3NTM4LWUzMjEtNDFkZS1hMzk1LTNhZmNiZDdlYzI3YyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
+vless://44536d8e-9a37-6ce7-5be3-dd3f232c34f8@85.133.161.177:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FNL%2F0#%F0%9F%87%AE%F0%9F%87%B7%20IR%201505ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#%F0%9F%87%B1%F0%9F%87%B9%20LT%204789ms
