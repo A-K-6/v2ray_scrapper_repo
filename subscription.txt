@@ -1,2 +1,4 @@
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDU5M21zIiwiYWRkIjoiZGUuemFyYXNpdGUuaXIiLCJwb3J0IjoiNjUzMyIsImlkIjoiN2ZlYTc1MzgtZTMyMS00MWRlLWEzOTUtM2FmY2JkN2VjMjdjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#%F0%9F%87%B1%F0%9F%87%B9%20LT%205391ms
+vless://44536d8e-9a37-6ce7-5be3-dd3f232c34f8@85.133.161.168:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FNL%2F0#%F0%9F%87%AE%F0%9F%87%B7%20IR%201700ms
+vless://3a4ddfac-e7da-48c9-9648-4a366109fc3a@104.18.32.47:443?encryption=none&security=tls&type=ws&host=mtn.vpsmee.ir&path=%2FX0PX5Vup1qlVVzhxp6ic50a&sni=cdn.vpsmee.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201841ms
+vless://0ebef9a3-58d0-45c7-bff2-26c28a474231@iran.raynomusic.ir:4040?encryption=none&security=none&type=ws&host=turkey.raynomusic.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%205958ms
+vless://3a4ddfac-e7da-48c9-9648-4a366109fc3a@chat.openai.com:443?encryption=none&security=tls&type=ws&host=mtn.vpsmee.ir&path=%2FX0PX5Vup1qlVVzhxp6ic50a&sni=cdn.vpsmee.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206877ms
