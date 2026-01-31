@@ -1,2 +1,2 @@
-vless://e72a95fa-e31a-409a-81e1-b995cde23447@85.133.224.158:40646?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20696ms
-vless://1fbd6005-2228-44f4-b33e-d7845afd725d@python.org:80?encryption=none&security=none&type=ws&host=yalandonya.global.ssl.fastly.net&path=%2Fsite#%F0%9F%87%BA%F0%9F%87%B3%20UN%202428ms
+vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?encryption=none&security=tls&type=ws&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&sni=pages.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20479ms
+vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?encryption=none&security=tls&type=ws&host=r4fnviw9jl4i4rx.zjde5.de5.net&path=%2FXIXVPN%3Fed&sni=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20692ms
