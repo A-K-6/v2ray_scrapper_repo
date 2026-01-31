@@ -1,10 +1,5 @@
-vless://c0caa61f-55fb-4eb6-b8e1-cf833c186c5f@ton1.amirkaj.ir:15521?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20365ms
-vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?encryption=none&security=tls&type=ws&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&sni=pages.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20463ms
-vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?encryption=none&security=tls&type=ws&host=r4fnviw9jl4i4rx.zjde5.de5.net&path=%2FXIXVPN%3Fed&sni=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20628ms
-vless://396c904b-4b62-4334-b793-ee25fc0c61cc@chatgpt.com:443?encryption=none&security=tls&type=ws&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&sni=pages.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20945ms
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&security=tls&type=ws&host=dev.twistsparrow.xyz&path=%2F&sni=dev.twistsparrow.xyz#%F0%9F%87%BA%F0%9F%87%B3%20UN%201274ms
-vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?encryption=none&security=none&type=ws&host=blog.zanborak-shop.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%204576ms
-vless://94c3543f-cacb-431a-9f60-c68835463f94@l.darksali.ir:8082?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%204770ms
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%206584ms
-vless://860d8f27-ed60-4791-b6a0-e1e471d7ee6d@104.18.32.47:80?encryption=none&security=none&type=ws&host=NICE-MaNAgEmeNts6CV0rMC2T.ONeEat.co.&path=%2F%3Fed#%F0%9F%87%BA%F0%9F%87%B3%20UN%206704ms
-vless://062a230c-211d-4569-958d-dddf2c3aa613@104.18.32.47:2053?encryption=none&security=tls&type=ws&host=ir3uk.airpanel.top&sni=ir3uk.airpanel.top&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206823ms
+vless://c0caa61f-55fb-4eb6-b8e1-cf833c186c5f@ton1.amirkaj.ir:15521?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20356ms
+vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?encryption=none&security=tls&type=ws&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&sni=pages.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20481ms
+vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?encryption=none&security=tls&type=ws&host=r4fnviw9jl4i4rx.zjde5.de5.net&path=%2FXIXVPN%3Fed&sni=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20567ms
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&security=tls&type=ws&host=dev.twistsparrow.xyz&path=%2F&sni=dev.twistsparrow.xyz#%F0%9F%87%BA%F0%9F%87%B3%20UN%20736ms
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%206264ms
