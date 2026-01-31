@@ -1,2 +1,2 @@
-trojan://bpb-trojan@94.140.0.1:443?security=tls&sni=singbox.lu567890.us.kg&type=ws&path=%2Ftr%3Fed%3D2560&host=singbox.lu567890.us.kg#%F0%9F%87%A6%F0%9F%87%AA%20AE%20398ms
-vless://1fbd6005-2228-44f4-b33e-d7845afd725d@python.org:80?encryption=none&security=none&type=ws&host=yalandonya.global.ssl.fastly.net&path=%2Fsite#%F0%9F%87%BA%F0%9F%87%B3%20UN%201401ms
+trojan://bpb-trojan@94.140.0.1:443?security=tls&sni=singbox.lu567890.us.kg&type=ws&path=%2Ftr%3Fed%3D2560&host=singbox.lu567890.us.kg#%F0%9F%87%A6%F0%9F%87%AA%20AE%20397ms
+vless://1fbd6005-2228-44f4-b33e-d7845afd725d@python.org:80?encryption=none&security=none&type=ws&host=yalandonya.global.ssl.fastly.net&path=%2Fsite#%F0%9F%87%BA%F0%9F%87%B3%20UN%201017ms
