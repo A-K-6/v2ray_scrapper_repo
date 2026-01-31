@@ -1,4 +1,4 @@
-trojan://bpb-trojan@94.140.0.1:443?security=tls&sni=singbox.lu567890.us.kg&type=ws&path=%2Ftr%3Fed%3D2560&host=singbox.lu567890.us.kg#%F0%9F%87%A6%F0%9F%87%AA%20AE%20406ms
-vless://79a48cba-4a44-4a5c-bfa9-64a53379df2c@iar.blackhoster.com:350?encryption=none&security=reality&type=tcp&sni=excoino.com&flow=xtls-rprx-vision&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#%F0%9F%87%BA%F0%9F%87%B3%20UN%20553ms
-vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@arya.zaravds.cfd:1050?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20868ms
-vless://ed2513b5-9974-4fb0-acd6-25fd556fb255@tun.aws-sub.com:1017?encryption=none&security=reality&type=tcp&sni=ub.com&fp=chrome&pbk=CAdP5-sUePkDhbiFJlK9jFK_8ay3k3BALdwbiNyXaTE&sid=83f404#%F0%9F%87%BA%F0%9F%87%B3%20UN%207115ms
+vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@arya.zaravds.cfd:1050?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20511ms
+vless://79a48cba-4a44-4a5c-bfa9-64a53379df2c@iar.blackhoster.com:350?encryption=none&security=reality&type=tcp&sni=excoino.com&flow=xtls-rprx-vision&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#%F0%9F%87%BA%F0%9F%87%B3%20UN%201621ms
+trojan://bpb-trojan@94.140.0.1:443?security=tls&sni=singbox.lu567890.us.kg&type=ws&path=%2Ftr%3Fed%3D2560&host=singbox.lu567890.us.kg#%F0%9F%87%A6%F0%9F%87%AA%20AE%203228ms
+vless://44536d8e-9a37-6ce7-5be3-dd3f232c34f8@85.133.161.177:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FNL%2F0#%F0%9F%87%AE%F0%9F%87%B7%20IR%205087ms
