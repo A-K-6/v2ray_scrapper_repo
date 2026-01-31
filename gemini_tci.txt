@@ -1,4 +1,5 @@
-trojan://bpb-trojan@94.140.0.1:443?security=tls&sni=singbox.lu567890.us.kg&type=ws&path=%2Ftr%3Fed%3D2560&host=singbox.lu567890.us.kg#%F0%9F%87%A6%F0%9F%87%AA%20AE%20432ms
-vless://e72a95fa-e31a-409a-81e1-b995cde23447@85.133.224.158:40646?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20503ms
-vless://844e0f15-6ea4-4dd7-8f08-11311c9c23e8@cname3.sonamii.com:2083?encryption=none&security=tls&type=ws&host=sina.sonami.site&path=%2F%3Fed%3D2440&sni=sina.sonami.site#%F0%9F%87%BA%F0%9F%87%B3%20UN%20735ms
-vless://79a48cba-4a44-4a5c-bfa9-64a53379df2c@iar.blackhoster.com:350?encryption=none&security=reality&type=tcp&sni=excoino.com&flow=xtls-rprx-vision&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#%F0%9F%87%BA%F0%9F%87%B3%20UN%207688ms
+vless://e72a95fa-e31a-409a-81e1-b995cde23447@85.133.224.158:40646?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20464ms
+vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@cloudproxycdn.healingfluence.com:8443?encryption=none&security=tls&type=ws&host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&path=bored_vpn%3Fed%3D2560&sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20515ms
+vless://844e0f15-6ea4-4dd7-8f08-11311c9c23e8@cname3.sonamii.com:2083?encryption=none&security=tls&type=ws&host=sina.sonami.site&path=%2F%3Fed%3D2440&sni=sina.sonami.site#%F0%9F%87%BA%F0%9F%87%B3%20UN%20797ms
+vless://79a48cba-4a44-4a5c-bfa9-64a53379df2c@iar.blackhoster.com:350?encryption=none&security=reality&type=tcp&sni=excoino.com&flow=xtls-rprx-vision&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#%F0%9F%87%BA%F0%9F%87%B3%20UN%201639ms
+vless://4e5c6735-d657-4f9c-931d-52504f31aae8@fin1.wizard2shop.org:8085?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%203355ms
