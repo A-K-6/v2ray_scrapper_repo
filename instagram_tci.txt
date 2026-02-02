@@ -1,3 +1,1 @@
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fsl.narton.ir:443?encryption=none&security=tls&type=ws&host=mitivpn3.global.ssl.fastly.net&path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&sni=mitivpn3.global.ssl.fastly.net&fp=firefox#%F0%9F%87%BA%F0%9F%87%B3%20UN%20581ms
-vless://53d65999-870f-4020-8e7f-70f415533386@193.151.138.148:2095?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20704ms
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.web3.name.ng:8443?encryption=none&security=tls&type=ws&host=hzr50.sepiol.name.ng&path=%2F&sni=hzr50.sepiol.name.ng&fp=firefox#%F0%9F%87%BA%F0%9F%87%B3%20UN%206214ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fsl.narton.ir:443?encryption=none&security=tls&type=ws&host=mitivpn3.global.ssl.fastly.net&path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&sni=mitivpn3.global.ssl.fastly.net&fp=firefox#%F0%9F%87%BA%F0%9F%87%B3%20UN%201245ms
