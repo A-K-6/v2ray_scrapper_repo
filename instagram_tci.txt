@@ -1,2 +1,2 @@
-vless://25aa5ef6-3eac-467f-9e26-1b18502f37dc@servers.xvon.in:80?encryption=none&security=tls&type=ws&path=%2F&sni=servers.xvon.in&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20594ms
-vless://97c32345-ad54-478d-8d07-ef68b6b0745b@irn.irantls.com:8080?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%207096ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fsl.narton.ir:443?encryption=none&security=tls&type=ws&host=mitivpn-s1.global.ssl.fastly.net&path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&sni=mitivpn-s1.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201250ms
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.web3.name.ng:8443?encryption=none&security=tls&type=ws&host=hzr50.sepiol.name.ng&path=%2F&sni=hzr50.sepiol.name.ng&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207739ms
