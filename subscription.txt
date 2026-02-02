@@ -1,2 +1,1 @@
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fsl.narton.ir:443?encryption=none&security=tls&type=ws&host=mitivpn3.global.ssl.fastly.net&path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&sni=mitivpn3.global.ssl.fastly.net&fp=firefox#%F0%9F%87%BA%F0%9F%87%B3%20UN%201220ms
-ss://YWVzLTI1Ni1nY206ODU2MzQxMWYtZjA0Yy00YTM4LTg3NTMtMTFjMzRlNTk5MzY1@45.89.53.115:8443#%F0%9F%87%B7%F0%9F%87%BA%20RU%206710ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fsl.narton.ir:443?encryption=none&security=tls&type=ws&host=mitivpn3.global.ssl.fastly.net&path=%2F--Telegram---MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&sni=mitivpn3.global.ssl.fastly.net&fp=firefox#%F0%9F%87%BA%F0%9F%87%B3%20UN%20729ms
