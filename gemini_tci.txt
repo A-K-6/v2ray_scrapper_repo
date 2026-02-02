@@ -1,2 +1,1 @@
-vless://ffa11e82-fa9b-4be1-81a9-c1d48a363df8@104.24.206.21:80?encryption=none&security=none&type=ws&host=fancy-sky-db95.mehradrivaldo.workers.dev&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%201956ms
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?encryption=none&security=reality&type=tcp&sni=fuck.rkn&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20NL%202930ms
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?encryption=none&security=reality&type=tcp&sni=fuck.rkn&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20NL%201019ms
