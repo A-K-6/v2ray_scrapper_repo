@@ -1,3 +1,1 @@
-vless://60cb090b-e4f7-4ec1-b5aa-91982807c2ce@94.101.191.139:2086?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20672ms
-vless://2a4f0318-117b-4d1b-994b-692267ec3cc1@imgur.com:80?encryption=none&security=none&type=ws&host=shotornet.global.ssl.fastly.net&path=%2Fcontainers%2Ffi#%F0%9F%87%BA%F0%9F%87%B3%20UN%201152ms
-vless://20df8c30-c07a-494e-b83d-4af21ee57788@pinterest.com:80?encryption=none&security=none&type=ws&host=dojman.global.ssl.fastly.net&path=%2Fcontainers%2Ffi#%F0%9F%87%BA%F0%9F%87%B3%20UN%207504ms
+vless://36213657-e751-478b-a5d7-547eef892af9@kirinet.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=kirinet.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=kirinet.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207239ms
