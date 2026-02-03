@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20305ms
+vless://251c716e-d100-5f65-dbef-eed4fc2b3ec2@swmrx.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=Swmrx.global.ssl.fastly.net&path=%2FMarzbanix%3Fed%3D2048&sni=Swmrx.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205883ms
