@@ -1,1 +1,1 @@
-vless://251c716e-d100-5f65-dbef-eed4fc2b3ec2@swmrx.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=Swmrx.global.ssl.fastly.net&path=%2FMarzbanix%3Fed%3D2048&sni=Swmrx.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205883ms
+vless://f834e630-df1c-42bc-9454-25de36fd1770@172.64.152.23:2053?encryption=none&security=tls&type=ws&host=ar7.tondteam.ir&path=%2F&sni=ar7.tondteam.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205518ms
