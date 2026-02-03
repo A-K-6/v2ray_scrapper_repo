@@ -1,4 +1,1 @@
-vless://20df8c30-c07a-494e-b83d-4af21ee57788@perl.org:80?encryption=none&security=none&type=ws&host=lexeu.global.ssl.fastly.net&path=%2Fcontainers%2Ffi#%F0%9F%87%BA%F0%9F%87%B3%20UN%201985ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%202177ms
-vless://f834e630-df1c-42bc-9454-25de36fd1770@172.64.152.23:2053?encryption=none&security=tls&type=ws&host=ar7.tondteam.ir&path=%2F&sni=ar7.tondteam.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203644ms
-vless://20df8c30-c07a-494e-b83d-4af21ee57788@pinterest.com:80?encryption=none&security=none&type=ws&host=dojman.global.ssl.fastly.net&path=%2Fcontainers%2Ffi#%F0%9F%87%BA%F0%9F%87%B3%20UN%205302ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20274ms
