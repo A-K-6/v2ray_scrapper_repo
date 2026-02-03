@@ -1,1 +1,2 @@
-vless://2a4f0318-117b-4d1b-994b-692267ec3cc1@imgur.com:80?encryption=none&security=none&type=ws&host=shotornet.global.ssl.fastly.net&path=%2Fcontainers%2Ffi#%F0%9F%87%BA%F0%9F%87%B3%20UN%202022ms
+vless://20df8c30-c07a-494e-b83d-4af21ee57788@dojman.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=dojman.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=dojman.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203883ms
+vless://6dbc08d8-d1e8-42cd-856f-4bfba4819eed@p7q8hkvm7a8.ef17mn.starwayvpn.com:443?encryption=none&security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%206282ms
