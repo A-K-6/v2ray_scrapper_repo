@@ -1,1 +1,1 @@
-vless://2a4f0318-117b-4d1b-994b-692267ec3cc1@imgur.com:80?encryption=none&security=none&type=ws&host=shotornet.global.ssl.fastly.net&path=%2Fcontainers%2Ffi#%F0%9F%87%BA%F0%9F%87%B3%20UN%207576ms
+vless://2a4f0318-117b-4d1b-994b-692267ec3cc1@imgur.com:80?encryption=none&security=none&type=ws&host=shotornet.global.ssl.fastly.net&path=%2Fcontainers%2Ffi#%F0%9F%87%BA%F0%9F%87%B3%20UN%202022ms
