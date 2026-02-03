@@ -1,1 +1,2 @@
-vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?encryption=none&security=none&type=ws&host=blog.zanborak-shop.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20740ms
+vless://36213657-e751-478b-a5d7-547eef892af9@kirinet.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=kirinet.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=kirinet.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203289ms
+vless://20df8c30-c07a-494e-b83d-4af21ee57788@perl.org:80?encryption=none&security=none&type=ws&host=lexeu.global.ssl.fastly.net&path=%2Fcontainers%2Ffi#%F0%9F%87%BA%F0%9F%87%B3%20UN%206539ms
