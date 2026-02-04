@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20490ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhLIDc3OG1zIiwiYWRkIjoiOC4yMTcuMTUxLjI2IiwicG9ydCI6IjEwNzUzIiwiaWQiOiJkNjVkOGIxNy0yYTkzLTRjMTItYmU2Yy03OWJlMTNlYjM5ZmIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
-vless://026d3137-54d8-4d7b-90d8-a006b60f717e@178.173.148.142:55057?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201934ms
-vless://36213657-e751-478b-a5d7-547eef892af9@151.101.1.194:443?encryption=none&security=tls&type=ws&host=kirinet.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=kirinet.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%202085ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20536ms
+vless://102b2850-5c6e-4ec8-a0db-e4165c3b572d@s30777.asancall.cloud:8443?encryption=none&security=none&type=ws&path=%2Fws%2Fapps%2Femofid#%F0%9F%87%BA%F0%9F%87%B3%20UN%20806ms
+vless://36213657-e751-478b-a5d7-547eef892af9@151.101.1.194:443?encryption=none&security=tls&type=ws&host=kirinet.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=kirinet.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%204542ms
+vless://36213657-e751-478b-a5d7-547eef892af9@kirinet.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=kirinet.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=kirinet.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206620ms
