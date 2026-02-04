@@ -1,5 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%201319ms
-vless://c9369e89-b4c5-4cfb-8494-426f4afe70eb@85.9.105.113:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201721ms
-vless://3dc86e4c-331f-4d8e-8408-d035d51f877c@146.75.65.194:443?encryption=none&security=tls&type=ws&host=mitivpndozd.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=mitivpndozd.global.ssl.fastly.net&fp=chrome#%F0%9F%87%A6%F0%9F%87%AA%20AE%203976ms
-vless://3e4cf35f-ce6a-4275-feae-b69f03bf3a47@185.231.180.136:39846?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%204771ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhLIDczOTltcyIsImFkZCI6IjguMjE3LjE1MS4yNiIsInBvcnQiOiIxMDc1MyIsImlkIjoiZDY1ZDhiMTctMmE5My00YzEyLWJlNmMtNzliZTEzZWIzOWZiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20323ms
+vless://fca17b97-6868-410f-9179-71979be2cea1@85.133.221.191:1433?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20541ms
+vless://36213657-e751-478b-a5d7-547eef892af9@151.101.1.194:443?encryption=none&security=tls&type=ws&host=kirinet.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=kirinet.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%203857ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhLIDUxNDhtcyIsImFkZCI6IjguMjE3LjE1MS4yNiIsInBvcnQiOiIxMDc1MyIsImlkIjoiZDY1ZDhiMTctMmE5My00YzEyLWJlNmMtNzliZTEzZWIzOWZiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%87%B8%F0%9F%87%AC%20SG%205544ms
+vless://f834e630-df1c-42bc-9454-25de36fd1770@172.64.152.23:2053?encryption=none&security=tls&type=ws&host=ar7.tondteam.ir&path=%2F&sni=ar7.tondteam.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207502ms
