@@ -1,2 +1,2 @@
-vless://3dc86e4c-331f-4d8e-8408-d035d51f877c@mitivpndozd.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=mitivpndozd.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=mitivpndozd.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203631ms
-vless://102b2850-5c6e-4ec8-a0db-e4165c3b572d@s30777.asancall.cloud:8443?encryption=none&security=none&type=ws&path=%2Fws%2Fapps%2Femofid#%F0%9F%87%BA%F0%9F%87%B3%20UN%203715ms
+vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?encryption=none&security=none&type=ws&host=blog.zanborak-shop.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20494ms
+vless://3dc86e4c-331f-4d8e-8408-d035d51f877c@mitivpndozd.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=mitivpndozd.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=mitivpndozd.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201509ms
