@@ -1,2 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20387ms
-vless://f834e630-df1c-42bc-9454-25de36fd1770@172.64.152.23:2053?encryption=none&security=tls&type=ws&host=ar7.tondteam.ir&path=%2F&sni=ar7.tondteam.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205581ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20284ms
+vless://ec19f26f-b638-4883-bfab-c5a67fadd8ed@2app.star-direct.ir:443?encryption=none&security=tls&type=ws&host=ghhyteagfinljtrssj3gjiydcbkppoyreq34678072.mrpixanos.ir&path=%2F&sni=ghhyteagfinljtrssj3gjiydcbkppoyreq34678072.mrpixanos.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202055ms
+vless://36213657-e751-478b-a5d7-547eef892af9@kirinet.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=kirinet.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=kirinet.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206562ms
