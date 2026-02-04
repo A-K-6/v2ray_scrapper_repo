@@ -1,4 +1,2 @@
-vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?encryption=none&security=none&type=ws&host=blog.zanborak-shop.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20545ms
-vless://7068cce9-b0e7-4f9b-aa26-3e91e58d66bf@185.143.233.5:443?encryption=none&security=tls&type=ws&host=anten.ir.takzkjaupnpam.airircdn.com&path=%2F%3Fed%3D443&sni=anten.ir&fp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20IR%20587ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f3.springpaatogh8.store:2087?encryption=none&security=tls&type=xhttp&host=pcgame.sorza.ir&path=%2F&sni=pcgame.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202091ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@108.162.198.154:2087?encryption=none&security=tls&type=xhttp&host=pcgame.sorza.ir&path=%2F&sni=pcgame.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202111ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@108.162.198.154:2087?encryption=none&security=tls&type=xhttp&host=pcgame.sorza.ir&path=%2F&sni=pcgame.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201375ms
+vless://36213657-e751-478b-a5d7-547eef892af9@kirinet.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=kirinet.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=kirinet.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207876ms
