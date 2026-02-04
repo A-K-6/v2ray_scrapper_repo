@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%87%B8%F0%9F%87%AC%20SG%205004ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@108.162.198.154:2087?encryption=none&security=tls&type=xhttp&host=pcgame.sorza.ir&path=%2F&sni=pcgame.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201375ms
