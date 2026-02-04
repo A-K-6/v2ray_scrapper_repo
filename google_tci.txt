@@ -1,1 +1,1 @@
-vless://fee3eb6c-fd1e-49f0-9421-be25196de633@ip1.neoservers.ir:8443?encryption=none&security=tls&type=ws&host=4mgCAd69VuNq7KzjNVDrkpVzvugByFBdg08tYcrY.ViPClUbIrAn.Ir.&sni=4mgCAd69VuNq7KzjNVDrkpVzvugByFBdg08tYcrY.ViPClUbIrAn.Ir.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205238ms
+vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?encryption=none&security=none&type=ws&host=blog.zanborak-shop.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%201595ms
