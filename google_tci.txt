@@ -1,1 +1,2 @@
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f2.springpaatogh8.store:2053?encryption=none&security=tls&type=xhttp&host=gamebazi.sorza.ir&sni=gamebazi.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20672ms
+vless://007ef8a4-08b6-43b3-a4cd-17b8236bddf2@python.org:80?encryption=none&security=none&type=ws&host=fdsgszd.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%204445ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDYzNDdtcyIsImFkZCI6ImZyMm4uZ29sZG5zaG9wLmNvbSIsInBvcnQiOiI0NDMiLCJpZCI6IjMzNzRiMmVlLTBmNjktNDBlMi1iNGVlLWY4NzY1ZDBhY2NiNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJmcjIudG9wMnBpbmcuY29tIiwicGF0aCI6Ii9Hb29kUGluZyIsInRscyI6InRscyIsInNuaSI6ImZyMi50b3AycGluZy5jb20ifQ==
