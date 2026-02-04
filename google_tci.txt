@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20559ms
-vless://102b2850-5c6e-4ec8-a0db-e4165c3b572d@s30777.asancall.cloud:8443?encryption=none&security=none&type=ws&path=%2Fws%2Fapps%2Femofid#%F0%9F%87%BA%F0%9F%87%B3%20UN%204568ms
-vless://f834e630-df1c-42bc-9454-25de36fd1770@172.64.152.23:2053?encryption=none&security=tls&type=ws&host=ar7.tondteam.ir&path=%2F&sni=ar7.tondteam.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205319ms
-vless://a9bac46a-2037-4ad1-a192-08c70927f4ad@faqatchai.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=faqatchai.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=faqatchai.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207642ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20563ms
+vless://f834e630-df1c-42bc-9454-25de36fd1770@172.64.152.23:2053?encryption=none&security=tls&type=ws&host=ar7.tondteam.ir&path=%2F&sni=ar7.tondteam.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206350ms
