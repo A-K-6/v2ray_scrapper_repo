@@ -1,2 +1,2 @@
-vless://3dc86e4c-331f-4d8e-8408-d035d51f877c@mitivpndozd.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=mitivpndozd.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=mitivpndozd.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202165ms
-vless://102b2850-5c6e-4ec8-a0db-e4165c3b572d@s30777.asancall.cloud:8443?encryption=none&security=none&type=ws&path=%2Fws%2Fapps%2Femofid#%F0%9F%87%BA%F0%9F%87%B3%20UN%206685ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20436ms
+vless://f834e630-df1c-42bc-9454-25de36fd1770@172.64.152.23:2053?encryption=none&security=tls&type=ws&host=ar7.tondteam.ir&path=%2F&sni=ar7.tondteam.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205411ms
