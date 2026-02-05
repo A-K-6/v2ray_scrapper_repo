@@ -1,5 +1,2 @@
-vless://4ee73e0b-0d09-4a06-9619-8a5d0d3d8257@mitivpndozd.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=mitivpndozd.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=mitivpndozd.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201242ms
-vless://36213657-e751-478b-a5d7-547eef892af9@dojman.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=dojman.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=dojman.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202263ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%87%B8%F0%9F%87%AC%20SG%203686ms
-vless://f834e630-df1c-42bc-9454-25de36fd1770@172.64.152.23:2053?encryption=none&security=tls&type=ws&host=ar7.tondteam.ir&path=%2F&sni=ar7.tondteam.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%204104ms
-vless://790944f0-ad46-4e98-abcf-1f4d6d28bea5@45.156.185.159:3131?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%204652ms
+vless://fca17b97-6868-410f-9179-71979be2cea1@85.133.221.191:1433?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20461ms
+vless://4ee73e0b-0d09-4a06-9619-8a5d0d3d8257@mitivpndozd.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=mitivpndozd.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=mitivpndozd.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207677ms
