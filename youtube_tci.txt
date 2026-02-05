@@ -1,4 +1,4 @@
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDExODVtcyIsImFkZCI6Ijo6ZmZmZjphYzQwOjliZDEiLCJwb3J0IjoiNDQzIiwiaWQiOiJmZmVjZTJhOS0wMjk2LTQ2YTktOGRiOC03NDJkMjlkMjQwZmYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYmVkcmlkLmRlbml6aG9zdGluZy5tZSIsInBhdGgiOiJJU3dwWVZSOFNqeFhjVVpFVXpWZk5VUlRVQzhsVjI5RFhTZ3NLSDFTTjBnMUpWcERIVTFjV2lnS0FDOFFSbHRNQ2k4NkFCdzRKVjE0SFZNbiIsInRscyI6InRscyIsInNuaSI6ImJlZHJpZC5kZW5pemhvc3RpbmcubWUifQ==
-vless://a9bac46a-2037-4ad1-a192-08c70927f4ad@faqatchai.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=faqatchai.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=faqatchai.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202381ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%87%B8%F0%9F%87%AC%20SG%203366ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%87%B8%F0%9F%87%AC%20SG%206005ms
+vless://e46f7ce1-ec68-4cae-9ed4-d2ab97c6dd1a@85.133.237.216:443?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%206107ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%87%B8%F0%9F%87%AC%20SG%206526ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#%F0%9F%87%B8%F0%9F%87%AC%20SG%207071ms
+vless://36213657-e751-478b-a5d7-547eef892af9@dojman.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=dojman.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=dojman.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207995ms
