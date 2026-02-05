@@ -1,1 +1,2 @@
-vless://697a470b-08de-47e7-9b3f-38c315cd6605@cd2.reata.ir:2053?encryption=none&security=tls&type=ws&host=api9.diiginet.ir&sni=api9.diiginet.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20648ms
+vless://907d141f-28dd-41af-914d-8daed7905a06@rz.leoshop.pw:2086?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20520ms
+vless://4ee73e0b-0d09-4a06-9619-8a5d0d3d8257@mitivpndozd.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=mitivpndozd.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=mitivpndozd.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%204041ms
