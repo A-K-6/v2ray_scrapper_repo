@@ -1,3 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.211:38388#%F0%9F%87%BB%F0%9F%87%B3%20VN%202783ms
-vless://055b280c-d130-402d-91c8-fde274452ad7@kh.bishtaraz33kilo.top:8080?encryption=none&security=none&type=ws&path=%2Ftest#%F0%9F%87%BA%F0%9F%87%B3%20UN%205147ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#%F0%9F%87%AA%F0%9F%87%AA%20EE%207641ms
+vless://rootface-@pwn1337-telegram@::ffff:9872:c066:80?encryption=none&security=none&type=ws&path=%2F%F0%92%89%AD%F0%93%86%A9%40rootface%F0%92%86%9C%F0%92%89%AD+%40pwn_1337+TELEGRAM#%F0%9F%87%A9%F0%9F%87%AA%20DE%205332ms
+vless://007ef8a4-08b6-43b3-a4cd-17b8236bddf2@python.org:80?encryption=none&security=none&type=ws&host=fdsgszd.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%205333ms
