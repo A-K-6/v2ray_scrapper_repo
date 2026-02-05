@@ -1,5 +1,2 @@
-vless://907d141f-28dd-41af-914d-8daed7905a06@rz.leoshop.pw:2086?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20523ms
-vless://6d6f1c65-3102-4955-b872-197bab3b24cb@f3.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=digikala.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202413ms
-vless://6d6f1c65-3102-4955-b872-197bab3b24cb@f2.springpaatogh8.store:2083?encryption=none&security=tls&type=ws&host=chess.sorza.ir&path=%2F%3Fed%3D2560&sni=chess.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%204113ms
-vless://7d2f8db7-5a94-4721-a619-351cd77d2895@panel.vip3server.cam:2983?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%206546ms
-vless://4ee73e0b-0d09-4a06-9619-8a5d0d3d8257@mitivpndozd.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=mitivpndozd.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=mitivpndozd.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206551ms
+vless://6d6f1c65-3102-4955-b872-197bab3b24cb@f3.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=digikala.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202030ms
+vless://4ee73e0b-0d09-4a06-9619-8a5d0d3d8257@mitivpndozd.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=mitivpndozd.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=mitivpndozd.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202622ms
