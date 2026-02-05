@@ -1,6 +1,4 @@
-vless://fca17b97-6868-410f-9179-71979be2cea1@85.133.221.191:1433?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20485ms
-vless://007ef8a4-08b6-43b3-a4cd-17b8236bddf2@application-ads-gateway.gocdn.ir:85?encryption=none&security=none&type=xhttp&host=application-ads-gateway.gocdn.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20691ms
-vless://4ee73e0b-0d09-4a06-9619-8a5d0d3d8257@mitivpndozd.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=mitivpndozd.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=mitivpndozd.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203264ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDQxMzRtcyIsImFkZCI6Im5leHRtaS5oYWpteWFiLmlyIiwicG9ydCI6IjIwNTMiLCJpZCI6Ijk1ODU2MzZhLTU0YmMtNDE5YS05MGExLTc2YzVjNmVjNzRkZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJhcHAuaGFqbXlhYi5pciIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoieWFreHZ0ZmJ5ay5oYWpteWFiLmlyIn0=
-vless://9f582467-6af2-4bdd-848e-93fdd84486ad@156.243.83.167:2087?encryption=none&security=tls&type=ws&host=ce.xo-connection.ir&path=%2Fdarkstrange&sni=ce.xo-connection.ir#%F0%9F%87%B8%F0%9F%87%A8%20SC%204150ms
-vless://49af75d4-31d0-4322-b425-630be07030e1@140.248.171.91:80?encryption=none&security=none&type=ws&host=fdsgszd.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20US%204346ms
+vless://4ee73e0b-0d09-4a06-9619-8a5d0d3d8257@mitivpndozd.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=mitivpndozd.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=mitivpndozd.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203465ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%87%B8%F0%9F%87%AC%20SG%204536ms
+vless://9f582467-6af2-4bdd-848e-93fdd84486ad@156.243.83.167:2087?encryption=none&security=tls&type=ws&host=ce.xo-connection.ir&path=%2Fdarkstrange&sni=ce.xo-connection.ir#%F0%9F%87%B8%F0%9F%87%A8%20SC%205507ms
+vless://49af75d4-31d0-4322-b425-630be07030e1@140.248.171.91:80?encryption=none&security=none&type=ws&host=fdsgszd.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20US%207208ms
