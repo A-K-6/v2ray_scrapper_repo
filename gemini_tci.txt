@@ -1,5 +1,4 @@
-vless://f834e630-df1c-42bc-9454-25de36fd1770@172.64.152.23:2053?encryption=none&security=tls&type=ws&host=ar7.tondteam.ir&path=%2F&sni=ar7.tondteam.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202106ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#%F0%9F%87%B8%F0%9F%87%AC%20SG%202543ms
-vless://9f582467-6af2-4bdd-848e-93fdd84486ad@156.243.83.167:2087?encryption=none&security=tls&type=ws&host=ce.xo-connection.ir&path=%2Fdarkstrange&sni=ce.xo-connection.ir#%F0%9F%87%B8%F0%9F%87%A8%20SC%202662ms
-vless://a9bac46a-2037-4ad1-a192-08c70927f4ad@faqatchai.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=faqatchai.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=faqatchai.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205050ms
-vless://3209ec50-2909-4972-83cb-93349f9d94fd@tmc.langry.ru:443?encryption=none&security=reality&type=tcp&sni=max.ru&flow=xtls-rprx-vision&fp=chrome&pbk=QNeqTtf7YHPKRQmBQuk15pdy5NqgLcmFi8nSUby64GQ&sid=0f4dacf08722a99f#%F0%9F%87%BA%F0%9F%87%B3%20UN%205480ms
+vless://3209ec50-2909-4972-83cb-93349f9d94fd@tmc.langry.ru:443?encryption=none&security=reality&type=tcp&sni=max.ru&flow=xtls-rprx-vision&fp=chrome&pbk=QNeqTtf7YHPKRQmBQuk15pdy5NqgLcmFi8nSUby64GQ&sid=0f4dacf08722a99f#%F0%9F%87%BA%F0%9F%87%B3%20UN%20624ms
+vless://a9bac46a-2037-4ad1-a192-08c70927f4ad@faqatchai.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=faqatchai.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=faqatchai.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205399ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%87%B8%F0%9F%87%AC%20SG%205930ms
+vless://36213657-e751-478b-a5d7-547eef892af9@kirinet.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=kirinet.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=kirinet.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207486ms
