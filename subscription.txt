@@ -1,5 +1,3 @@
-vless://6b05ea27-051b-450b-965b-f6c5da11a1f0@43.173.125.15:44519?encryption=none&security=none&type=tcp&host=speedtest.net#%F0%9F%87%BA%F0%9F%87%B8%20US%205721ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%87%B8%F0%9F%87%AC%20SG%206072ms
-vless://007ef8a4-08b6-43b3-a4cd-17b8236bddf2@python.org:80?encryption=none&security=none&type=ws&host=fdsgszd.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%206860ms
-vless://36213657-e751-478b-a5d7-547eef892af9@kirinet.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=kirinet.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=kirinet.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206877ms
-vless://f834e630-df1c-42bc-9454-25de36fd1770@172.64.152.23:2053?encryption=none&security=tls&type=ws&host=ar7.tondteam.ir&path=%2F&sni=ar7.tondteam.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206955ms
+vless://7068cce9-b0e7-4f9b-aa26-3e91e58d66bf@185.143.233.5:443?encryption=none&security=tls&type=ws&host=anten.ir.takzkjaupnpam.airircdn.com&path=%2F%3Fed%3D443&sni=anten.ir&fp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20IR%20652ms
+vless://e46f7ce1-ec68-4cae-9ed4-d2ab97c6dd1a@85.133.237.216:443?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%203074ms
+vless://007ef8a4-08b6-43b3-a4cd-17b8236bddf2@python.org:80?encryption=none&security=none&type=ws&host=fdsgszd.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%206733ms
