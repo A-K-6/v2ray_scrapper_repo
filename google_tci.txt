@@ -1,1 +1,1 @@
-vless://36213657-e751-478b-a5d7-547eef892af9@kirinet.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=kirinet.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=kirinet.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206168ms
+vless://rootface-@pwn1337-telegram@::ffff:9872:c066:80?encryption=none&security=none&type=ws&path=%2F%F0%92%89%AD%F0%93%86%A9%40rootface%F0%92%86%9C%F0%92%89%AD+%40pwn_1337+TELEGRAM#%F0%9F%87%A9%F0%9F%87%AA%20DE%205332ms
