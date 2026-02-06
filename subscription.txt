@@ -1,2 +1,1 @@
-vless://49af75d4-31d0-4322-b425-630be07030e1@140.248.171.91:80?encryption=none&security=none&type=ws&host=fdsgszd.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20US%202047ms
-vless://4fc97f92-d43e-44c5-8427-1e0ea708ef56@37.202.226.200:703?encryption=none&security=none&type=ws&host=speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20IR%206388ms
+vless://49af75d4-31d0-4322-b425-630be07030e1@140.248.171.91:80?encryption=none&security=none&type=ws&host=fdsgszd.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20US%204405ms
