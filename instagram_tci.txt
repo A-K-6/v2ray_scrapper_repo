@@ -1,3 +1,3 @@
-vless://b3c4cdc3-7999-4e8f-a6a3-0151a64b1f4e@s2.fastspeeds.ir:2083?encryption=none&security=tls&type=ws&path=%2Fws&sni=bsun-ukv1.ip-venzo.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%204329ms
-vless://36213657-e751-478b-a5d7-547eef892af9@dojman.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=dojman.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=dojman.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205115ms
-vless://49af75d4-31d0-4322-b425-630be07030e1@140.248.171.91:80?encryption=none&security=none&type=ws&host=fdsgszd.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20US%206428ms
+vless://dd376e9e-7dae-4b8d-914b-4563bee76803@94.183.150.59:80?encryption=none&security=none&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20AE%201937ms
+vless://36213657-e751-478b-a5d7-547eef892af9@dojman.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=dojman.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=dojman.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205233ms
+vless://b3c4cdc3-7999-4e8f-a6a3-0151a64b1f4e@s2.fastspeeds.ir:2083?encryption=none&security=tls&type=ws&path=%2Fws&sni=bsun-ukv1.ip-venzo.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%206110ms
