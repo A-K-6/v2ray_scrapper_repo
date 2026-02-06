@@ -1,1 +1,1 @@
-vless://36213657-e751-478b-a5d7-547eef892af9@dojman.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=dojman.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=dojman.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205115ms
+vless://dd376e9e-7dae-4b8d-914b-4563bee76803@94.183.150.59:80?encryption=none&security=none&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20AE%201937ms
