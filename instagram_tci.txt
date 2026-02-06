@@ -1,1 +1,1 @@
-vless://51d7e784-d531-4756-a887-cb60b3069aa3@94.183.172.151:4220?encryption=none&security=none&type=ws&host=blog.zanborak-shop.ir&path=%2F#%F0%9F%87%A6%F0%9F%87%AA%20AE%205276ms
+vless://b2bf1a8f-6f12-4ec8-8c1f-9b0dd8dca205@pishj.afti1.sfhre2.lili1.mimkiscx.ir:443?encryption=none&security=tls&type=ws&path=%2F&sni=harro-likeh1.sdcards1.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205800ms
