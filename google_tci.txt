@@ -1,1 +1,1 @@
-vless://b2bf1a8f-6f12-4ec8-8c1f-9b0dd8dca205@pishj.afti1.sfhre2.lili1.mimkiscx.ir:443?encryption=none&security=tls&type=ws&path=%2F&sni=harro-likeh1.sdcards1.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205800ms
+vless://49af75d4-31d0-4322-b425-630be07030e1@140.248.171.91:80?encryption=none&security=none&type=ws&host=fdsgszd.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20US%202047ms
