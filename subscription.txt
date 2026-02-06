@@ -1,3 +1,2 @@
-vless://51d7e784-d531-4756-a887-cb60b3069aa3@94.183.172.151:4220?encryption=none&security=none&type=ws&host=blog.zanborak-shop.ir&path=%2F#%F0%9F%87%A6%F0%9F%87%AA%20AE%202889ms
-vless://49af75d4-31d0-4322-b425-630be07030e1@140.248.171.91:80?encryption=none&security=none&type=ws&host=fdsgszd.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20US%203477ms
-vless://dd376e9e-7dae-4b8d-914b-4563bee76803@94.183.150.59:80?encryption=none&security=none&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20AE%204595ms
+vless://51d7e784-d531-4756-a887-cb60b3069aa3@94.183.172.151:4220?encryption=none&security=none&type=ws&host=blog.zanborak-shop.ir&path=%2F#%F0%9F%87%A6%F0%9F%87%AA%20AE%20910ms
+vless://4ee73e0b-0d09-4a06-9619-8a5d0d3d8257@mitivpndozd.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=mitivpndozd.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=mitivpndozd.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202893ms
