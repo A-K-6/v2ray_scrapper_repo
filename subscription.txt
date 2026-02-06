@@ -1,1 +1,1 @@
-vless://b2bf1a8f-6f12-4ec8-8c1f-9b0dd8dca205@pishj.afti1.sfhre2.lili1.mimkiscx.ir:443?encryption=none&security=tls&type=ws&path=%2F&sni=harro-likeh1.sdcards1.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205800ms
+vless://53a4d2af-649a-41e0-a9df-4e9521461685@c4.s-sub.org:8443?encryption=none&security=tls&type=ws&host=backup.f-sub.cfd&path=%2F&sni=backup.f-sub.cfd&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205709ms
