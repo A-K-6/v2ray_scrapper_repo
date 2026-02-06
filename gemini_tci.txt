@@ -1,1 +1,1 @@
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?encryption=none&security=tls&type=ws&host=www.getasa.ir&path=%2F--Telegram---%40horn_proxy%2F---%40horn_proxy%2F---horn_proxy%2F---%40horn_proxy&sni=www.getasa.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20584ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?encryption=none&security=tls&type=ws&host=www.getasa.ir&path=%2F--Telegram---%40horn_proxy%2F---%40horn_proxy%2F---horn_proxy%2F---%40horn_proxy&sni=www.getasa.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20583ms
