@@ -1,1 +1,1 @@
-vless://dd376e9e-7dae-4b8d-914b-4563bee76803@94.183.150.59:80?encryption=none&security=none&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20AE%202948ms
+vless://dd376e9e-7dae-4b8d-914b-4563bee76803@94.183.150.59:80?encryption=none&security=none&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20AE%204595ms
