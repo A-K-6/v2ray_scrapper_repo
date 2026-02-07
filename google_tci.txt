@@ -1,2 +1,1 @@
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=digikala.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%201062ms
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&type=ws&host=cdn.abcallcenter.com&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&sni=cdn.abcallcenter.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202005ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&type=ws&host=cdn.abcallcenter.com&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&sni=cdn.abcallcenter.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20554ms
