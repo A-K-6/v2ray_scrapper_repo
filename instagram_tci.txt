@@ -1,5 +1,3 @@
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&type=ws&host=cdn.abcallcenter.com&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&sni=cdn.abcallcenter.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20671ms
-vless://dbb8cb8a-875f-411d-b8b8-0cbe57b6fc59@81.12.91.189:27000?encryption=none&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20704ms
-vless://3fd81f4f-9cca-49f7-8db3-e6c63ff1b611@shield.zdshop.ir:2053?encryption=none&security=tls&type=ws&host=itns-2.blackpapers.ir&sni=itns-2.blackpapers.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201483ms
-vless://dbb8cb8a-875f-411d-b8b8-0cbe57b6fc59@81.12.91.189:443?encryption=none&security=reality&type=tcp&sni=git-scm.com&fp=chrome&pbk=U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM&sid=e081d94bd1f9bd56#%F0%9F%87%AE%F0%9F%87%B7%20IR%205523ms
-vless://3fd81f4f-9cca-49f7-8db3-e6c63ff1b611@safe.zdshop.ir:2053?encryption=none&security=tls&type=ws&host=frns-2.certhost.ir&sni=frns-2.certhost.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%205761ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&type=ws&host=cdn.abcallcenter.com&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&sni=cdn.abcallcenter.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201093ms
+vless://dbb8cb8a-875f-411d-b8b8-0cbe57b6fc59@81.12.91.177:443?encryption=none&security=reality&type=tcp&sni=git-scm.com&fp=chrome&pbk=U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM&sid=e081d94bd1f9bd56#%F0%9F%87%AE%F0%9F%87%B7%20IR%206470ms
+vless://dbb8cb8a-875f-411d-b8b8-0cbe57b6fc59@81.12.91.189:27000?encryption=none&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%206720ms
