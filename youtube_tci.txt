@@ -1,4 +1,5 @@
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&type=ws&host=cdn.abcallcenter.com&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&sni=cdn.abcallcenter.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20517ms
-vless://e830796e-5dc0-4786-f64b-c4706682b7a1@5.57.38.168:443?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20711ms
-vless://968186b8-e898-4abf-9588-edd8dcf6b518@dl.fmmusiciran.com:15212?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20714ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDIwMTBtcyIsImFkZCI6Ijo6ZmZmZjphYzQwOjliZDEiLCJwb3J0IjoiNDQzIiwiaWQiOiJmZmVjZTJhOS0wMjk2LTQ2YTktOGRiOC03NDJkMjlkMjQwZmYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYmVkcmlkLmRlbml6aG9zdGluZy5tZSIsInBhdGgiOiJJU3dwWVZSOFNqeFhjVVpFVXpWZk5VUlRVQzhsVjI5RFhTZ3NLSDFTTjBnMUpWcERIVTFjV2lnS0FDOFFSbHRNQ2k4NkFCdzRKVjE0SFZNbiIsInRscyI6InRscyIsInNuaSI6ImJlZHJpZC5kZW5pemhvc3RpbmcubWUifQ==
+vless://ec13f88b-4aff-4016-8650-7bca53d756b6@81.12.80.5:2020?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20448ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&type=ws&host=cdn.abcallcenter.com&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&sni=cdn.abcallcenter.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20546ms
+vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?encryption=none&security=none&type=ws&host=dayous.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20US%205144ms
+vless://968186b8-e898-4abf-9588-edd8dcf6b518@dl.fmmusiciran.com:15212?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%205821ms
+vless://e830796e-5dc0-4786-f64b-c4706682b7a1@5.57.38.168:443?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%206531ms
