@@ -1,10 +1,7 @@
-vless://bc1db777-6209-4bac-a31f-380b152b5cf7@91.107.251.197:678?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20359ms
-vless://dbb8cb8a-875f-411d-b8b8-0cbe57b6fc59@5.160.128.235:27000?encryption=none&security=none&type=ws&host=speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20IR%20688ms
-vless://b2ca47b5-d8c1-4303-b2db-701f2ab2db00@support-for-teachers.ir.new19server.ir:80?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%201002ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDEzMzZtcyIsImFkZCI6Ijo6ZmZmZjphYzQwOjliZDEiLCJwb3J0IjoiNDQzIiwiaWQiOiJmZmVjZTJhOS0wMjk2LTQ2YTktOGRiOC03NDJkMjlkMjQwZmYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYmVkcmlkLmRlbml6aG9zdGluZy5tZSIsInBhdGgiOiJJU3dwWVZSOFNqeFhjVVpFVXpWZk5VUlRVQzhsVjI5RFhTZ3NLSDFTTjBnMUpWcERIVTFjV2lnS0FDOFFSbHRNQ2k4NkFCdzRKVjE0SFZNbiIsInRscyI6InRscyIsInNuaSI6ImJlZHJpZC5kZW5pemhvc3RpbmcubWUifQ==
-vless://f91d249e-90e2-1625-9211-180e4d18f948@srv-f0.netmaster.cam:8443?encryption=none&security=none&type=ws&path=%2F&sni=1#%F0%9F%87%BA%F0%9F%87%B3%20UN%201521ms
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&type=ws&host=cdn.abcallcenter.com&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&sni=cdn.abcallcenter.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201610ms
-vless://f91d249e-90e2-1625-9211-180e4d18f948@srv-f0.netmaster.cam:8443?encryption=none&security=none&type=ws&sni=1#%F0%9F%87%BA%F0%9F%87%B3%20UN%204099ms
-vless://dbb8cb8a-875f-411d-b8b8-0cbe57b6fc59@81.12.91.177:443?encryption=none&security=reality&type=tcp&sni=git-scm.com&fp=chrome&pbk=U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM&sid=e081d94bd1f9bd56#%F0%9F%87%AE%F0%9F%87%B7%20IR%204196ms
-vless://c211a0b7-6e2f-444d-9f82-07bf1b22038c@nzr.parogamers.com:2086?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%205394ms
-vless://e830796e-5dc0-4786-f64b-c4706682b7a1@5.57.38.168:443?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%206223ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&type=ws&host=cdn.abcallcenter.com&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&sni=cdn.abcallcenter.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20517ms
+vless://e830796e-5dc0-4786-f64b-c4706682b7a1@5.57.38.168:443?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20711ms
+vless://968186b8-e898-4abf-9588-edd8dcf6b518@dl.fmmusiciran.com:15212?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20714ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDIwMTBtcyIsImFkZCI6Ijo6ZmZmZjphYzQwOjliZDEiLCJwb3J0IjoiNDQzIiwiaWQiOiJmZmVjZTJhOS0wMjk2LTQ2YTktOGRiOC03NDJkMjlkMjQwZmYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYmVkcmlkLmRlbml6aG9zdGluZy5tZSIsInBhdGgiOiJJU3dwWVZSOFNqeFhjVVpFVXpWZk5VUlRVQzhsVjI5RFhTZ3NLSDFTTjBnMUpWcERIVTFjV2lnS0FDOFFSbHRNQ2k4NkFCdzRKVjE0SFZNbiIsInRscyI6InRscyIsInNuaSI6ImJlZHJpZC5kZW5pemhvc3RpbmcubWUifQ==
+vless://bc1db777-6209-4bac-a31f-380b152b5cf7@91.107.251.197:678?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%202770ms
+vless://dbb8cb8a-875f-411d-b8b8-0cbe57b6fc59@5.160.128.235:27000?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%203707ms
+vless://a7a76aa4-ba1b-4041-84c7-eabae15cbd8b@fm.parogamers.com:2086?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%206087ms
