@@ -1,3 +1,2 @@
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&type=ws&host=cdn.abcallcenter.com&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&sni=cdn.abcallcenter.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201360ms
-vless://dbb8cb8a-875f-411d-b8b8-0cbe57b6fc59@5.160.128.235:27000?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%202618ms
-vless://dbb8cb8a-875f-411d-b8b8-0cbe57b6fc59@5.160.128.235:27000?encryption=none&security=none&type=ws&host=speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20IR%206650ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&type=ws&host=cdn.abcallcenter.com&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&sni=cdn.abcallcenter.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20549ms
+vless://dbb8cb8a-875f-411d-b8b8-0cbe57b6fc59@5.160.128.235:27000?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%206624ms
