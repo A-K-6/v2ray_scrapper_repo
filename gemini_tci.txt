@@ -1,2 +1,1 @@
-vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?encryption=none&security=none&type=ws&host=dayous.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20US%202044ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDc2NjFtcyIsImFkZCI6ImhhcnBlci5zdWItaW5mby5jb20iLCJwb3J0IjoiMzMwMjAiLCJpZCI6Ijc2YTgzN2ZhLWE5MGYtNGFlZS05MDI1LWJjOGQ5ZDI5NDNjNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6Im5vbmUifQ==
+vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?encryption=none&security=none&type=ws&host=dayous.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20US%20814ms
