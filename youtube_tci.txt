@@ -1,4 +1,2 @@
-vless://3fd81f4f-9cca-49f7-8db3-e6c63ff1b611@safe.zdshop.ir:2053?encryption=none&security=tls&type=ws&host=frns-2.certhost.ir&sni=frns-2.certhost.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%20802ms
-vless://3fd81f4f-9cca-49f7-8db3-e6c63ff1b611@base.zdshop.ir:2086?encryption=none&security=none&type=ws&host=new-enns.kiwijuice.ir&path=%2F%3Fed%3D2086#%F0%9F%87%BA%F0%9F%87%B3%20UN%205565ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%206081ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=digikala.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%206165ms
+vless://3fd81f4f-9cca-49f7-8db3-e6c63ff1b611@safe.zdshop.ir:2053?encryption=none&security=tls&type=ws&host=frns-2.certhost.ir&sni=frns-2.certhost.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%20758ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%205779ms
