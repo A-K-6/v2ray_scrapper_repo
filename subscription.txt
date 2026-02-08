@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#%F0%9F%87%AA%F0%9F%87%AA%20EE%203234ms
+vless://5003ee68-7646-45b1-ada9-27afa4e99fd4@in-yeki-vase-mahsa.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=in-yeki-vase-mahsa.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=in-yeki-vase-mahsa.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201591ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=digikala.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%206400ms
