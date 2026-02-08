@@ -1,2 +1,1 @@
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%203139ms
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#%F0%9F%87%AA%F0%9F%87%AA%20EE%205385ms
+vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20DE%201476ms
