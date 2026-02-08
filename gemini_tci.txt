@@ -1,1 +1,3 @@
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=digikala.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%205165ms
+vless://ef26fe1e-abb0-4b37-b45b-d999a91ebc46@m3.fastspeeds.ir:2053?encryption=none&security=tls&type=ws&path=%2Fws&sni=aslan-nl.ip-venzo.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201192ms
+vless://0dea4966-6342-47f4-91fd-fac9334708a1@html.jujina.shop:45635?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%205696ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=digikala.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%206238ms
