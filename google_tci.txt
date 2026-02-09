@@ -1,2 +1,3 @@
-vless://9f846e5c-56f9-4670-8be2-5b00d2a107c0@192.200.160.228:2083?encryption=none&security=tls&type=ws&host=de.elterido.ir&path=%2Fapi03&sni=de.elterido.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%201441ms
-vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?encryption=none&security=none&type=ws&host=blog.zanborak-shop.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%205884ms
+vless://9f846e5c-56f9-4670-8be2-5b00d2a107c0@192.200.160.228:2083?encryption=none&security=tls&type=ws&host=de.elterido.ir&path=%2Fapi03&sni=de.elterido.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20669ms
+vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?encryption=none&security=none&type=ws&host=blog.zanborak-shop.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%205904ms
+vless://6c1bdaca-62d1-4ff8-8367-c1ab5451d75d@ravezh.v2moz.sbs:24807?encryption=none&security=none&type=xhttp#%F0%9F%87%BA%F0%9F%87%B3%20UN%206279ms
