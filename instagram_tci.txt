@@ -1,4 +1,5 @@
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&type=ws&host=web.abcallcenter.com&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Fed%3D2560&sni=web.abcallcenter.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201577ms
-vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@188.0.247.19:1050?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%204964ms
-vless://6324d103-f5a4-4e27-a1f2-4fe9cb0ab5bf@poli.appleseraj.ir:8443?encryption=none&security=tls&type=ws&host=franyr.appleseraj.ir&path=%2F%3Fed%3D2048&sni=franyr.appleseraj.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206117ms
-vless://09ed1d20-f13a-41f4-c4a5-04c01de8b6fb@87.107.12.232:29491?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%207382ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&type=ws&host=web.abcallcenter.com&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Fed%3D2560&sni=web.abcallcenter.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20472ms
+vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@188.0.247.19:1050?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20861ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203043ms
+vless://885d8e08-49f5-4b8f-b9cd-63d743f1c54d@v2tr.imesaagetext.ir:2081?encryption=none&security=tls&type=tcp&sni=client.imesaagetext.ir&fp=random#%F0%9F%87%BA%F0%9F%87%B3%20UN%203975ms
+vless://510185cc-26ec-4b6d-aca0-1d04eced9414@pool-nemikham-kiri.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&host=pool-nemikham-kiri.global.ssl.fastly.net&path=%2Fcontainers%2Ffi&sni=pool-nemikham-kiri.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207900ms
