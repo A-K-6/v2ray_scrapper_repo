@@ -1,1 +1,1 @@
-vless://09ed1d20-f13a-41f4-c4a5-04c01de8b6fb@87.107.12.232:29491?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%206537ms
+vless://09ed1d20-f13a-41f4-c4a5-04c01de8b6fb@87.107.12.232:29491?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%206788ms
