@@ -1,3 +1,1 @@
-vless://7d4d9b64-a44e-4b5c-9343-7081586929ad@78.157.32.99:18044?encryption=none&security=none&type=ws&host=758CW.divarcdn.com%2Cqcmfr.snappfood.ir%2CnArdn.yjc.ir%2CHxnxT.digikala.com%2CbuEa2.tic.ir&path=%2FALMAS1#%F0%9F%87%AE%F0%9F%87%B7%20IR%20573ms
-vless://93741b49-1a11-4882-b02f-10fb78bf0d22@usa69.openbypass.org:443?encryption=none&security=tls&type=tcp&sni=usa69.openbypass.org&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B3%20UN%204552ms
-vless://09ed1d20-f13a-41f4-c4a5-04c01de8b6fb@87.107.12.232:29491?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%206537ms
+vless://09ed1d20-f13a-41f4-c4a5-04c01de8b6fb@87.107.12.232:29491?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%206788ms
