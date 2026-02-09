@@ -1,1 +1,1 @@
-vless://93741b49-1a11-4882-b02f-10fb78bf0d22@usa69.openbypass.org:443?encryption=none&security=tls&type=tcp&sni=usa69.openbypass.org&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B3%20UN%207031ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43661#%F0%9F%87%B0%F0%9F%87%BF%20KZ%203799ms
