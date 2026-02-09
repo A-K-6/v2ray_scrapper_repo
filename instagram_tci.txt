@@ -1,1 +1,2 @@
-vless://93741b49-1a11-4882-b02f-10fb78bf0d22@usa69.openbypass.org:443?encryption=none&security=tls&type=tcp&sni=usa69.openbypass.org&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B3%20UN%207031ms
+vless://885d8e08-49f5-4b8f-b9cd-63d743f1c54d@v2tr.imesaagetext.ir:2081?encryption=none&security=tls&type=tcp&sni=client.imesaagetext.ir&fp=random#%F0%9F%87%BA%F0%9F%87%B3%20UN%204041ms
+vless://09ed1d20-f13a-41f4-c4a5-04c01de8b6fb@87.107.12.232:29491?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%206504ms
