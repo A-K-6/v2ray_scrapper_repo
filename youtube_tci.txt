@@ -1,2 +1,1 @@
-vless://7d4d9b64-a44e-4b5c-9343-7081586929ad@78.157.32.99:18044?encryption=none&security=none&type=ws&host=758CW.divarcdn.com%2Cqcmfr.snappfood.ir%2CnArdn.yjc.ir%2CHxnxT.digikala.com%2CbuEa2.tic.ir&path=%2FALMAS1#%F0%9F%87%AE%F0%9F%87%B7%20IR%206256ms
-vless://7d4d9b64-a44e-4b5c-9343-7081586929ad@almas1a.alireza031.shop:18044?encryption=none&security=none&type=ws&host=758CW.divarcdn.com%2Cqcmfr.snappfood.ir%2CnArdn.yjc.ir%2CHxnxT.digikala.com%2CbuEa2.tic.ir&path=%2FALMAS1#%F0%9F%87%BA%F0%9F%87%B3%20UN%206268ms
+vless://7d4d9b64-a44e-4b5c-9343-7081586929ad@almas1a.alireza031.shop:18044?encryption=none&security=none&type=ws&host=758CW.divarcdn.com%2Cqcmfr.snappfood.ir%2CnArdn.yjc.ir%2CHxnxT.digikala.com%2CbuEa2.tic.ir&path=%2FALMAS1#%F0%9F%87%BA%F0%9F%87%B3%20UN%201674ms
