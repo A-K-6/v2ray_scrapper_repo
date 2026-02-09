@@ -1,4 +1,1 @@
-vless://7d4d9b64-a44e-4b5c-9343-7081586929ad@78.157.32.99:18044?encryption=none&security=none&type=ws&host=758CW.divarcdn.com%2Cqcmfr.snappfood.ir%2CnArdn.yjc.ir%2CHxnxT.digikala.com%2CbuEa2.tic.ir&path=%2FALMAS1#%F0%9F%87%AE%F0%9F%87%B7%20IR%201065ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206110ms
-vless://7d4d9b64-a44e-4b5c-9343-7081586929ad@almas1a.alireza031.shop:18044?encryption=none&security=none&type=ws&host=758CW.divarcdn.com%2Cqcmfr.snappfood.ir%2CnArdn.yjc.ir%2CHxnxT.digikala.com%2CbuEa2.tic.ir&path=%2FALMAS1#%F0%9F%87%BA%F0%9F%87%B3%20UN%206985ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%207243ms
+vless://09ed1d20-f13a-41f4-c4a5-04c01de8b6fb@87.107.12.232:29491?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%206504ms
