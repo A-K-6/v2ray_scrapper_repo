@@ -1,2 +1,6 @@
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDQyNjdtcyIsImFkZCI6IjIxNy42MC4yNDcuMTA4IiwicG9ydCI6IjgwODAiLCJpZCI6IjRhYjBlNDk2LTNlZjUtNDNmZC05ODg2LTEyNDM0NTQxZmE0MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
-vless://09ed1d20-f13a-41f4-c4a5-04c01de8b6fb@87.107.12.232:29491?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%204368ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&type=ws&host=web.abcallcenter.com&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Fed%3D2560&sni=web.abcallcenter.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20561ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDM3NzJtcyIsImFkZCI6IjIxNy42MC4yNDcuMTA4IiwicG9ydCI6IjgwODAiLCJpZCI6IjRhYjBlNDk2LTNlZjUtNDNmZC05ODg2LTEyNDM0NTQxZmE0MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
+vless://09ed1d20-f13a-41f4-c4a5-04c01de8b6fb@87.107.12.232:29491?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%204757ms
+vless://9f0d6a8a-4a41-4295-8fa4-32957ccc59fa@georgewashington.elterido.ir:2083?encryption=none&security=tls&type=ws&host=de.elterido.ir&path=%2Fapi03&sni=de.elterido.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205657ms
+vless://6c1bdaca-62d1-4ff8-8367-c1ab5451d75d@ravezh.v2moz.sbs:24807?encryption=none&security=none&type=xhttp#%F0%9F%87%BA%F0%9F%87%B3%20UN%205936ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%206310ms
