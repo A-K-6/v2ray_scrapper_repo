@@ -1,3 +1,7 @@
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&type=ws&host=ns.2.iranpoems.ir&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&sni=ns.2.iranpoems.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20659ms
-vless://1332320d-7153-4bb1-9e87-6a57c661a576@u.takspeed.shop:2086?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%201393ms
-vless://a9db840e-9568-42d6-aa71-c93a9ef16f81@fr.sv9.ir:6244?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%206058ms
+vless://c4b3fb2b-6ea0-4825-82d0-e315a0898f46@172.67.213.180:443?encryption=none&security=tls&type=ws&host=dec.ketabv.ir&path=%2Fsy5RZsmo3iYVIROnda&sni=dec.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20613ms
+vless://c4b3fb2b-6ea0-4825-82d0-e315a0898f46@104.17.147.22:443?encryption=none&security=tls&type=ws&host=dec.ketabv.ir&path=%2Fsy5RZsmo3iYVIROnda&sni=dec.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20633ms
+vless://c4b3fb2b-6ea0-4825-82d0-e315a0898f46@188.114.96.6:443?encryption=none&security=tls&type=ws&host=dec.ketabv.ir&path=%2Fsy5RZsmo3iYVIROnda&sni=dec.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20651ms
+vless://a9db840e-9568-42d6-aa71-c93a9ef16f81@fr.sv9.ir:6244?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20963ms
+vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?encryption=none&security=reality&type=tcp&sni=tgju.org&fp=chrome&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&sid=3543d68a#%F0%9F%87%AC%F0%9F%87%A7%20GB%202748ms
+vless://c4b3fb2b-6ea0-4825-82d0-e315a0898f46@172.64.155.209:443?encryption=none&security=tls&type=ws&host=dec.ketabv.ir&path=%2Fsy5RZsmo3iYVIROnda&sni=dec.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203124ms
+vless://e8fcec10-0d40-4bb0-a4b1-16ca068200eb@109.176.229.82:8443?encryption=none&security=reality&type=tcp&sni=tgju.org&fp=chrome&pbk=b09Fo3fe76YOhZvdkUa70UKZj82OhXGYYGSsPZLIWC0&sid=2d661fac9d1e#%F0%9F%87%AC%F0%9F%87%A7%20GB%203918ms
