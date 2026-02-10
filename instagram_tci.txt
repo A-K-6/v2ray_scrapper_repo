@@ -1,8 +1,5 @@
-vless://c4b3fb2b-6ea0-4825-82d0-e315a0898f46@188.114.96.6:443?encryption=none&security=tls&type=ws&host=dec.ketabv.ir&path=%2Fsy5RZsmo3iYVIROnda&sni=dec.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20666ms
-vless://c4b3fb2b-6ea0-4825-82d0-e315a0898f46@104.17.147.22:443?encryption=none&security=tls&type=ws&host=dec.ketabv.ir&path=%2Fsy5RZsmo3iYVIROnda&sni=dec.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20739ms
-vless://c4b3fb2b-6ea0-4825-82d0-e315a0898f46@172.67.213.180:443?encryption=none&security=tls&type=ws&host=dec.ketabv.ir&path=%2Fsy5RZsmo3iYVIROnda&sni=dec.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20755ms
-vless://a9db840e-9568-42d6-aa71-c93a9ef16f81@fr.sv9.ir:6244?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20844ms
-vless://b52370db-a4af-43e3-9e4c-a7e7115fcecb@104.17.147.22:443?encryption=none&security=tls&type=ws&host=fic.ketabv.ir&path=%2Fs55dLF15ddokB1leJ&sni=fic.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201035ms
-vless://b52370db-a4af-43e3-9e4c-a7e7115fcecb@188.114.96.6:443?encryption=none&security=tls&type=ws&host=fic.ketabv.ir&path=%2Fs55dLF15ddokB1leJ&sni=fic.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201606ms
-vless://b52370db-a4af-43e3-9e4c-a7e7115fcecb@172.67.213.180:443?encryption=none&security=tls&type=ws&host=fic.ketabv.ir&path=%2Fs55dLF15ddokB1leJ&sni=fic.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201629ms
-vless://1e94155e-197c-443e-82e1-381eac475913@h3.fastspeeds.ir:2053?encryption=none&security=tls&type=ws&path=%2Fws&sni=aslan-nuis.ip-venzo.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%207254ms
+vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?encryption=none&security=reality&type=tcp&sni=tgju.org&fp=chrome&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&sid=3543d68a#%F0%9F%87%AC%F0%9F%87%A7%20GB%20519ms
+vless://c4b3fb2b-6ea0-4825-82d0-e315a0898f46@172.67.213.180:443?encryption=none&security=tls&type=ws&host=dec.ketabv.ir&path=%2Fsy5RZsmo3iYVIROnda&sni=dec.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20584ms
+vless://c4b3fb2b-6ea0-4825-82d0-e315a0898f46@104.17.147.22:443?encryption=none&security=tls&type=ws&host=dec.ketabv.ir&path=%2Fsy5RZsmo3iYVIROnda&sni=dec.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20718ms
+vless://c4b3fb2b-6ea0-4825-82d0-e315a0898f46@188.114.96.6:443?encryption=none&security=tls&type=ws&host=dec.ketabv.ir&path=%2Fsy5RZsmo3iYVIROnda&sni=dec.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20750ms
+vless://a9db840e-9568-42d6-aa71-c93a9ef16f81@fr.sv9.ir:6244?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%201005ms
