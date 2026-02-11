@@ -1,5 +1,5 @@
-vless://e9b6ec3e-9e8c-43a0-9049-566b5b179b71@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20535ms
-vless://dd4e04e7-e442-400a-b637-954212a4286f@178.239.144.197:27794?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%203318ms
-vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?encryption=none&security=none&type=ws&host=blog.zanborak-shop.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%204125ms
-vless://f247d478-95e2-4b62-bc42-639907c7bc8a@85.133.197.218:2526?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%205719ms
-vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.68.94.66:19592?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%207411ms
+vless://ef874d9b-a399-4b25-bdd9-a1b3fea3e5d2@104.18.166.203:443?encryption=none&security=tls&type=ws&host=hs-4dfc2225.ndkwiut2718.ir&path=%2Fpa&sni=ndkwiut2718.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20924ms
+vless://71ddbf2e-7bef-447a-9305-611411112a39@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201914ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205379ms
+vless://e9b6ec3e-9e8c-43a0-9049-566b5b179b71@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%205416ms
+vless://6c1bdaca-62d1-4ff8-8367-c1ab5451d75d@ravezh.v2moz.sbs:24807?encryption=none&security=none&type=xhttp#%F0%9F%87%BA%F0%9F%87%B3%20UN%205720ms
