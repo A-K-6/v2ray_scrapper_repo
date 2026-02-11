@@ -1,4 +1,4 @@
-vless://713e0e8a-884d-42d2-8649-fdba1e1f669a@104.18.32.47:443?encryption=none&security=tls&type=ws&host=nl.prvprt.com&path=%2Fprv&sni=nl.prvprt.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202141ms
-vless://e9b6ec3e-9e8c-43a0-9049-566b5b179b71@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%204962ms
-vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&type=ws&path=%2F&sni=master.red-cow.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205846ms
-vless://c805b05e-339d-40e0-8787-432d97a27345@m3.fastspeeds.ir:2053?encryption=none&security=tls&type=ws&path=%2F&sni=arvan-de1.ip-venzo.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%205927ms
+vless://ef874d9b-a399-4b25-bdd9-a1b3fea3e5d2@104.18.166.203:443?encryption=none&security=tls&type=ws&host=hs-4dfc2225.ndkwiut2718.ir&path=%2Fpa&sni=ndkwiut2718.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201883ms
+vless://71ddbf2e-7bef-447a-9305-611411112a39@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%205146ms
+vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&type=ws&path=%2F&sni=master.red-cow.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205826ms
+vless://c805b05e-339d-40e0-8787-432d97a27345@m3.fastspeeds.ir:2053?encryption=none&security=tls&type=ws&path=%2F&sni=arvan-de1.ip-venzo.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%205900ms
