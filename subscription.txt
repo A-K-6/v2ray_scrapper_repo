@@ -1,6 +1,4 @@
-vless://71ddbf2e-7bef-447a-9305-611411112a39@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20388ms
-vless://ef874d9b-a399-4b25-bdd9-a1b3fea3e5d2@104.18.166.203:443?encryption=none&security=tls&type=ws&host=hs-4dfc2225.ndkwiut2718.ir&path=%2Fpa&sni=ndkwiut2718.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201101ms
-vless://713e0e8a-884d-42d2-8649-fdba1e1f669a@104.18.32.47:443?encryption=none&security=tls&type=ws&host=nl.prvprt.com&path=%2Fprv&sni=nl.prvprt.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201972ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%204559ms
-vless://c805b05e-339d-40e0-8787-432d97a27345@m3.fastspeeds.ir:2053?encryption=none&security=tls&type=ws&path=%2F&sni=arvan-de1.ip-venzo.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%205985ms
-vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&type=ws&path=%2F&sni=master.red-cow.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206198ms
+vless://71ddbf2e-7bef-447a-9305-611411112a39@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20730ms
+vless://713e0e8a-884d-42d2-8649-fdba1e1f669a@104.18.32.47:443?encryption=none&security=tls&type=ws&host=nl.prvprt.com&path=%2Fprv&sni=nl.prvprt.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202060ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203680ms
+vless://c805b05e-339d-40e0-8787-432d97a27345@m3.fastspeeds.ir:2053?encryption=none&security=tls&type=ws&path=%2F&sni=arvan-de1.ip-venzo.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%205915ms
