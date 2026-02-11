@@ -1,1 +1,1 @@
-vless://c805b05e-339d-40e0-8787-432d97a27345@m3.fastspeeds.ir:2053?encryption=none&security=tls&type=ws&path=%2F&sni=arvan-de1.ip-venzo.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%205915ms
+vless://c805b05e-339d-40e0-8787-432d97a27345@m3.fastspeeds.ir:2053?encryption=none&security=tls&type=ws&path=%2F&sni=arvan-de1.ip-venzo.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%207240ms
