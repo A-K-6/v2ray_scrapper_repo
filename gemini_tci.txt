@@ -1,1 +1,1 @@
-vless://713e0e8a-884d-42d2-8649-fdba1e1f669a@104.18.32.47:443?encryption=none&security=tls&type=ws&host=nl.prvprt.com&path=%2Fprv&sni=nl.prvprt.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201930ms
+vless://713e0e8a-884d-42d2-8649-fdba1e1f669a@104.18.32.47:443?encryption=none&security=tls&type=ws&host=nl.prvprt.com&path=%2Fprv&sni=nl.prvprt.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201324ms
