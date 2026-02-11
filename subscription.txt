@@ -1,8 +1,4 @@
-vless://af01651f-0058-492f-a614-7f9c316a0551@77.110.118.9:57463?encryption=none&security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20341ms
-vless://71ddbf2e-7bef-447a-9305-611411112a39@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201550ms
-vless://713e0e8a-884d-42d2-8649-fdba1e1f669a@104.18.32.47:443?encryption=none&security=tls&type=ws&host=nl.prvprt.com&path=%2Fprv&sni=nl.prvprt.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202055ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203855ms
-vless://e9b6ec3e-9e8c-43a0-9049-566b5b179b71@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%204525ms
-vless://41ccd500-43f8-457f-9bd9-de5273a103e8@1357900.xyz:8880?encryption=none&security=none&type=ws&host=52yunwang.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B3%20UN%205065ms
-vless://rootface-hacker@38.244.26.120:80?encryption=none&security=none&type=ws&path=%2F%2F%F0%92%89%AD%F0%93%86%A9%40rootface%F0%92%86%9C%F0%92%89%AD+%40pwn_1337+TELEGRAM#%F0%9F%87%BA%F0%9F%87%B8%20US%206699ms
-vless://7423956a-eed9-4977-81e9-6b3d4b29802c@safest.silentbreath.ir:2083?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%206942ms
+vless://713e0e8a-884d-42d2-8649-fdba1e1f669a@104.18.32.47:443?encryption=none&security=tls&type=ws&host=nl.prvprt.com&path=%2Fprv&sni=nl.prvprt.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201576ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202430ms
+vless://71ddbf2e-7bef-447a-9305-611411112a39@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%203323ms
+vless://7423956a-eed9-4977-81e9-6b3d4b29802c@safest.silentbreath.ir:2083?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%205588ms
