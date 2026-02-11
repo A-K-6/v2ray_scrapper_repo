@@ -1,3 +1,3 @@
-vless://71ddbf2e-7bef-447a-9305-611411112a39@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20672ms
-vless://ef874d9b-a399-4b25-bdd9-a1b3fea3e5d2@104.18.166.203:443?encryption=none&security=tls&type=ws&host=hs-4dfc2225.ndkwiut2718.ir&path=%2Fpa&sni=ndkwiut2718.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201429ms
-vless://713e0e8a-884d-42d2-8649-fdba1e1f669a@104.18.32.47:443?encryption=none&security=tls&type=ws&host=nl.prvprt.com&path=%2Fprv&sni=nl.prvprt.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201984ms
+vless://e8fcec10-0d40-4bb0-a4b1-16ca068200eb@109.176.229.82:8443?encryption=none&security=reality&type=tcp&sni=tgju.org&fp=chrome&pbk=b09Fo3fe76YOhZvdkUa70UKZj82OhXGYYGSsPZLIWC0&sid=2d661fac9d1e#%F0%9F%87%AC%F0%9F%87%A7%20GB%20524ms
+vless://71ddbf2e-7bef-447a-9305-611411112a39@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20736ms
+vless://e9b6ec3e-9e8c-43a0-9049-566b5b179b71@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202029ms
