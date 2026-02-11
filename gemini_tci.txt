@@ -1,1 +1,5 @@
-vless://c805b05e-339d-40e0-8787-432d97a27345@m3.fastspeeds.ir:2053?encryption=none&security=tls&type=ws&path=%2F&sni=arvan-de1.ip-venzo.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%207240ms
+vless://c805b05e-339d-40e0-8787-432d97a27345@m3.fastspeeds.ir:2053?encryption=none&security=tls&type=ws&path=%2F&sni=arvan-de1.ip-venzo.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%205915ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDYzNzNtcyIsImFkZCI6ImhiLnNlYWNsb3VkbWFjaGluZXJ5LmNvbSIsInBvcnQiOiIyMDg2IiwiaWQiOiJyb290ZmFjZVx1ZDgzZFx1ZGM4MCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdGVsZWdyYW0gaWQgQHJvb3RmYWNlIiwidGxzIjoidGxzIiwic25pIjoiaGIuc2VhY2xvdWRtYWNoaW5lcnkuY29tIn0=
+vless://0f7794ff-c024-4968-a6c7-6e44c7d188c7@hallllbadi.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&path=site&sni=hallllbadi.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206536ms
+vless://0f7794ff-c024-4968-a6c7-6e44c7d188c7@hallllbadi.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&path=%2Fsite&sni=hallllbadi.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207038ms
+vless://0f7794ff-c024-4968-a6c7-6e44c7d188c7@dariush-kharabkar.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&path=site&sni=dariush-kharabkar.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207136ms
