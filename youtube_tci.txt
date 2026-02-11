@@ -1,1 +1,2 @@
-vless://e9b6ec3e-9e8c-43a0-9049-566b5b179b71@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202022ms
+vless://713e0e8a-884d-42d2-8649-fdba1e1f669a@104.18.32.47:443?encryption=none&security=tls&type=ws&host=nl.prvprt.com&path=%2Fprv&sni=nl.prvprt.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202342ms
+vless://71ddbf2e-7bef-447a-9305-611411112a39@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%203883ms
