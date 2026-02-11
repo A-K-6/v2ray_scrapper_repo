@@ -1,3 +1,2 @@
-vless://71ddbf2e-7bef-447a-9305-611411112a39@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20388ms
-vless://c805b05e-339d-40e0-8787-432d97a27345@m3.fastspeeds.ir:2053?encryption=none&security=tls&type=ws&path=%2F&sni=arvan-de1.ip-venzo.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%205985ms
-vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&type=ws&path=%2F&sni=master.red-cow.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206198ms
+vless://71ddbf2e-7bef-447a-9305-611411112a39@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20730ms
+vless://c805b05e-339d-40e0-8787-432d97a27345@m3.fastspeeds.ir:2053?encryption=none&security=tls&type=ws&path=%2F&sni=arvan-de1.ip-venzo.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%205915ms
