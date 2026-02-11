@@ -1,4 +1,2 @@
-vless://ffba891f-1e57-4f5f-9325-340e8cc3204c@78.157.42.130:25085?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%202133ms
-vless://ffba891f-1e57-4f5f-9325-340e8cc3204c@78.157.42.130:25085?encryption=none&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%203984ms
-vless://115af4cb-e1c2-42b2-b392-4c1c06a7d433@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%204676ms
-vless://e9b6ec3e-9e8c-43a0-9049-566b5b179b71@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%205319ms
+vless://ffba891f-1e57-4f5f-9325-340e8cc3204c@78.157.42.130:25085?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%20393ms
+vless://ffba891f-1e57-4f5f-9325-340e8cc3204c@78.157.42.130:25085?encryption=none&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%201720ms
