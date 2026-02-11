@@ -1,3 +1,5 @@
-vless://71ddbf2e-7bef-447a-9305-611411112a39@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20672ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%204628ms
-vless://e9b6ec3e-9e8c-43a0-9049-566b5b179b71@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%206578ms
+vless://71ddbf2e-7bef-447a-9305-611411112a39@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20736ms
+vless://e9b6ec3e-9e8c-43a0-9049-566b5b179b71@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202029ms
+vless://6b834683-242d-416e-b61b-2a002d492055@185.143.233.5:443?encryption=none&security=tls&type=ws&host=anten.ir.wnticacenise1.irmahanmap.com&path=%2F%3Fed%3D443&sni=anten.ir&fp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20IR%202456ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202574ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%204236ms
