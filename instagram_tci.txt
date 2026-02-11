@@ -1,4 +1,3 @@
-vless://e31033ad-7d9f-4d54-aeab-aed0d41fc4e6@www.speedtest.net:2087?encryption=none&security=tls&type=ws&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast-v2ngfast.gnayun.workers.dev&path=%2FeyJqdW5rIjoiMXhRQmR2ZmZZQiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&sni=V2nGfaSt-v2NGFaSt-v2ngFasT-V2NgfAsT-v2ngFasT.gNAyUn.woRKerS.dEV&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20627ms
-vless://ffba891f-1e57-4f5f-9325-340e8cc3204c@78.157.42.130:25085?encryption=none&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%202596ms
-vless://115af4cb-e1c2-42b2-b392-4c1c06a7d433@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%204569ms
-vless://ffba891f-1e57-4f5f-9325-340e8cc3204c@78.157.42.130:25085?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%204758ms
+vless://ffba891f-1e57-4f5f-9325-340e8cc3204c@78.157.42.130:25085?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%202133ms
+vless://ffba891f-1e57-4f5f-9325-340e8cc3204c@78.157.42.130:25085?encryption=none&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%203984ms
+vless://115af4cb-e1c2-42b2-b392-4c1c06a7d433@188.0.247.176:56327?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%204676ms
