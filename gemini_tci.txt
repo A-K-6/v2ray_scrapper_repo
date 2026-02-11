@@ -1,1 +1,2 @@
-vless://6b834683-242d-416e-b61b-2a002d492055@185.143.233.5:443?encryption=none&security=tls&type=ws&host=anten.ir.wnticacenise1.irmahanmap.com&path=%2F%3Fed%3D443&sni=anten.ir&fp=chrome#%F0%9F%87%AE%F0%9F%87%B7%20IR%20643ms
+vless://2130291f-50e9-43d4-d415-c85b34134d4f@193.242.125.18:80?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202640ms
+vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.68.94.66:19592?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%207411ms
