@@ -1,3 +1,5 @@
-vless://1f70e732-e72d-4535-b494-a595d4df4b0b@45.130.125.160:8443?encryption=none&security=tls&type=ws&sni=master.red-cow.de&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20SC%203611ms
-vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&type=ws&sni=master.red-cow.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203818ms
-vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&type=ws&path=%2F&sni=master.red-cow.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207221ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDI1OTFtcyIsImFkZCI6IjE5My4xNTEuMTM0LjE3OCIsInBvcnQiOiIxNzM1NiIsImlkIjoiYzFkNjE4NTctOTE1ZC00ZTZhLWI4NzYtNTkyZGQ0ZDkwYTM2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
+vless://1f70e732-e72d-4535-b494-a595d4df4b0b@45.130.125.160:8443?encryption=none&security=tls&type=ws&sni=master.red-cow.de&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20SC%203339ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDQyMDFtcyIsImFkZCI6IjIxNy42MC4yNDcuMTA4IiwicG9ydCI6IjgwODAiLCJpZCI6IjRhYjBlNDk2LTNlZjUtNDNmZC05ODg2LTEyNDM0NTQxZmE0MiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207083ms
+vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&type=ws&sni=master.red-cow.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207969ms
