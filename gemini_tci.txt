@@ -1,1 +1,1 @@
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FDE%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%20739ms
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FDE%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%204165ms
