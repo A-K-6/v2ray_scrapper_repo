@@ -1,7 +1,6 @@
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.19:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FNL%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%20505ms
-vless://0c37f9e8-aa18-4d4d-9203-94db811b0819@h5.fastspeeds.ir:2053?encryption=none&security=tls&type=xhttp&path=%2F&sni=gamehub1.mobilezahra.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20548ms
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FUS%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%20746ms
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FTR%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%202425ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203664ms
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FDE%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%204428ms
-vless://8b7f7d7a-be8a-44a0-b27a-0a9424ffffc0@c1.s-sub.org:8443?encryption=none&security=tls&type=ws&host=backup.f-sub.cfd&path=%2F&sni=backup.f-sub.cfd&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206977ms
+vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?encryption=none&security=reality&type=tcp&sni=tgju.org&fp=chrome&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&sid=3543d68a#%F0%9F%87%AC%F0%9F%87%A7%20GB%20498ms
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.19:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FNL%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%20570ms
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FDE%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%20759ms
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FUS%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%201117ms
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FTR%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%203621ms
+vless://8b7f7d7a-be8a-44a0-b27a-0a9424ffffc0@ip.hamrahto.com:8443?encryption=none&security=tls&type=ws&host=backup.f-sub.cfd&path=%2F&sni=backup.f-sub.cfd&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207293ms
