@@ -1,1 +1,7 @@
-vless://851bb56d-4beb-4e48-8080-84ca1e8664de@104.19.12.165:8080?encryption=none&security=none&type=ws&host=baRSAm-bpb.BARsAM-6F4.WorKerS.Dev&path=%2F87OobIb63u8goXVe%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B3%20UN%201423ms
+vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.197:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20362ms
+vless://851bb56d-4beb-4e48-8080-84ca1e8664de@104.19.12.165:8080?encryption=none&security=none&type=ws&host=baRSAm-bpb.BARsAM-6F4.WorKerS.Dev&path=%2F87OobIb63u8goXVe%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B3%20UN%20391ms
+vless://2d471762-78e0-4a2a-a940-c0e606aff04b@104.17.147.22:443?encryption=none&security=tls&type=ws&host=de002c.ketabv.ir&path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m&sni=de002c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20518ms
+vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.198:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20550ms
+vless://2d471762-78e0-4a2a-a940-c0e606aff04b@188.114.98.0:443?encryption=none&security=tls&type=ws&host=de002c.ketabv.ir&path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m&sni=de002c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20600ms
+vless://2d471762-78e0-4a2a-a940-c0e606aff04b@172.64.155.209:443?encryption=none&security=tls&type=ws&host=de002c.ketabv.ir&path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m&sni=de002c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201421ms
+vless://2d471762-78e0-4a2a-a940-c0e606aff04b@188.114.96.3:443?encryption=none&security=tls&type=ws&host=de002c.ketabv.ir&path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m&sni=de002c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201628ms
