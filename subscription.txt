@@ -1,12 +1,2 @@
-vless://5b6f9f99-f3ab-42fb-8841-0e3c00767d35@172.67.148.95:443?encryption=none&security=tls&type=ws&host=de003c.ketabv.ir&path=%2FFpI9q4T7OfjWkDFAPOBAo3YF&sni=de003c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20643ms
-vless://5b6f9f99-f3ab-42fb-8841-0e3c00767d35@172.67.213.180:443?encryption=none&security=tls&type=ws&host=de003c.ketabv.ir&path=%2FFpI9q4T7OfjWkDFAPOBAo3YF&sni=de003c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20668ms
-vless://5b6f9f99-f3ab-42fb-8841-0e3c00767d35@104.17.147.22:443?encryption=none&security=tls&type=ws&host=de003c.ketabv.ir&path=%2FFpI9q4T7OfjWkDFAPOBAo3YF&sni=de003c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20836ms
-vless://7d3a8052-09ee-48f7-8a19-3e24f30a7da1@104.27.25.72:443?encryption=none&security=tls&type=ws&host=de001c.ketabv.ir&path=%2FuqBYRQhpA2NzSIhejwuqjz%23&sni=de001c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201071ms
-vless://5b6f9f99-f3ab-42fb-8841-0e3c00767d35@188.114.97.3:443?encryption=none&security=tls&type=ws&host=de003c.ketabv.ir&path=%2FFpI9q4T7OfjWkDFAPOBAo3YF&sni=de003c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201088ms
-vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.9.105.116:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201511ms
-vless://7d3a8052-09ee-48f7-8a19-3e24f30a7da1@104.18.95.222:443?encryption=none&security=tls&type=ws&host=de001c.ketabv.ir&path=%2FuqBYRQhpA2NzSIhejwuqjz&sni=de001c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203587ms
-vless://7d3a8052-09ee-48f7-8a19-3e24f30a7da1@104.25.148.191:443?encryption=none&security=tls&type=ws&host=de001c.ketabv.ir&path=%2FuqBYRQhpA2NzSIhejwuqjz&sni=de001c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203588ms
-vless://7d3a8052-09ee-48f7-8a19-3e24f30a7da1@104.19.249.80:443?encryption=none&security=tls&type=ws&host=de001c.ketabv.ir&path=%2FuqBYRQhpA2NzSIhejwuqjz&sni=de001c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203627ms
-vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.197:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%203834ms
-vless://7d3a8052-09ee-48f7-8a19-3e24f30a7da1@104.27.25.72:443?encryption=none&security=tls&type=ws&host=de001c.ketabv.ir&path=%2FuqBYRQhpA2NzSIhejwuqjz&sni=de001c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205121ms
-vless://7d3a8052-09ee-48f7-8a19-3e24f30a7da1@104.18.94.66:443?encryption=none&security=tls&type=ws&host=de001c.ketabv.ir&path=%2FuqBYRQhpA2NzSIhejwuqjz&sni=de001c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205214ms
+vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?encryption=none&security=reality&type=tcp&sni=tgju.org&fp=chrome&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&sid=3543d68a#%F0%9F%87%AC%F0%9F%87%A7%20GB%20526ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%204694ms
