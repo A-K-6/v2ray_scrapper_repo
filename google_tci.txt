@@ -1,3 +1,3 @@
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FTR%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%20651ms
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FUS%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%203549ms
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FDE%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%204165ms
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FDE%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%20525ms
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FUS%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%201370ms
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FTR%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%205519ms
