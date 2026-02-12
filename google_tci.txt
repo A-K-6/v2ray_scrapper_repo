@@ -1,7 +1,5 @@
-vless://2d471762-78e0-4a2a-a940-c0e606aff04b@104.17.147.22:443?encryption=none&security=tls&type=ws&host=de002c.ketabv.ir&path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m&sni=de002c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20642ms
-vless://2d471762-78e0-4a2a-a940-c0e606aff04b@172.64.155.209:443?encryption=none&security=tls&type=ws&host=de002c.ketabv.ir&path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m&sni=de002c.ketabv.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%20643ms
-vless://2d471762-78e0-4a2a-a940-c0e606aff04b@188.114.98.0:443?encryption=none&security=tls&type=ws&host=de002c.ketabv.ir&path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m&sni=de002c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20677ms
-ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ@2.58.81.221:443#%F0%9F%87%A9%F0%9F%87%AA%20DE%20846ms
-vless://2d471762-78e0-4a2a-a940-c0e606aff04b@188.114.96.3:443?encryption=none&security=tls&type=ws&host=de002c.ketabv.ir&path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m&sni=de002c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201162ms
-ss://YWVzLTI1Ni1nY206TFlYaUlVSjBGdXRuVHpCRw@62.146.172.130:443#%F0%9F%87%BA%F0%9F%87%B8%20US%203139ms
-vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?encryption=none&security=tls&type=ws&path=%2F&sni=Tet.mehspeedtest.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206413ms
+vless://2d471762-78e0-4a2a-a940-c0e606aff04b@104.17.147.22:443?encryption=none&security=tls&type=ws&host=de002c.ketabv.ir&path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m&sni=de002c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20603ms
+vless://2d471762-78e0-4a2a-a940-c0e606aff04b@188.114.98.0:443?encryption=none&security=tls&type=ws&host=de002c.ketabv.ir&path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m&sni=de002c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20642ms
+vless://2d471762-78e0-4a2a-a940-c0e606aff04b@188.114.96.3:443?encryption=none&security=tls&type=ws&host=de002c.ketabv.ir&path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m&sni=de002c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20662ms
+ss://YWVzLTI1Ni1nY206MjRvc0FmbFN4R1kxM0I2Zw@199.247.27.182:80#%F0%9F%87%B3%F0%9F%87%B1%20NL%201841ms
+vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&type=ws&sni=master.red-cow.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207981ms
