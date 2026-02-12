@@ -1,7 +1,9 @@
-vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.198:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20424ms
-vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.197:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20558ms
-vless://2d471762-78e0-4a2a-a940-c0e606aff04b@188.114.98.0:443?encryption=none&security=tls&type=ws&host=de002c.ketabv.ir&path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m&sni=de002c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20612ms
-vless://2d471762-78e0-4a2a-a940-c0e606aff04b@104.17.147.22:443?encryption=none&security=tls&type=ws&host=de002c.ketabv.ir&path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m&sni=de002c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20657ms
-vless://2d471762-78e0-4a2a-a940-c0e606aff04b@188.114.96.3:443?encryption=none&security=tls&type=ws&host=de002c.ketabv.ir&path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m&sni=de002c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20743ms
-vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.9.105.116:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201172ms
-vless://1f70e732-e72d-4535-b494-a595d4df4b0b@45.130.125.160:8443?encryption=none&security=tls&type=ws&path=%2F&sni=master.red-cow.de&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20SC%201708ms
+vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.198:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20442ms
+vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.9.105.116:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20557ms
+vless://2d471762-78e0-4a2a-a940-c0e606aff04b@104.17.147.22:443?encryption=none&security=tls&type=ws&host=de002c.ketabv.ir&path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m&sni=de002c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20605ms
+vless://2d471762-78e0-4a2a-a940-c0e606aff04b@188.114.98.0:443?encryption=none&security=tls&type=ws&host=de002c.ketabv.ir&path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m&sni=de002c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20620ms
+vless://2d471762-78e0-4a2a-a940-c0e606aff04b@188.114.96.3:443?encryption=none&security=tls&type=ws&host=de002c.ketabv.ir&path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m&sni=de002c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20698ms
+vless://1f70e732-e72d-4535-b494-a595d4df4b0b@45.130.125.160:8443?encryption=none&security=tls&type=ws&path=%2F&sni=master.red-cow.de&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20SC%20781ms
+vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.197:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20817ms
+vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&type=ws&path=%2F&sni=master.red-cow.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205798ms
+vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&type=ws&sni=master.red-cow.de&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205816ms
