@@ -1,5 +1,1 @@
-vless://5b6f9f99-f3ab-42fb-8841-0e3c00767d35@172.67.213.180:443?encryption=none&security=tls&type=ws&host=de003c.ketabv.ir&path=%2FFpI9q4T7OfjWkDFAPOBAo3YF&sni=de003c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201084ms
-vless://5b6f9f99-f3ab-42fb-8841-0e3c00767d35@104.17.147.22:443?encryption=none&security=tls&type=ws&host=de003c.ketabv.ir&path=%2FFpI9q4T7OfjWkDFAPOBAo3YF&sni=de003c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201101ms
-vless://5b6f9f99-f3ab-42fb-8841-0e3c00767d35@188.114.97.3:443?encryption=none&security=tls&type=ws&host=de003c.ketabv.ir&path=%2FFpI9q4T7OfjWkDFAPOBAo3YF&sni=de003c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201191ms
-vless://5b6f9f99-f3ab-42fb-8841-0e3c00767d35@172.67.148.95:443?encryption=none&security=tls&type=ws&host=de003c.ketabv.ir&path=%2FFpI9q4T7OfjWkDFAPOBAo3YF&sni=de003c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202166ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207830ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207970ms
