@@ -1,1 +1,1 @@
-vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.197:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%203889ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11201#%F0%9F%87%A7%F0%9F%87%B7%20BR%204232ms
