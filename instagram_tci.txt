@@ -1,1 +1,2 @@
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.19:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FNL%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%20901ms
+vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.197:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20542ms
+vless://a992c7a6-832b-4243-a294-d34783d0294c@185.238.228.46:443?encryption=none&security=tls&type=ws&host=hotchoclate.graphapp.ir&path=%2Fv2rayroad&sni=hotchoclate.graphapp.ir&fp=chrome#%F0%9F%87%AA%F0%9F%87%B8%20ES%203235ms
