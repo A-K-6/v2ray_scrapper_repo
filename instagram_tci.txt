@@ -1,1 +1,2 @@
-vless://53d5d3ba-79d7-40e2-b423-1f7aced05830@172.64.145.38:2053?encryption=none&security=tls&type=ws&host=chess.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%202146ms
+vless://cab07d12-e2e7-4896-b698-76d22c063a39@185.231.113.179:15550?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%203531ms
+vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.197:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%203954ms
