@@ -1,1 +1,5 @@
-vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.197:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202476ms
+vless://cab07d12-e2e7-4896-b698-76d22c063a39@185.231.113.179:15550?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20304ms
+vless://8d5e0c57-ac14-4031-83f2-6b1b54372621@f1.hamrahconf.ir:8443?encryption=none&security=tls&type=ws&host=hm3.hamrahconfig.ir&path=%2F&sni=hm3.hamrahconfig.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201664ms
+vless://4d3b4e0b-9fa4-4bc7-a0fd-99a8d34a12e2@deu153.worldunbarred.org:8443?encryption=none&security=tls&type=ws&host=deu153.worldunbarred.org&path=%2Fws-vless%2F&sni=deu153.worldunbarred.org#%F0%9F%87%BA%F0%9F%87%B3%20UN%204005ms
+vless://9ccd06a2-5616-47e3-9763-f9696959d7ad@music.mp3tarane.workers.dev:443?encryption=none&security=tls&type=ws&host=music.mp3tarane.workers.dev&path=%2Fws&sni=music.mp3tarane.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205724ms
+vless://c9ecf141-05f2-400b-ab21-e55b9c251752@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=takken.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%207237ms
