@@ -1,1 +1,3 @@
-vless://8475ccf8-2464-4e1f-bf1e-656d2fc77ff7@netv.amirshee9090.workers.dev:443?encryption=none&security=tls&type=ws&host=netv.amirshee9090.workers.dev&path=ws&sni=netv.amirshee9090.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205728ms
+vless://851bb56d-4beb-4e48-8080-84ca1e8664de@104.19.12.165:8080?encryption=none&security=none&type=ws&host=baRSAm-bpb.BARsAM-6F4.WorKerS.Dev&path=%2F87OobIb63u8goXVe%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B3%20UN%20372ms
+vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.197:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201688ms
+vless://8475ccf8-2464-4e1f-bf1e-656d2fc77ff7@netv.amirshee9090.workers.dev:443?encryption=none&security=tls&type=ws&host=netv.amirshee9090.workers.dev&path=ws&sni=netv.amirshee9090.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205832ms
