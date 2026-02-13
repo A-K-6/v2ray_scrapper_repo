@@ -1,1 +1,1 @@
-vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@az.mehrsazi.ir:443?encryption=none&security=tls&type=httpupgrade&host=az.mehrsazi.ir&path=%2F&sni=az.mehrsazi.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203855ms
+vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.197:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%206551ms
