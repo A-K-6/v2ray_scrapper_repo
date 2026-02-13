@@ -1,2 +1,3 @@
-vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.197:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20542ms
-vless://a992c7a6-832b-4243-a294-d34783d0294c@185.238.228.46:443?encryption=none&security=tls&type=ws&host=hotchoclate.graphapp.ir&path=%2Fv2rayroad&sni=hotchoclate.graphapp.ir&fp=chrome#%F0%9F%87%AA%F0%9F%87%B8%20ES%203235ms
+vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.197:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%203658ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.141.221.200:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%205153ms
+vless://fa0ebdf7-67fd-4fb5-94d0-678039d7a6c0@f1.springpaatogh8.store:2053?encryption=none&security=tls&type=ws&host=chess.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%206482ms
