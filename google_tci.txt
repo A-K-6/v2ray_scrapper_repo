@@ -1,5 +1,1 @@
-vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.197:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20315ms
-vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.9.105.116:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20505ms
-vless://5b6f9f99-f3ab-42fb-8841-0e3c00767d35@104.17.147.22:443?encryption=none&security=tls&type=ws&host=de003c.ketabv.ir&path=%2FFpI9q4T7OfjWkDFAPOBAo3YF&sni=de003c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20536ms
-vless://5b6f9f99-f3ab-42fb-8841-0e3c00767d35@172.67.213.180:443?encryption=none&security=tls&type=ws&host=de003c.ketabv.ir&path=%2FFpI9q4T7OfjWkDFAPOBAo3YF&sni=de003c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20548ms
-vless://5b6f9f99-f3ab-42fb-8841-0e3c00767d35@172.67.148.95:443?encryption=none&security=tls&type=ws&host=de003c.ketabv.ir&path=%2FFpI9q4T7OfjWkDFAPOBAo3YF&sni=de003c.ketabv.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20549ms
+vless://8475ccf8-2464-4e1f-bf1e-656d2fc77ff7@netv.amirshee9090.workers.dev:443?encryption=none&security=tls&type=ws&host=netv.amirshee9090.workers.dev&path=ws&sni=netv.amirshee9090.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205728ms
