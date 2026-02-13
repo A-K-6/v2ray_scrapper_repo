@@ -1,1 +1,1 @@
-vless://03e5c56f-3066-4f50-ab26-03cf8cb07e54@91.108.145.240:2222?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20383ms
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.19:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FNL%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%20901ms
