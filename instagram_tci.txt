@@ -1,2 +1,1 @@
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@16.171.1.122:443?encryption=none&security=reality&type=tcp&sni=chatgpt.com&flow=xtls-rprx-vision&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#%F0%9F%87%B8%F0%9F%87%AA%20SE%20485ms
-vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.197:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20752ms
+vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.197:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201053ms
