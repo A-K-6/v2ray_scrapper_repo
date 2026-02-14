@@ -1,4 +1,1 @@
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.19:8080?encryption=none&security=none&type=ws&path=%2FIVApi%2FNL%2F3#%F0%9F%87%AE%F0%9F%87%B7%20IR%20466ms
-vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?encryption=none&security=reality&type=tcp&sni=tgju.org&fp=chrome&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&sid=3543d68a#%F0%9F%87%AC%F0%9F%87%A7%20GB%20495ms
-vless://d747e76d-7e3a-46f9-99ef-ed543042b75f@tun1.karunwebco.com:1020?encryption=none&security=reality&type=tcp&sni=yahoo.com&flow=xtls-rprx-vision&fp=chrome&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83#%F0%9F%87%BA%F0%9F%87%B3%20UN%203297ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDQxODltcyIsImFkZCI6Ijg4LjIxOC4xNi4xMDIiLCJwb3J0IjoiMTA0NDMiLCJpZCI6IjI1MDBlYTk4LTFlZjEtNDVkNi1hY2Q5LWQzYWJjOWNlYTJmOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206908ms
