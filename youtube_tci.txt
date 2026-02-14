@@ -1,1 +1,1 @@
-vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.79.57.168:443?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%206917ms
+vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?encryption=none&security=tls&type=ws&host=backup.f-sub.cfd&path=%2F&sni=backup.f-sub.cfd&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201011ms
