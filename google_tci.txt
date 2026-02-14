@@ -1,1 +1,2 @@
-vless://65f98bdd-b437-4d7e-8bba-8ab70cc8ff37@146.103.41.52:4443?encryption=none&security=reality&type=tcp&sni=github.com&flow=xtls-rprx-vision&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#%F0%9F%87%A9%F0%9F%87%AA%20DE%205816ms
+vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?encryption=none&security=tls&type=ws&host=backup.f-sub.cfd&sni=backup.f-sub.cfd&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205747ms
+vless://65f98bdd-b437-4d7e-8bba-8ab70cc8ff37@146.103.41.52:4443?encryption=none&security=reality&type=tcp&sni=github.com&flow=xtls-rprx-vision&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#%F0%9F%87%A9%F0%9F%87%AA%20DE%207144ms
