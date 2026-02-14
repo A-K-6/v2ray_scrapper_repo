@@ -1,1 +1,1 @@
-vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443?encryption=none&security=tls&type=ws&path=%2Fsite&sni=asbs-osds.global.ssl.fastly.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206829ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDQxODRtcyIsImFkZCI6Ijg4LjIxOC4xNi4xMDIiLCJwb3J0IjoiMTA0NDMiLCJpZCI6IjI1MDBlYTk4LTFlZjEtNDVkNi1hY2Q5LWQzYWJjOWNlYTJmOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
