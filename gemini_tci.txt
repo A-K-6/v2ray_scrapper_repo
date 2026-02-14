@@ -1,1 +1,2 @@
-vless://03e5c56f-3066-4f50-ab26-03cf8cb07e54@91.108.145.240:2222?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20376ms
+vless://d747e76d-7e3a-46f9-99ef-ed543042b75f@tun1.karunwebco.com:1020?encryption=none&security=reality&type=tcp&sni=yahoo.com&flow=xtls-rprx-vision&fp=chrome&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83#%F0%9F%87%BA%F0%9F%87%B3%20UN%203297ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDQxODltcyIsImFkZCI6Ijg4LjIxOC4xNi4xMDIiLCJwb3J0IjoiMTA0NDMiLCJpZCI6IjI1MDBlYTk4LTFlZjEtNDVkNi1hY2Q5LWQzYWJjOWNlYTJmOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
