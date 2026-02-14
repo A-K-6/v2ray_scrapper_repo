@@ -1,4 +1,4 @@
-vless://03e5c56f-3066-4f50-ab26-03cf8cb07e54@91.108.145.240:2222?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20389ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%204289ms
-vless://65f98bdd-b437-4d7e-8bba-8ab70cc8ff37@146.103.41.52:4443?encryption=none&security=reality&type=tcp&sni=github.com&flow=xtls-rprx-vision&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#%F0%9F%87%A9%F0%9F%87%AA%20DE%205816ms
-vless://fe430457-84e1-49ec-a21f-4c5505015aea@lit3.litiran.ir:2083?encryption=none&security=tls&type=ws&host=albaniii.lamineyamal.ir&sni=albaniii.lamineyamal.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%207417ms
+vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?encryption=none&security=tls&type=ws&host=backup.f-sub.cfd&sni=backup.f-sub.cfd&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205747ms
+vless://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?encryption=none&security=tls&type=ws&host=backup.f-sub.cfd&path=%2F&sni=backup.f-sub.cfd&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205782ms
+vless://65f98bdd-b437-4d7e-8bba-8ab70cc8ff37@146.103.41.52:4443?encryption=none&security=reality&type=tcp&sni=github.com&flow=xtls-rprx-vision&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#%F0%9F%87%A9%F0%9F%87%AA%20DE%207144ms
+vless://d747e76d-7e3a-46f9-99ef-ed543042b75f@tun1.karunwebco.com:1020?encryption=none&security=reality&type=tcp&sni=yahoo.com&flow=xtls-rprx-vision&fp=chrome&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83#%F0%9F%87%BA%F0%9F%87%B3%20UN%207882ms
