@@ -1,4 +1,2 @@
-vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?encryption=none&security=tls&type=ws&host=backup.f-sub.cfd&sni=backup.f-sub.cfd&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20682ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#%F0%9F%87%AF%F0%9F%87%B5%20JP%20992ms
-vless://5b81d780-dc5a-41b3-8b66-5ae70ca2f6ac@llzm.lunargnome.ir:443?encryption=none&security=tls&type=ws&path=%2F&sni=dlpkg.org#%F0%9F%87%BA%F0%9F%87%B3%20UN%202534ms
-vless://8e62fdd4-006d-4920-aef8-f3c87ed60157@cf7.fastspeeds.ir:443?encryption=none&security=tls&type=xhttp&path=%2F&sni=tg3.followerarzon1.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205581ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDMzMjJtcyIsImFkZCI6Ijg4LjIxOC4xNi4xMDIiLCJwb3J0IjoiMTA0NDMiLCJpZCI6IjI1MDBlYTk4LTFlZjEtNDVkNi1hY2Q5LWQzYWJjOWNlYTJmOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
+vless://d747e76d-7e3a-46f9-99ef-ed543042b75f@tun1.karunwebco.com:1020?encryption=none&security=reality&type=tcp&sni=yahoo.com&flow=xtls-rprx-vision&fp=chrome&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83#%F0%9F%87%BA%F0%9F%87%B3%20UN%206088ms
