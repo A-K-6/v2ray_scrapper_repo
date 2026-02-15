@@ -1,1 +1,1 @@
-vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:10010?encryption=none&security=none&type=ws&host=myket.ir&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%201847ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207136ms
