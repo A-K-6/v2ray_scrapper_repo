@@ -1,4 +1,2 @@
-vless://99a5747a-106d-4f3c-b199-2e3ae09874fa@cx.tuurkderag.top:2053?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20528ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20NL%20850ms
-ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@217.30.10.70:9040#%F0%9F%87%B5%F0%9F%87%B1%20PL%205026ms
-vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%205490ms
+vless://99a5747a-106d-4f3c-b199-2e3ae09874fa@cx.tuurkderag.top:2053?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%201039ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDI5OTJtcyIsImFkZCI6IjE4NS4yMTUuMjMxLjExMSIsInBvcnQiOiI0NDMiLCJpZCI6ImRiNGY2NDkyLTk0ZjctNDdiYy1iMzZiLWMxY2IxNTI4NmIyYSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
