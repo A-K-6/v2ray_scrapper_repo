@@ -1,3 +1,3 @@
-vless://9819e556-b0e4-4e54-bebd-39ce61b264e5@s9.iblueweb.casa:8880?encryption=none&security=none&type=tcp&host=none&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20351ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s3.daneshvardost.com:26480?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%205627ms
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?encryption=none&security=tls&type=ws&sni=ipv4.yasharteam.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205778ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s3.daneshvardost.com:26480?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20366ms
+vless://9819e556-b0e4-4e54-bebd-39ce61b264e5@s9.iblueweb.casa:8880?encryption=none&security=none&type=tcp&host=none&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20497ms
+vless://9819e556-b0e4-4e54-bebd-39ce61b264e5@s9.iblueweb.casa:8880?encryption=none&security=none&type=tcp&host=speedtest.net#%F0%9F%87%BA%F0%9F%87%B3%20UN%20871ms
