@@ -1,13 +1,2 @@
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.179:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20278ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20380ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.78:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20432ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s2.daneshvardost.com:26480?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20449ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s1.daneshvardost.com:26480?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20469ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s10.daneshvardost.com:26480?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20627ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s8.daneshvardost.com:26480?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20638ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s6.daneshvardost.com:26480?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20885ms
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?encryption=none&security=tls&type=ws&host=ipv4.yasharteam.com&path=%2F&sni=ipv4.yasharteam.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201106ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s4.daneshvardost.com:26480?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%201460ms
-vless://d747e76d-7e3a-46f9-99ef-ed543042b75f@tun1.karunwebco.com:1020?encryption=none&security=reality&type=tcp&sni=yahoo.com&flow=xtls-rprx-vision&fp=chrome&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83#%F0%9F%87%BA%F0%9F%87%B3%20UN%202132ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s9.daneshvardost.com:26480?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%203181ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDQ1MzdtcyIsImFkZCI6Ijg4LjIxOC4xNi4xMDIiLCJwb3J0IjoiMTA0NDMiLCJpZCI6IjI1MDBlYTk4LTFlZjEtNDVkNi1hY2Q5LWQzYWJjOWNlYTJmOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiJ9
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@193.162.129.39:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20431ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s5.daneshvardost.com:26480?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20549ms
