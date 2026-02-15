@@ -1,3 +1,2 @@
-vless://d747e76d-7e3a-46f9-99ef-ed543042b75f@tun1.karunwebco.com:1020?encryption=none&security=reality&type=tcp&sni=yahoo.com&flow=xtls-rprx-vision&fp=chrome&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83#%F0%9F%87%BA%F0%9F%87%B3%20UN%201459ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205382ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205409ms
+vless://31063d07-a322-49d9-c253-486d80a00201@46.38.138.221:2020?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20538ms
+vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?encryption=none&security=none&type=ws&host=blog.zanborak-shop.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%201632ms
