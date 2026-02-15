@@ -1,6 +1,4 @@
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@193.162.129.39:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20431ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s5.daneshvardost.com:26480?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20549ms
-vless://c3cb51a2-9f85-40f4-848f-fde89920bb90@193.43.146.24:8443?encryption=none&security=reality&type=tcp&sni=ozon.ru&flow=xtls-rprx-vision&fp=chrome&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=72b11c6ddbcfecf1#%F0%9F%87%B7%F0%9F%87%BA%20RU%20717ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203169ms
-vless://a7b278a4-5ed7-4406-85dd-86668419ea23@f1.springpaatogh8.store:2053?encryption=none&security=tls&type=ws&host=chess.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%203425ms
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%205819ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@193.162.129.39:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20277ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20713ms
+vless://5b4f94ec-c460-4f67-b987-b5e6f2bbea5d@185.254.99.224:2048?encryption=none&security=none&type=ws&host=ads.x5.ru&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20DE%202616ms
+vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?encryption=none&security=tls&type=ws&sni=ipv4.yasharteam.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205858ms
