@@ -1,3 +1,13 @@
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?encryption=none&security=tls&type=ws&host=6.3pita.com&path=%2F&sni=6.3pita.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20570ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20899ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#%F0%9F%87%AF%F0%9F%87%B5%20JP%206387ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@193.162.129.39:26480?encryption=none&security=none&type=tcp&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%20578ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20588ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20757ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%87%B8%F0%9F%87%AC%20SG%20908ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20933ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?encryption=none&security=tls&type=ws&host=mitivpn-2.nic3-1.workers.dev&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN&sni=nic3-1.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20990ms
+vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?encryption=none&security=reality&type=tcp&sni=ea.com&fp=chrome&pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&sid=02#%F0%9F%87%BA%F0%9F%87%B3%20UN%201015ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@193.162.129.39:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201308ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201344ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%87%B8%F0%9F%87%AC%20SG%203810ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%204399ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.179:26480?encryption=none&security=none&type=tcp&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%206377ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.179:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%207806ms
