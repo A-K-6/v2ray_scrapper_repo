@@ -1,16 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#%F0%9F%87%B0%F0%9F%87%BF%20KZ%201572ms
-vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202044ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202667ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#%F0%9F%87%B8%F0%9F%87%AC%20SG%203359ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.179:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%203422ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.78:26480?encryption=none&security=none&type=tcp&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%203715ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@193.162.129.39:26480?encryption=none&security=none&type=tcp&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%203787ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.179:26480?encryption=none&security=none&type=tcp&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%204219ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?encryption=none&security=none&type=tcp&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%204244ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%87%B8%F0%9F%87%AC%20SG%204482ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.78:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%205084ms
-vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?encryption=none&security=reality&type=tcp&sni=ea.com&fp=chrome&pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&sid=02#%F0%9F%87%BA%F0%9F%87%B3%20UN%205690ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s4.daneshvardost.com:26480?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%207242ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%207492ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989#%F0%9F%87%B0%F0%9F%87%B7%20KR%207685ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s4.daneshvardost.com:26480?encryption=none&security=none&type=tcp&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%207893ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%87%B8%F0%9F%87%AC%20SG%205563ms
