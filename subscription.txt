@@ -1,8 +1,5 @@
-vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?encryption=none&security=none&type=ws&host=blog.zanborak-shop.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20913ms
-vless://3ca66d2f-99cf-4c4e-8b25-19c2e80da453@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=takken.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201487ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.225.157:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%204202ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#%F0%9F%87%AF%F0%9F%87%B5%20JP%204789ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%87%B8%F0%9F%87%AC%20SG%205297ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#%F0%9F%87%AF%F0%9F%87%B5%20JP%205453ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%87%B8%F0%9F%87%AC%20SG%205605ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%207460ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201049ms
+vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?encryption=none&security=none&type=ws&host=blog.zanborak-shop.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%201230ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#%F0%9F%87%AF%F0%9F%87%B5%20JP%201481ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%87%B8%F0%9F%87%AC%20SG%207070ms
+vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%207222ms
