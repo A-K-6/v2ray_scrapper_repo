@@ -1,7 +1,1 @@
-vless://a992c7a6-832b-4243-a294-d34783d0294c@chatgpt.com:443?encryption=none&security=tls&type=ws&host=hotchoclate.graphapp.ir&path=%2Fv2rayroad&sni=hotchoclate.graphapp.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20592ms
-vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%203376ms
-vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?encryption=none&security=none&type=ws&host=blog.zanborak-shop.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%203516ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%206493ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%87%B8%F0%9F%87%AC%20SG%206548ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%87%B8%F0%9F%87%AC%20SG%207489ms
-vless://5ce4bcc9-b932-417f-9c84-0a251d29349b@37.202.244.227:47071?encryption=none&security=none&type=ws&host=shatel5.imstron.org&path=%2F%3D%40mhsenivxx#%F0%9F%87%AE%F0%9F%87%B7%20IR%207514ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#%F0%9F%87%B8%F0%9F%87%AC%20SG%203689ms
