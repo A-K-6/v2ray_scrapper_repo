@@ -1,6 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#%F0%9F%87%AF%F0%9F%87%B5%20JP%201477ms
-vless://5ce4bcc9-b932-417f-9c84-0a251d29349b@37.202.244.227:47071?encryption=none&security=none&type=ws&host=shatel5.imstron.org&path=%2F%3D%40mhsenivxx#%F0%9F%87%AE%F0%9F%87%B7%20IR%202691ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#%F0%9F%87%AF%F0%9F%87%B5%20JP%203903ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.194:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%204472ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#%F0%9F%87%B8%F0%9F%87%AC%20SG%205704ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%87%B8%F0%9F%87%AC%20SG%206594ms
+vless://050a12da-f082-4aa4-ada9-9b00e05fe242@driftnet.ir:8095?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%201584ms
+vless://050a12da-f082-4aa4-ada9-9b00e05fe242@vip_beset_server_iran_netmeli_2025.driftvpn.space:8095?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%201584ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#%F0%9F%87%AF%F0%9F%87%B5%20JP%204096ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ@78.38.246.150:8446#%F0%9F%87%AE%F0%9F%87%B7%20IR%206382ms
