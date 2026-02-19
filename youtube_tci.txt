@@ -1,2 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDIyMzFtcyIsImFkZCI6IjEwNC4yMS42MC4zNyIsInBvcnQiOiI0NDMiLCJpZCI6ImE5NDAyNTkyLTQzNGQtNDU5OS05NzRkLTVmNDZmOWZlMjA1YiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6InVzYS5zcGFjZWdhdGUuaXIifQ==
-vless://5ce4bcc9-b932-417f-9c84-0a251d29349b@37.202.244.227:47071?encryption=none&security=none&type=ws&host=shatel5.imstron.org&path=%2F%3D%40mhsenivxx#%F0%9F%87%AE%F0%9F%87%B7%20IR%205268ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.199:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202281ms
