@@ -1,2 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#%F0%9F%87%B8%F0%9F%87%AC%20SG%202774ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%87%B8%F0%9F%87%AC%20SG%205721ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#%F0%9F%87%AF%F0%9F%87%B5%20JP%201025ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#%F0%9F%87%B8%F0%9F%87%AC%20SG%202553ms
+vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@www.speedtest.net:8443?encryption=none&security=tls&type=ws&host=data-tm189.netsnap.ir&path=%2FR8I9Yqu0DxpQB2NKCxLA&sni=data-tm189.netsnap.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206699ms
