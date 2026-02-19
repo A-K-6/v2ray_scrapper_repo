@@ -1,7 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#%F0%9F%87%B8%F0%9F%87%AC%20SG%201195ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202394ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#%F0%9F%87%AF%F0%9F%87%B5%20JP%202625ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AA%20BE%202669ms
-vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.192.3.23:20096?encryption=none&security=reality&type=tcp&sni=wikipedia.org&fp=chrome&pbk=RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA&sid=50a3#%F0%9F%87%A9%F0%9F%87%AA%20DE%203070ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDM0NDltcyIsImFkZCI6IjE5My4xNTEuMTQ2LjIzMiIsInBvcnQiOiIxNzM1NiIsImlkIjoiZjk1Y2I1YWUtMWIwNi00YTU3LWFiYTAtMzBhZmUxMmQyM2VkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
-vless://5ce4bcc9-b932-417f-9c84-0a251d29349b@37.202.244.227:47071?encryption=none&security=none&type=ws&host=shatel5.imstron.org&path=%2F%3D%40mhsenivxx#%F0%9F%87%AE%F0%9F%87%B7%20IR%204982ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#%F0%9F%87%AF%F0%9F%87%B5%20JP%201176ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#%F0%9F%87%AF%F0%9F%87%B5%20JP%201381ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%87%B8%F0%9F%87%AC%20SG%202007ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202504ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AA%20BE%202990ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ@78.38.246.150:8446#%F0%9F%87%AE%F0%9F%87%B7%20IR%202990ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#%F0%9F%87%B8%F0%9F%87%AC%20SG%203504ms
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.192.3.23:20096?encryption=none&security=reality&type=tcp&sni=wikipedia.org&fp=chrome&pbk=RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA&sid=50a3#%F0%9F%87%A9%F0%9F%87%AA%20DE%206551ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.205:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%207479ms
