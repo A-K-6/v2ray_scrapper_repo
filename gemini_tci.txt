@@ -1,8 +1,3 @@
-vless://0cfeb701-9672-4f21-b2c0-395e310f5194@firan.dtgoldservices.com:8443?encryption=none&security=tls&type=tcp&sni=firan.dtgoldservices.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20305ms
-vless://019d0802-149f-f9ec-ce6f-77eda900f377@srv-v0.netmaster.cam:3306?encryption=none&security=none&type=ws&sni=1#%F0%9F%87%BA%F0%9F%87%B3%20UN%20454ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AA%20BE%20874ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDMzNDNtcyIsImFkZCI6IjE5My4xNTEuMTQ2LjIzMiIsInBvcnQiOiIxNzM1NiIsImlkIjoiZjk1Y2I1YWUtMWIwNi00YTU3LWFiYTAtMzBhZmUxMmQyM2VkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%87%B8%F0%9F%87%AC%20SG%204167ms
-vless://522de604-e8ff-460e-a37e-f04355fbc1fb@212.80.24.111:777?encryption=none&security=none&type=ws&path=%40BluebberyNetWork#%F0%9F%87%AE%F0%9F%87%B7%20IR%206493ms
-vless://6e8535db-277c-4cb1-b578-efb4d874350f@193.111.236.87:2087?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%207284ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#%F0%9F%87%AF%F0%9F%87%B5%20JP%207771ms
+vless://019d0802-149f-f9ec-ce6f-77eda900f377@srv-v0.netmaster.cam:3306?encryption=none&security=none&type=ws&sni=1#%F0%9F%87%BA%F0%9F%87%B3%20UN%20553ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AA%20BE%203201ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%87%B8%F0%9F%87%AC%20SG%204124ms
