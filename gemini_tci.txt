@@ -1,4 +1,6 @@
-vless://6a1c81ad-1363-484a-9812-2508bc2ca606@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=takken.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%20599ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#%F0%9F%87%B8%F0%9F%87%AC%20SG%20977ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#%F0%9F%87%AF%F0%9F%87%B5%20JP%203262ms
-vless://6a1c81ad-1363-484a-9812-2508bc2ca606@f1.springpaatogh8.store:2053?encryption=none&security=tls&type=ws&host=chess.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%204571ms
+vless://6a1c81ad-1363-484a-9812-2508bc2ca606@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=takken.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%20607ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#%F0%9F%87%AF%F0%9F%87%B5%20JP%201013ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%87%B8%F0%9F%87%AC%20SG%201022ms
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.205:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201599ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#%F0%9F%87%B8%F0%9F%87%AC%20SG%202361ms
+vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?encryption=none&security=tls&type=ws&host=data-tm189.netsnap.ir&path=%2FR8I9Yqu0DxpQB2NKCxLA&sni=data-tm189.netsnap.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205750ms
