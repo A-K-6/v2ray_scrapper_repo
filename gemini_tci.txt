@@ -1,1 +1,2 @@
-vless://521a9ee4-b6a8-4097-a834-f09dd675677a@almas5.alireza031.shop:14350?encryption=none&security=none&type=ws&host=KmM4D.divarcdn.com%2CJ6x5j.snappfood.ir%2CrWWwx.yjc.ir%2COWrrD.digikala.com%2C9elS2.tic.ir%2CpLaqx.&path=%2FALMAS5#%F0%9F%87%BA%F0%9F%87%B3%20UN%207121ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDU3MDZtcyIsImFkZCI6IjE5My4xNTEuMTQ2LjIzMiIsInBvcnQiOiIxNzM1NiIsImlkIjoiZjk1Y2I1YWUtMWIwNi00YTU3LWFiYTAtMzBhZmUxMmQyM2VkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%87%B8%F0%9F%87%AC%20SG%207282ms
