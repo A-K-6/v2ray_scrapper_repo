@@ -1,6 +1,3 @@
-vless://019d0802-149f-f9ec-ce6f-77eda900f377@srv-v0.netmaster.cam:3306?encryption=none&security=none&type=ws&sni=1#%F0%9F%87%BA%F0%9F%87%B3%20UN%20496ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.205:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201217ms
-vless://6e8535db-277c-4cb1-b578-efb4d874350f@193.111.236.87:2087?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202407ms
-vless://6ba7bd1b-46d0-4fa0-8771-9df6e7186a4d@data.cloudvibe.ir:8443?encryption=none&security=tls&type=ws&host=data-nm185.netsnap.ir&path=%2FR8I9Yqu0DxpQB2NKCxLA&sni=data-nm185.netsnap.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203467ms
-vless://d0d95162-fb61-4f82-9325-d628490cef3d@46.38.138.221:71?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%203673ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDY2NjFtcyIsImFkZCI6IjE5My4xNTEuMTQ2LjIzMiIsInBvcnQiOiIxNzM1NiIsImlkIjoiZjk1Y2I1YWUtMWIwNi00YTU3LWFiYTAtMzBhZmUxMmQyM2VkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
+vless://80a0a9c5-408c-4e93-aace-451773f8a2cc@firan.dtgoldservices.com:8443?encryption=none&security=tls&type=tcp&sni=firan.dtgoldservices.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20385ms
+vless://019d0802-149f-f9ec-ce6f-77eda900f377@srv-v0.netmaster.cam:3306?encryption=none&security=none&type=ws&sni=1#%F0%9F%87%BA%F0%9F%87%B3%20UN%20458ms
+vless://6e8535db-277c-4cb1-b578-efb4d874350f@193.111.236.87:2087?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201951ms
