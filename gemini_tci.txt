@@ -1,1 +1,4 @@
-vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?encryption=none&security=tls&type=ws&path=%2F&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201114ms
+vless://5cfbed15-e39a-4067-b20b-9243bfb8c234@3.72.62.160:15200?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20344ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AA%20BE%20819ms
+vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?encryption=none&security=tls&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201178ms
+vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?encryption=none&security=tls&type=ws&path=%2F&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201182ms
