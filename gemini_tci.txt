@@ -1,4 +1,1 @@
-vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?encryption=none&security=tls&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201198ms
-vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?encryption=none&security=tls&type=ws&path=%2F&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201252ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%87%B8%F0%9F%87%AC%20SG%203486ms
-vless://dc69f0b7-529f-496c-adfb-ba107dab981c@45.159.148.130:8585?encryption=none&security=none&type=ws&host=www.speedtest.net&path=%2FDownloDMusic#%F0%9F%87%AE%F0%9F%87%B7%20IR%205001ms
+vless://dac5ecb3-2ca8-4667-b630-75893cde81c0@l-i-q-arvancloudiran.myabrliq.ir:2087?encryption=none&security=tls&type=ws&host=g-book.cofe-liq-ketab.ir&path=%2F&sni=g-book.cofe-liq-ketab.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205456ms
