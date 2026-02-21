@@ -1,9 +1,1 @@
-vless://cbf69c40-f872-4cfb-858e-dd143468b272@18.199.218.195:443?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20356ms
-vless://fe982c2e-0be2-4f83-9262-dbcc742e6388@212.80.24.111:777?encryption=none&security=none&type=ws&path=%40BluebberyNetWork#%F0%9F%87%AE%F0%9F%87%B7%20IR%20800ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDExMjVtcyIsImFkZCI6ImZyYy50ZWFtdi5pciIsInBvcnQiOiI0NDMiLCJpZCI6IjNjY2RkMmFmLTM3ZWEtNDQzOS1hMzVjLTcwNDE2ZmYzNDIxMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJmcmMudGVhbXYuaXIiLCJwYXRoIjoiLzZNQnlVbzZNWXVvc0FHT0Nmc3Y0VyIsInRscyI6InRscyIsInNuaSI6ImZyYy50ZWFtdi5pciJ9
-vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?encryption=none&security=tls&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201234ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AA%20BE%201318ms
-vless://dc69f0b7-529f-496c-adfb-ba107dab981c@45.159.148.130:8585?encryption=none&security=none&type=ws&host=www.speedtest.net&path=%2FDownloDMusic#%F0%9F%87%AE%F0%9F%87%B7%20IR%201503ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.194:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%203950ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%87%B8%F0%9F%87%AC%20SG%204633ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.225.157:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%206929ms
+vless://fe982c2e-0be2-4f83-9262-dbcc742e6388@212.80.24.111:777?encryption=none&security=none&type=ws&path=%40BluebberyNetWork#%F0%9F%87%AE%F0%9F%87%B7%20IR%205463ms
