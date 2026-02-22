@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/A-K-6/v2ray_scrapper_repo/main/gemini_google_c
 
 ---
 
-## 🇮🇷 TCI (Mokhaberat) | مخصوص مخابرات
+## TCI (Mokhaberat) | مخصوص مخابرات
 
 This list is optimized specifically for **Mokhaberat (TCI)** users in Iran.
 این لیست به صورت اختصاصی برای کاربران **اینترنت مخابرات** بهینه شده است.
