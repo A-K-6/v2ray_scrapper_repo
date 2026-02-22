@@ -1,5 +1,1 @@
-vless://d5a5511a-29ed-495c-9b7c-152a326c09c5@azinsite.amir777.sbs:2010?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%201142ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ@78.38.246.150:8446#%F0%9F%87%AE%F0%9F%87%B7%20IR%201994ms
-vless://c805b05e-339d-40e0-8787-432d97a27345@ip-data.turkserver.ir:2087?encryption=none&security=tls&type=ws&host=all-um2.netsnap.ir.&path=%2F&sni=all-um2.netsnap.ir.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202414ms
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@104.18.26.90:2087?encryption=none&security=tls&type=ws&host=all-fm2.netsnap.ir.&path=%2F&sni=all-fm2.netsnap.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203308ms
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.225.157:26480?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%205987ms
+vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?encryption=none&security=none&type=ws&host=D2R57.divarcdn.com%2C0ziwu.snappfood.ir%2CBXTLd.yjc.ir%2C1QjBQ.digikala.com%2C7fYt7.tic.ir&path=%2FALMAS4#%F0%9F%87%BA%F0%9F%87%B3%20UN%20664ms
