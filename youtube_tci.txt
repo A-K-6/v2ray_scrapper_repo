@@ -1,7 +1,2 @@
-vless://a5927ac1-b40c-4b4a-81c3-39b294209167@18.153.105.111:44829?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20321ms
-vless://eb851d15-afc1-40ee-abb7-793772853f6a@s3.eldoradu.ir:2053?encryption=none&security=tls&type=ws&host=nx4.sellink.ir&path=%2F&sni=nx4.sellink.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20732ms
-vless://eb851d15-afc1-40ee-abb7-793772853f6a@s1.eldoradu.ir:2053?encryption=none&security=tls&type=ws&host=kcx4.sellink.ir&path=%2F&sni=kcx4.sellink.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20852ms
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@104.18.26.90:2087?encryption=none&security=tls&type=ws&host=all-fm2.netsnap.ir.&path=%2F&sni=all-fm2.netsnap.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201581ms
-vless://c805b05e-339d-40e0-8787-432d97a27345@ip-data.turkserver.ir:2087?encryption=none&security=tls&type=ws&host=all-um2.netsnap.ir.&path=%2F&sni=all-um2.netsnap.ir.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201581ms
-vless://fc8dedc7-b2b9-4ff8-a78d-ba5daa1945ce@fastlyv2.panelha.com:80?encryption=none&security=none&type=ws&host=alireza6.global.ssl.fastly.net&path=%2Fcdn%2Fv2#%F0%9F%87%BA%F0%9F%87%B3%20UN%202551ms
-vless://d5a5511a-29ed-495c-9b7c-152a326c09c5@azinsite.amir777.sbs:2010?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%206350ms
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@104.18.26.90:2087?encryption=none&security=tls&type=ws&host=all-fm2.netsnap.ir.&path=%2F&sni=all-fm2.netsnap.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201109ms
+vless://d5a5511a-29ed-495c-9b7c-152a326c09c5@azinsite.amir777.sbs:2010?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%203071ms
