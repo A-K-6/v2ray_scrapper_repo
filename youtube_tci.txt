@@ -1,2 +1,2 @@
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@104.18.26.90:2087?encryption=none&security=tls&type=ws&host=all-fm2.netsnap.ir.&path=%2F&sni=all-fm2.netsnap.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201109ms
-vless://d5a5511a-29ed-495c-9b7c-152a326c09c5@azinsite.amir777.sbs:2010?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%203071ms
+vless://d5a5511a-29ed-495c-9b7c-152a326c09c5@azinsite.amir777.sbs:2010?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%201142ms
+vless://c805b05e-339d-40e0-8787-432d97a27345@ip-data.turkserver.ir:2087?encryption=none&security=tls&type=ws&host=all-um2.netsnap.ir.&path=%2F&sni=all-um2.netsnap.ir.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202414ms
