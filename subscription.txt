@@ -1,2 +1,1 @@
-vless://7b5d0123-72c2-4c5b-b154-c63eb849057d@firan.dtgoldservices.com:8443?encryption=none&security=tls&type=tcp&sni=firan.dtgoldservices.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20405ms
-vless://80bace8b-bdf4-495f-b8a3-a2377f64a19e@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=takken.sorza.ir&path=%2F%3Fed%3D2560+PuLaFreeBOT+PuLaVPN&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%20662ms
+vless://80bace8b-bdf4-495f-b8a3-a2377f64a19e@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=takken.sorza.ir&path=%2F%3Fed%3D2560+PuLaFreeBOT+PuLaVPN&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%20745ms
