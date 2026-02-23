@@ -1,1 +1,2 @@
-vless://80bace8b-bdf4-495f-b8a3-a2377f64a19e@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=takken.sorza.ir&path=%2F%3Fed%3D2560+PuLaFreeBOT+PuLaVPN&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%20745ms
+vless://80bace8b-bdf4-495f-b8a3-a2377f64a19e@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=takken.sorza.ir&path=%2F%3Fed%3D2560+PuLaFreeBOT+PuLaVPN&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%20663ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDE3NzBtcyIsImFkZCI6IjE5My4xNTEuMTQ2LjIzMiIsInBvcnQiOiIxNzM1NiIsImlkIjoiZjk1Y2I1YWUtMWIwNi00YTU3LWFiYTAtMzBhZmUxMmQyM2VkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
