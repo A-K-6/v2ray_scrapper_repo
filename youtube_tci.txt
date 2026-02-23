@@ -1,3 +1,1 @@
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?encryption=none&security=tls&type=ws&host=all-fm2.netsnap.ir.&sni=all-fm2.netsnap.ir.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20824ms
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?encryption=none&security=tls&type=ws&host=all-um2.netsnap.ir.&path=%2F&sni=all-um2.netsnap.ir.&fp=firefox#%F0%9F%87%BA%F0%9F%87%B3%20UN%201844ms
-vless://c805b05e-339d-40e0-8787-432d97a27345@ip-data.turkserver.ir:2087?encryption=none&security=tls&type=ws&host=all-um2.netsnap.ir.&path=%2F&sni=all-um2.netsnap.ir.&fp=firefox#%F0%9F%87%BA%F0%9F%87%B3%20UN%202343ms
+vless://cf00eb1a-a0b3-4e48-b917-0578f2f9566f@85.133.161.168:8080?encryption=none&security=none&type=ws&host=anten.ir&path=%2Fv1%2Fstream%2Ftrk#%F0%9F%87%AE%F0%9F%87%B7%20IR%20729ms
