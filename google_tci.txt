@@ -1,1 +1,2 @@
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?encryption=none&security=tls&type=ws&host=cd11.thisiswe.uno&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&sni=cd11.thisiswe.uno#%F0%9F%87%B8%F0%9F%87%A8%20SC%205705ms
+vless://cf00eb1a-a0b3-4e48-b917-0578f2f9566f@85.133.161.168:8080?encryption=none&security=none&type=ws&host=anten.ir&path=%2Fv1%2Fstream%2Ftrk#%F0%9F%87%AE%F0%9F%87%B7%20IR%20450ms
+vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?encryption=none&security=none&type=ws&host=D2R57.divarcdn.com%2C0ziwu.snappfood.ir%2CBXTLd.yjc.ir%2C1QjBQ.digikala.com%2C7fYt7.tic.ir&path=%2FALMAS4#%F0%9F%87%BA%F0%9F%87%B3%20UN%20484ms
