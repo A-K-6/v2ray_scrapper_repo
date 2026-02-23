@@ -1,2 +1,1 @@
-vless://c805b05e-339d-40e0-8787-432d97a27345@ip-data.turkserver.ir:2087?encryption=none&security=tls&type=ws&host=all-um2.netsnap.ir.&path=%2F&sni=all-um2.netsnap.ir.&fp=firefox#%F0%9F%87%BA%F0%9F%87%B3%20UN%201625ms
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?encryption=none&security=tls&type=ws&host=all-um2.netsnap.ir.&path=%2F&sni=all-um2.netsnap.ir.&fp=firefox#%F0%9F%87%BA%F0%9F%87%B3%20UN%201784ms
+vless://80bace8b-bdf4-495f-b8a3-a2377f64a19e@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=takken.sorza.ir&path=%2F%3Fed%3D2560+PuLaFreeBOT+PuLaVPN&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%20662ms
