@@ -1,12 +1,1 @@
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@104.18.26.90:2087?encryption=none&security=tls&type=ws&host=all-fm2.netsnap.ir.&path=%2F&sni=all-fm2.netsnap.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20694ms
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?encryption=none&security=tls&type=ws&host=all-fm2.netsnap.ir.&sni=all-fm2.netsnap.ir.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20720ms
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?encryption=none&security=tls&type=ws&host=all-fm2.netsnap.ir.&path=%2F&sni=all-fm2.netsnap.ir.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20725ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDg5OG1zIiwiYWRkIjoiMTkzLjE1MS4xNDYuMjMyIiwicG9ydCI6IjE3MzU2IiwiaWQiOiJmOTVjYjVhZS0xYjA2LTRhNTctYWJhMC0zMGFmZTEyZDIzZWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
-vless://daa76981-27fb-4943-8311-c46391ff0847@81.12.91.190:443?encryption=none&security=reality&type=tcp&sni=git-scm.com&fp=chrome&pbk=U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM&sid=e081d94bd1f9bd56#%F0%9F%87%AE%F0%9F%87%B7%20IR%201046ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.105:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%202069ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#%F0%9F%87%BA%F0%9F%87%B3%20UN%202081ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.17.169:989#%F0%9F%87%B3%F0%9F%87%B1%20NL%202103ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7%20KR%202104ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.222:38388#%F0%9F%87%BB%F0%9F%87%B3%20VN%202106ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.141.221.124:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%202107ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AA%20BE%202108ms
+vless://cf00eb1a-a0b3-4e48-b917-0578f2f9566f@85.133.161.168:8080?encryption=none&security=none&type=ws&host=anten.ir&path=%2Fv1%2Fstream%2Ftrk#%F0%9F%87%AE%F0%9F%87%B7%20IR%20450ms
