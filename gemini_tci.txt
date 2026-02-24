@@ -1,1 +1,2 @@
-vless://a2b5ed44-6d39-4a41-97e1-c643508d73d9@cf.mtpmio.com:2053?encryption=none&security=tls&type=ws&host=api.mtpmio.com&path=%2Fapi%3Fed%3D1024&sni=api.mtpmio.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201024ms
+vless://a2b5ed44-6d39-4a41-97e1-c643508d73d9@cf.mtpmio.com:2053?encryption=none&security=tls&type=ws&host=api.mtpmio.com&path=%2Fapi%3Fed%3D1024&sni=api.mtpmio.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20986ms
+vless://daa76981-27fb-4943-8311-c46391ff0847@81.12.91.190:443?encryption=none&security=reality&type=tcp&sni=git-scm.com&fp=chrome&pbk=U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM&sid=e081d94bd1f9bd56#%F0%9F%87%AE%F0%9F%87%B7%20IR%201306ms
