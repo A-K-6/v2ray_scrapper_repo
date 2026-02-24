@@ -1,1 +1,2 @@
-vless://09921192-df6e-447d-aa13-6d359be38b2a@glob.thisiswe.uno:2087?encryption=none&security=tls&type=ws&host=rahim.thisiswe.uno&path=%2F&sni=rahim.thisiswe.uno&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205769ms
+vless://09921192-df6e-447d-aa13-6d359be38b2a@glob.thisiswe.uno:2087?encryption=none&security=tls&type=ws&host=rahim.thisiswe.uno&path=%2F&sni=rahim.thisiswe.uno&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201353ms
+vless://db6447b5-e7ca-4805-91f3-729246887f54@jafarturkvpn.toxicts.ir:1009?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%205975ms
