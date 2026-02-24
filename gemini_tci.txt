@@ -1,3 +1,1 @@
-vless://6876434f-13cb-4cbb-b053-63fe67f4bffe@f1.springpaatogh8.store:2053?encryption=none&security=tls&type=ws&host=chess.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%20740ms
-vless://a2b5ed44-6d39-4a41-97e1-c643508d73d9@cf.mtpmio.com:2053?encryption=none&security=tls&type=ws&host=api.mtpmio.com&path=%2Fapi%3Fed%3D1024&sni=api.mtpmio.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20984ms
-vless://daa76981-27fb-4943-8311-c46391ff0847@81.12.91.190:443?encryption=none&security=reality&type=tcp&sni=git-scm.com&fp=chrome&pbk=U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM&sid=e081d94bd1f9bd56#%F0%9F%87%AE%F0%9F%87%B7%20IR%201662ms
+vless://0d0b3fe7-cd79-4ff4-a760-aa6e5357ab41@104.18.166.203:443?encryption=none&security=tls&type=ws&host=hs-4dfc2225.ndkwiut2718.ir&path=%2Fpa&sni=ndkwiut2718.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201606ms
