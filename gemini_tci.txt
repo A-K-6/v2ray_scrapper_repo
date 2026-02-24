@@ -1,1 +1,1 @@
-vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@kz01-vlr01.tcp-reset-club.net:443?encryption=none&security=reality&type=tcp&sni=hls-svod.itunes.apple.com&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31#%F0%9F%87%BA%F0%9F%87%B3%20UN%201208ms
+vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@fi.prod.n7.homes:8444?encryption=none&security=reality&type=xhttp&path=%2F&sni=google.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#%F0%9F%87%BA%F0%9F%87%B3%20UN%205904ms
