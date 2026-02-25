@@ -1,6 +1,5 @@
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDMzMG1zIiwiYWRkIjoiMzcuMjAyLjIyOC4yMyIsInBvcnQiOiI0MjM3NiIsImlkIjoiMzY2OWJkZjUtZDljYS00MzYyLTlhM2YtZTIwZGFiYTZiZjg0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvVjJSYXl5Tkd2cG4vdC5tZS9WMlJheXlOR3ZwbiIsInRscyI6IiIsInNuaSI6IiJ9
-vless://000f318f-d045-4262-af1d-383c43443e8a@dll3maghz3.chooktashakorabi.com:41019?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20398ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ@78.38.246.150:8446#%F0%9F%87%AE%F0%9F%87%B7%20IR%201009ms
-vless://5f0772ad-9db3-4cb0-b801-bd40f51fd3ea@vip.api-tel.xyz:43151?encryption=none&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B3%20UN%201557ms
-vless://34f4ccf9-fa72-4879-a8e0-a89e8f0624b1@x6.prodnsspeed10.ir:2053?encryption=none&security=tls&type=ws&path=%2Flove&sni=nl.mehrsazi.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%205756ms
-vless://8fd91cea-f51b-442b-9f36-e932f1eb7476@azinsite.amir777.sbs:2010?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%205932ms
+vless://2ee95306-39b9-439b-b583-a0203b6a4e81@45.159.148.130:2093?encryption=none&security=none&type=ws&host=www.speedtest.net&path=%2FDownloAdMusic#%F0%9F%87%AE%F0%9F%87%B7%20IR%201592ms
+vless://8fd91cea-f51b-442b-9f36-e932f1eb7476@azinsite.amir777.sbs:2010?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%202132ms
+vless://35249ead-311e-4cb9-ab36-17406ccf6b84@zf.sg1000.eu.cc:50000?encryption=none&security=reality&type=tcp&sni=yahoo.com&fp=chrome&pbk=XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk&sid=1f7bfe#%F0%9F%87%BA%F0%9F%87%B3%20UN%202141ms
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@104.19.57.10:2053?encryption=none&security=tls&type=ws&host=kaja.thisiswe.uno&path=%2F&sni=kaja.thisiswe.uno&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%204079ms
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&type=ws&host=p1.thisiswe.uno&path=%2F&sni=p1.thisiswe.uno&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206739ms
