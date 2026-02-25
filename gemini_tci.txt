@@ -1,2 +1,4 @@
-vless://5b933269-a58c-4f64-aeda-0be5068a9c08@gerasru01.divinevpnconnect.ru:443?encryption=none&security=reality&type=tcp&sni=google.com&flow=xtls-rprx-vision&pbk=kgRnqe6YKbiIbGbgDiGl2cZkH47C2Ma4IehGaS5H6FA#%F0%9F%87%BA%F0%9F%87%B3%20UN%20529ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20CA%20600ms
+vless://5b933269-a58c-4f64-aeda-0be5068a9c08@gerasru01.divinevpnconnect.ru:443?encryption=none&security=reality&type=tcp&sni=google.com&flow=xtls-rprx-vision&pbk=kgRnqe6YKbiIbGbgDiGl2cZkH47C2Ma4IehGaS5H6FA#%F0%9F%87%BA%F0%9F%87%B3%20UN%20526ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201199ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201230ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201451ms
