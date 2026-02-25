@@ -1,5 +1,4 @@
-vless://7c5c2bfe-b690-441a-83d0-bb2cd67c83e2@95.38.210.4:9080?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20415ms
-vless://d9304215-be9e-4d9a-bd84-348c22e5cae6@212.80.10.103:3030?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20420ms
-vless://f84cadb07ef447bfafeeb88a4c88a12c@reserved.fastnodegate.com:8443?encryption=none&security=reality&type=tcp&sni=fastnodegate.com&flow=xtls-rprx-vision&fp=chrome&pbk=nJ6XfI-g6Opkwd3HTkcxJL38NmEAf_IorIYksckcZEM&sid=70#%F0%9F%87%BA%F0%9F%87%B3%20UN%20458ms
-vless://6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90@belnn.appleseraj.ir:2053?encryption=none&security=tls&type=ws&host=chz.mastermarly.ir&path=%2F%3Fed%3D2048&sni=chz.mastermarly.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205971ms
-vless://6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90@poli.appleseraj.ir:443?encryption=none&security=tls&type=ws&host=nigeria.mastermarly.ir&path=%2F%3Fed%3D2048&sni=nigeria.mastermarly.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%207110ms
+vless://d9304215-be9e-4d9a-bd84-348c22e5cae6@212.80.10.103:3030?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20362ms
+vless://6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90@bunney.foxline.ir:443?encryption=none&security=tls&type=ws&host=arashmastermarly.b-cdn.net&path=%2F%3Fed%3D2048&sni=arashmastermarly.b-cdn.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20699ms
+vless://6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90@belnn.appleseraj.ir:2053?encryption=none&security=tls&type=ws&host=chz.mastermarly.ir&path=%2F%3Fed%3D2048&sni=chz.mastermarly.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20804ms
+vless://6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90@poli.appleseraj.ir:443?encryption=none&security=tls&type=ws&host=nigeria.mastermarly.ir&path=%2F%3Fed%3D2048&sni=nigeria.mastermarly.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%201490ms
