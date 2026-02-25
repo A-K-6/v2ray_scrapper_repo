@@ -1,1 +1,2 @@
-vless://5f0772ad-9db3-4cb0-b801-bd40f51fd3ea@vip.api-tel.xyz:43151?encryption=none&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B3%20UN%205493ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDMzMG1zIiwiYWRkIjoiMzcuMjAyLjIyOC4yMyIsInBvcnQiOiI0MjM3NiIsImlkIjoiMzY2OWJkZjUtZDljYS00MzYyLTlhM2YtZTIwZGFiYTZiZjg0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvVjJSYXl5Tkd2cG4vdC5tZS9WMlJheXlOR3ZwbiIsInRscyI6IiIsInNuaSI6IiJ9
+vless://5f0772ad-9db3-4cb0-b801-bd40f51fd3ea@vip.api-tel.xyz:43151?encryption=none&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B3%20UN%201557ms
