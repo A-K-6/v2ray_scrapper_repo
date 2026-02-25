@@ -1,2 +1,2 @@
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIDMzMG1zIiwiYWRkIjoiMzcuMjAyLjIyOC4yMyIsInBvcnQiOiI0MjM3NiIsImlkIjoiMzY2OWJkZjUtZDljYS00MzYyLTlhM2YtZTIwZGFiYTZiZjg0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvVjJSYXl5Tkd2cG4vdC5tZS9WMlJheXlOR3ZwbiIsInRscyI6IiIsInNuaSI6IiJ9
-vless://5f0772ad-9db3-4cb0-b801-bd40f51fd3ea@vip.api-tel.xyz:43151?encryption=none&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B3%20UN%201557ms
+vless://2ee95306-39b9-439b-b583-a0203b6a4e81@45.159.148.130:2093?encryption=none&security=none&type=ws&host=www.speedtest.net&path=%2FDownloAdMusic#%F0%9F%87%AE%F0%9F%87%B7%20IR%201592ms
+vless://35249ead-311e-4cb9-ab36-17406ccf6b84@zf.sg1000.eu.cc:50000?encryption=none&security=reality&type=tcp&sni=yahoo.com&fp=chrome&pbk=XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk&sid=1f7bfe#%F0%9F%87%BA%F0%9F%87%B3%20UN%202141ms
