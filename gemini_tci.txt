@@ -1,1 +1,1 @@
-vless://db6447b5-e7ca-4805-91f3-729246887f54@jafarturkvpn.toxicts.ir:1009?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%202175ms
+vless://5f0772ad-9db3-4cb0-b801-bd40f51fd3ea@vip.api-tel.xyz:43151?encryption=none&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B3%20UN%201517ms
