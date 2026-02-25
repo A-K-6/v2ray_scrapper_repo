@@ -1,1 +1,1 @@
-vless://0dd228c5-9d16-14bc-631d-eb6ce0c89874@srv-c0.netmaster.cam:8008?encryption=none&security=none&type=ws&sni=1#%F0%9F%87%BA%F0%9F%87%B3%20UN%205681ms
+vless://0dd228c5-9d16-14bc-631d-eb6ce0c89874@srv-c0.netmaster.cam:8008?encryption=none&security=none&type=ws&sni=1#%F0%9F%87%BA%F0%9F%87%B3%20UN%20517ms
