@@ -1,11 +1,3 @@
-vless://5b933269-a58c-4f64-aeda-0be5068a9c08@gerasru01.divinevpnconnect.ru:443?encryption=none&security=reality&type=tcp&sni=google.com&flow=xtls-rprx-vision&pbk=kgRnqe6YKbiIbGbgDiGl2cZkH47C2Ma4IehGaS5H6FA#%F0%9F%87%BA%F0%9F%87%B3%20UN%20526ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201199ms
-vless://3bca3a58-4079-4569-8ee0-a34153adc74a@paris1.botchillus.ru:443?encryption=none&security=reality&type=tcp&sni=www.google.com&flow=xtls-rprx-vision&fp=chrome&pbk=FM9-fv0BDcs4Ias0FsLK-THWrpZJXEerygRSUtmY21A&sid=624d1faf#%F0%9F%87%BA%F0%9F%87%B3%20UN%201218ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201230ms
-vless://a611c5bb-ffc8-4ef7-876e-35248b5b389d@est1.atavpn.ru:443?encryption=none&security=reality&type=tcp&sni=apple.com&flow=xtls-rprx-vision&pbk=6zdpB9hEV0WUhV3hRfub7j9hxUcWW2UCKl4CGQ6wIDQ#%F0%9F%87%BA%F0%9F%87%B3%20UN%201246ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201451ms
-vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201889ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ@78.38.246.150:8446#%F0%9F%87%AE%F0%9F%87%B7%20IR%202744ms
-vless://d4f44cf4-cbca-4313-9156-5a8498b20387@glob.thisiswe.uno:2053?encryption=none&security=tls&type=ws&host=godplease11.thisiswe.uno&path=%2F&sni=godplease11.thisiswe.uno&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205814ms
-vless://e2273e4a-ae8f-4937-baa0-a68860e22e61@zf.sg1000.eu.cc:50000?encryption=none&security=reality&type=raw&sni=yahoo.com&fp=chrome&pbk=XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk&sid=1f7bfe#%F0%9F%87%BA%F0%9F%87%B3%20UN%207196ms
-vless://0202580c-7393-4c99-8f6a-7f58ac25b14a@95.38.38.238:8082?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%207337ms
+vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20409ms
+vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@45.130.125.198:8443?encryption=none&security=tls&type=ws&host=nobitex.sylu.net&path=%2F&sni=nobitex.sylu.net#%F0%9F%87%B8%F0%9F%87%A8%20SC%20677ms
+vless://dfe76531-d087-4129-cf5f-41975a1fa894@glob.thisiswe.uno:2083?encryption=none&security=tls&type=ws&host=jamal.thisiswe.uno&path=%2F&sni=jamal.thisiswe.uno&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205771ms
