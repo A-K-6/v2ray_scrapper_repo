@@ -1,7 +1,3 @@
-vless://d9304215-be9e-4d9a-bd84-348c22e5cae6@212.80.10.103:3030?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20362ms
-vless://6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90@bunney.foxline.ir:443?encryption=none&security=tls&type=ws&host=arashmastermarly.b-cdn.net&path=%2F%3Fed%3D2048&sni=arashmastermarly.b-cdn.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20699ms
-vless://6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90@belnn.appleseraj.ir:2053?encryption=none&security=tls&type=ws&host=chz.mastermarly.ir&path=%2F%3Fed%3D2048&sni=chz.mastermarly.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20804ms
-vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?encryption=none&security=none&type=ws&host=D2R57.divarcdn.com%2C0ziwu.snappfood.ir%2CBXTLd.yjc.ir%2C1QjBQ.digikala.com%2C7fYt7.tic.ir&path=ALMAS4#%F0%9F%87%BA%F0%9F%87%B3%20UN%201037ms
-vless://6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90@poli.appleseraj.ir:2096?encryption=none&security=tls&type=ws&host=isranrol.appleseraj.ir&path=%2F%3Fed%3D2048&sni=isranrol.appleseraj.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%201322ms
-vless://6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90@poli.appleseraj.ir:443?encryption=none&security=tls&type=ws&host=nigeria.mastermarly.ir&path=%2F%3Fed%3D2048&sni=nigeria.mastermarly.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%201490ms
-vless://dfe76531-d087-4129-cf5f-41975a1fa894@glob.thisiswe.uno:2083?encryption=none&security=tls&type=ws&host=jamal.thisiswe.uno&path=%2F&sni=jamal.thisiswe.uno&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205837ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201562ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205608ms
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205712ms
