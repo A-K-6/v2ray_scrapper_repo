@@ -1,1 +1,1 @@
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&type=ws&host=p1.thisiswe.uno&path=%2F&sni=p1.thisiswe.uno&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205816ms
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&type=ws&host=p1.thisiswe.uno&path=%2F&sni=p1.thisiswe.uno&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206156ms
