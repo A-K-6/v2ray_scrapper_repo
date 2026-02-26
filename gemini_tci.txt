@@ -1,1 +1,10 @@
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206661ms
+vless://16ca4f6f-b540-691b-579a-ceb710a5eb7d@u11-unlim.standalonemsnew.cam:88?encryption=none&security=none&type=ws&path=%2F&sni=1#%F0%9F%87%BA%F0%9F%87%B3%20UN%20481ms
+vless://16ca4f6f-b540-691b-579a-ceb710a5eb7d@u11-unlim.standalonemsnew.cam:88?encryption=none&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B3%20UN%201131ms
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?encryption=none&security=reality&type=tcp&host=api.company-target.com&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw#%F0%9F%87%B0%F0%9F%87%B7%20KR%205501ms
+vless://ec044d62-375a-4d6e-a112-817adb99dfb5@king.pamelasli.ir:443?encryption=none&security=tls&type=ws&host=Kilerjxi.com&path=%2F%3Fed%3D2560&sni=default.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B3%20UN%205621ms
+vless://ec044d62-375a-4d6e-a112-817adb99dfb5@vps.bkneed.ir:443?encryption=none&security=tls&type=ws&host=Kilerjxi.com&path=%2F%3Fed%3D2560&sni=default.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B3%20UN%205628ms
+vless://26231910-507a-4a79-cb62-6e1ed81c5c89@87.107.83.179:29487?encryption=none&security=reality&type=grpc&sni=yahoo.com&fp=chrome&pbk=MaO9gWmzzml9ktupXxT0ZCkZicrUYKm4IKa1GcZSkDQ#%F0%9F%87%AE%F0%9F%87%B7%20IR%206540ms
+vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=takken.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%206756ms
+vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=takken.sorza.ir&path=%2F%3Fed%3D2560%2FPuLaFreeBOT%2FTelegram%2FPuLaVPN%2FTelegram%2FPuLaVPN%2FTelegram%2FPuLaVPN&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%206782ms
+vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=takken.sorza.ir&path=%2F&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%206814ms
+vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=takken.sorza.ir&path=%2F%3Fed%3D2560%2F&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%207081ms
