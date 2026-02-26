@@ -1,3 +1,1 @@
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20778ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205911ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206128ms
+vless://6d57becf-27f3-4136-9289-a2ae5449af83@www.speedtest.net:443?encryption=none&security=tls&type=ws&path=%2F%3Fed%3D36555336645-8ccc8855-ccckkjs-api1231&sni=kkiihh-iran-abc-iran-1993.kinghooman.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201137ms
