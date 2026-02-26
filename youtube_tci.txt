@@ -1,1 +1,1 @@
-vless://6d57becf-27f3-4136-9289-a2ae5449af83@www.speedtest.net:443?encryption=none&security=tls&type=ws&path=%2F%3Fed%3D36555336645-8ccc8855-ccckkjs-api1231&sni=kkiihh-iran-abc-iran-1993.kinghooman.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201137ms
+vless://6d57becf-27f3-4136-9289-a2ae5449af83@www.speedtest.net:443?encryption=none&security=tls&type=ws&path=%2F%3Fed%3D36555336645-8ccc8855-ccckkjs-api1231&sni=kkiihh-iran-abc-iran-1993.kinghooman.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%205870ms
