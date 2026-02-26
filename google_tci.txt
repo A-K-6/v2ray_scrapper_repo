@@ -1,2 +1,4 @@
-vless://2685d0c1-dfa8-4af5-bfd2-44fbb57c2313@172.67.193.88:443?encryption=none&security=tls&type=ws&host=free.kevindebruynee.shop&path=%2F&sni=free.kevindebruynee.shop#%F0%9F%87%BA%F0%9F%87%B3%20UN%20612ms
-vless://2de8a088-744d-47b4-8b1e-479cdfee48b2@194.36.174.160:15300?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20729ms
+trojan://1111@162.159.36.5:2053?security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.hopev63786.workers.dev&type=ws&path=%2F%3Fed%3D2560&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.hopev63786.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20449ms
+trojan://1111@172.64.144.86:8443?security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.dipemi1953.workers.dev&type=ws&path=%2F%3Fed%3D2560&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.dipemi1953.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20499ms
+vless://2de8a088-744d-47b4-8b1e-479cdfee48b2@194.36.174.160:15300?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20511ms
+vless://2685d0c1-dfa8-4af5-bfd2-44fbb57c2313@172.67.193.88:443?encryption=none&security=tls&type=ws&host=free.kevindebruynee.shop&path=%2F&sni=free.kevindebruynee.shop#%F0%9F%87%BA%F0%9F%87%B3%20UN%201999ms
