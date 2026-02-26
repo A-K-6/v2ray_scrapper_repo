@@ -1,3 +1,5 @@
-vless://2685d0c1-dfa8-4af5-bfd2-44fbb57c2313@172.67.193.88:443?encryption=none&security=tls&type=ws&host=free.kevindebruynee.shop&path=%2F&sni=free.kevindebruynee.shop#%F0%9F%87%BA%F0%9F%87%B3%20UN%20612ms
-vless://2de8a088-744d-47b4-8b1e-479cdfee48b2@194.36.174.160:15300?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20729ms
-vless://613b8baf-f848-43b6-9055-63a37160f203@zf.sg1000.eu.cc:50000?encryption=none&security=reality&type=tcp&sni=yahoo.com&fp=chrome&pbk=XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk&sid=1f7bfe#%F0%9F%87%BA%F0%9F%87%B3%20UN%202731ms
+trojan://1111@162.159.36.5:2053?security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.hopev63786.workers.dev&type=ws&path=%2F%3Fed%3D2560&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.hopev63786.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20449ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.239.72.238:2096?encryption=none&security=tls&type=ws&host=sni.jpmj.dev&path=Telegram%3D%40N3TWRK+&sni=sni.jpmj.dev&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20GB%20467ms
+trojan://1111@172.64.144.86:8443?security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.dipemi1953.workers.dev&type=ws&path=%2F%3Fed%3D2560&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.dipemi1953.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20499ms
+vless://2de8a088-744d-47b4-8b1e-479cdfee48b2@194.36.174.160:15300?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20511ms
+vless://2685d0c1-dfa8-4af5-bfd2-44fbb57c2313@172.67.193.88:443?encryption=none&security=tls&type=ws&host=free.kevindebruynee.shop&path=%2F&sni=free.kevindebruynee.shop#%F0%9F%87%BA%F0%9F%87%B3%20UN%201999ms
