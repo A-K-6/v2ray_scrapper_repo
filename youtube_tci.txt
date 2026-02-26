@@ -1,3 +1,1 @@
-vless://16ca4f6f-b540-691b-579a-ceb710a5eb7d@u11-unlim.standalonemsnew.cam:88?encryption=none&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B3%20UN%20775ms
-vless://26231910-507a-4a79-cb62-6e1ed81c5c89@87.107.83.179:29487?encryption=none&security=reality&type=grpc&sni=yahoo.com&fp=chrome&pbk=MaO9gWmzzml9ktupXxT0ZCkZicrUYKm4IKa1GcZSkDQ#%F0%9F%87%AE%F0%9F%87%B7%20IR%206514ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%207332ms
+vless://01566881-bc1c-4376-9531-d540963c287b@f1.springpaatogh8.store:8443?encryption=none&security=tls&type=ws&host=takken.sorza.ir&path=%2F%3Fed%3D2560%2FJOIN%2FV2rayNG_SPDNet%2FJOIN%2FV2rayNG_SPDNet%2FJOIN%2FV2rayNG_SPDNet%2FJOIN%2FV2rayNG_SPDNet%2FJOIN%2FV2rayNG_SPDNet&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%20746ms
