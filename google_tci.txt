@@ -1,1 +1,2 @@
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%206661ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ@78.38.246.150:8446#%F0%9F%87%AE%F0%9F%87%B7%20IR%202699ms
+vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%205024ms
