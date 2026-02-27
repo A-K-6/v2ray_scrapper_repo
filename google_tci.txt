@@ -1,7 +1,4 @@
-vless://d5c88c60-0293-4356-ebd8-046560abfc4f@46.38.138.221:8081?encryption=none&security=none&type=tcp&host=%2FJOIN---MTMVPN---JOIN---MTMVPN---JOIN---MTMVPN---JOIN---MTMVPN---JOIN---MTMVPN#%F0%9F%87%AE%F0%9F%87%B7%20IR%201349ms
-vless://d5c88c60-0293-4356-ebd8-046560abfc4f@46.38.138.221:8081?encryption=none&security=none&type=tcp&host=speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20IR%202165ms
-vless://d5c88c60-0293-4356-ebd8-046560abfc4f@46.38.138.221:8081?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%202461ms
-vless://d5c88c60-0293-4356-ebd8-046560abfc4f@46.38.138.221:8081?encryption=none&security=none&type=tcp&host=%2FJOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet#%F0%9F%87%AE%F0%9F%87%B7%20IR%202463ms
-vless://f256491e-8e71-4757-ac68-ec8989f5ddbe@ip-data.turkserver.ir:2087?encryption=none&security=tls&type=ws&host=all-zm1.netsnap.ir.&path=%2F&sni=all-zm1.netsnap.ir.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202575ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ@78.38.246.150:8446#%F0%9F%87%AE%F0%9F%87%B7%20IR%205045ms
-vless://db6447b5-e7ca-4805-91f3-729246887f54@jafarturkvpn.toxicts.ir:1009?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%205433ms
+vless://db6447b5-e7ca-4805-91f3-729246887f54@jafarturkvpn.toxicts.ir:1009?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20689ms
+vless://d5c88c60-0293-4356-ebd8-046560abfc4f@46.38.138.221:8081?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201680ms
+vless://d5c88c60-0293-4356-ebd8-046560abfc4f@46.38.138.221:8081?encryption=none&security=none&type=tcp&host=%2FJOIN---MTMVPN---JOIN---MTMVPN---JOIN---MTMVPN---JOIN---MTMVPN---JOIN---MTMVPN#%F0%9F%87%AE%F0%9F%87%B7%20IR%203809ms
+vless://d5c88c60-0293-4356-ebd8-046560abfc4f@46.38.138.221:8081?encryption=none&security=none&type=tcp&host=%2FJOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet#%F0%9F%87%AE%F0%9F%87%B7%20IR%204570ms
