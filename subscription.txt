@@ -1,3 +1,3 @@
-vless://5f6cdece-55ac-41fb-9d99-a6561c927622@luna3.moftping.com:8080?encryption=none&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B3%20UN%201319ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.159.106.175:989#%F0%9F%87%AB%F0%9F%87%B7%20FR%201787ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ@78.38.246.150:8446#%F0%9F%87%AE%F0%9F%87%B7%20IR%201796ms
+vless://b3629375-0dca-46a3-aab1-8a07ff397332@172.67.190.220:8443?encryption=none&security=tls&type=xhttp&path=%2F&sni=cdn.speadmaster.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20528ms
+vless://Telegram@31.185.108.8:2096?encryption=none&security=tls&type=ws&host=tn1rr.qzz.io&path=%2Fsg-lnd&sni=tn1rr.qzz.io#%F0%9F%87%A9%F0%9F%87%AA%20DE%20545ms
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?encryption=none&security=reality&type=tcp&sni=api.push.apple.com&fp=chrome&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#%F0%9F%87%BA%F0%9F%87%B3%20UN%206093ms
