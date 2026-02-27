@@ -1,1 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ@78.38.246.150:8446#%F0%9F%87%AE%F0%9F%87%B7%20IR%201730ms
+vless://f256491e-8e71-4757-ac68-ec8989f5ddbe@ip-data.turkserver.ir:2087?encryption=none&security=tls&type=ws&host=all-zm1.netsnap.ir.&path=%2F&sni=all-zm1.netsnap.ir.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203173ms
+vless://c0b8751d-3bcd-4f55-9cca-4a00fc955a15@ip-data.turkserver.ir:2083?encryption=none&security=tls&type=ws&host=all-nm1.netsnap.ir.&path=%2F&sni=all-nm1.netsnap.ir.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203620ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTNlNDNmNC0xMmI3LTQyZjEtOGI5My00MWExNTJkNTYxMmQ@78.38.246.150:8446#%F0%9F%87%AE%F0%9F%87%B7%20IR%205887ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.159.106.175:989#%F0%9F%87%AB%F0%9F%87%B7%20FR%205937ms
+vless://db6447b5-e7ca-4805-91f3-729246887f54@jafarturkvpn.toxicts.ir:1009?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%206523ms
