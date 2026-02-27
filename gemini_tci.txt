@@ -1,5 +1,3 @@
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20998ms
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed&sni=digikala.sorza.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%20999ms
-vless://f256491e-8e71-4757-ac68-ec8989f5ddbe@ip-data.turkserver.ir:2087?encryption=none&security=tls&type=ws&host=all-zm1.netsnap.ir.&path=%2F&sni=all-zm1.netsnap.ir.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202099ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#%F0%9F%87%B3%F0%9F%87%B1%20NL%203955ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.159.106.175:989#%F0%9F%87%AB%F0%9F%87%B7%20FR%205117ms
+vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?encryption=none&security=tls&type=ws&host=windy.adaspoloandco.com&path=%2Fdownloader.php&sni=windy.adaspoloandco.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201408ms
+vless://c0b8751d-3bcd-4f55-9cca-4a00fc955a15@ip-data.turkserver.ir:2083?encryption=none&security=tls&type=ws&host=all-nm1.netsnap.ir.&path=%2F&sni=all-nm1.netsnap.ir.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203641ms
+vless://b406a374-b6ee-402e-8185-0556d02045a4@194.36.174.154:9092?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%204997ms
