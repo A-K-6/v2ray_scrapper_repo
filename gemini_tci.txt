@@ -1,0 +1,3 @@
+vless://b406a374-b6ee-402e-8185-0556d02045a4@194.36.174.154:9092?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201449ms
+vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?encryption=none&security=tls&type=ws&host=windy.adaspoloandco.com&path=%2Fdownloader.php&sni=windy.adaspoloandco.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202244ms
+vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@us01-vlr01-gmn03.tcp-reset-club.net:18443?encryption=none&security=reality&type=tcp&sni=hls-svod.itunes.apple.com&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d#%F0%9F%87%BA%F0%9F%87%B3%20UN%206071ms
