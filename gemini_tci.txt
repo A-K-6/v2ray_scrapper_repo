@@ -1,5 +1,2 @@
-vless://b406a374-b6ee-402e-8185-0556d02045a4@194.36.174.154:9092?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201202ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.159.106.175:989#%F0%9F%87%AB%F0%9F%87%B7%20FR%202740ms
-vless://c0b8751d-3bcd-4f55-9cca-4a00fc955a15@ip-data.turkserver.ir:2083?encryption=none&security=tls&type=ws&host=all-nm1.netsnap.ir.&path=%2F&sni=all-nm1.netsnap.ir.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%204726ms
-vless://d5c88c60-0293-4356-ebd8-046560abfc4f@46.38.138.221:8081?encryption=none&security=none&type=tcp&host=%2FJOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet#%F0%9F%87%AE%F0%9F%87%B7%20IR%206784ms
-vless://f256491e-8e71-4757-ac68-ec8989f5ddbe@ip-data.turkserver.ir:2087?encryption=none&security=tls&type=ws&host=all-zm1.netsnap.ir.&path=%2F&sni=all-zm1.netsnap.ir.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%207184ms
+vless://b406a374-b6ee-402e-8185-0556d02045a4@194.36.174.154:9092?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201261ms
+vless://f256491e-8e71-4757-ac68-ec8989f5ddbe@ip-data.turkserver.ir:2087?encryption=none&security=tls&type=ws&host=all-zm1.netsnap.ir.&path=%2F&sni=all-zm1.netsnap.ir.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202019ms
