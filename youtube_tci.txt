@@ -1,4 +1,2 @@
-vless://6263516e-13f4-4a29-8c6b-a999aafa438b@185.231.115.48:2053?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20359ms
-vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?encryption=none&security=tls&type=ws&host=windy.adaspoloandco.com&path=%2Fdownloader.php&sni=windy.adaspoloandco.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202381ms
-vless://4e125438-1a39-440e-95fc-36b9dec03e5f@141.101.115.71:443?encryption=none&security=tls&type=ws&host=adderall.adaspoloandco.com&path=%2Ffaq&sni=adderall.adaspoloandco.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202859ms
-vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@173.245.59.191:8443?encryption=none&security=tls&type=ws&host=maple.adaspoloandco.com&path=%2Fuploader.php&sni=maple.adaspoloandco.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202875ms
+vless://4c536fda-167c-420a-9409-9fb00984eeec@luna3.moftping.com:8080?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20401ms
+vless://f256491e-8e71-4757-ac68-ec8989f5ddbe@ip-data.turkserver.ir:2087?encryption=none&security=tls&type=ws&host=all-zm1.netsnap.ir.&path=%2F&sni=all-zm1.netsnap.ir.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203785ms
