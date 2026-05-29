@@ -1,8 +1,1 @@
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@185.171.202.38:443?encryption=none&security=reality&type=tcp&sni=fr.denditop.site&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb#%F0%9F%87%AB%F0%9F%87%B7%20FR%20625ms
-vless://73dd2e32-eb5b-4187-a7da-36d4d1a4c719@193.233.133.63:80?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20FR%20923ms
-vless://73dd2e32-eb5b-4187-a7da-36d4d1a4c719@w.vidboxco.ir:2053?encryption=none&security=tls&type=ws&host=fr-fd-px.iranvatanam.com&path=%2F%3Fed%3D2052&sni=fr-fd-px.iranvatanam.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201876ms
-vless://73dd2e32-eb5b-4187-a7da-36d4d1a4c719@wwww.vidboxco.ir:443?encryption=none&security=tls&type=ws&path=%2F&sni=de-fd-px.iranvatanam.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203092ms
-vless://5190d373-ff94-42da-a9d1-559d201dd77f@193.151.134.189:8008?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%203269ms
-vless://85f15b9d-74da-4ea0-9ffd-5fc0bb03e3d5@185.237.223.36:13295?encryption=none&security=reality&type=tcp&sni=yandex.ru&flow=xtls-rprx-vision&pbk=Hq4RlJdGl8UN0KO3kNj03pjToLF7fnCHdZfQ1qmDLho&sid=98#%F0%9F%87%B2%F0%9F%87%A9%20MD%205905ms
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@218.152.227.25:12000?security=tls&sni=vpn.rnmcnm.com&type=ws&path=%2Ftrojan#%F0%9F%87%B0%F0%9F%87%B7%20KR%206085ms
-vless://ae065531-7a26-4c3f-82cf-7c2ee9effcde@45.130.125.76:2087?encryption=none&security=tls&type=xhttp&host=chan1.newappdominfastlogin4.com&path=%2F&sni=chan1.newappdominfastlogin4.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20SC%207055ms
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&sni=fra34.tracker-ws.click&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20489ms
