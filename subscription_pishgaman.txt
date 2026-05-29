@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWM2l5cjNIVERBT0xxMVhuM0N6TUFD@176.97.65.164:8554#%F0%9F%87%B8%F0%9F%87%AC%20SG%20850ms
-trojan://Mitivpn@5.10.214.53:443?security=tls&sni=dash.hitgram.ir&type=ws&path=%2F%3Fed%3Dmitivpn&host=dash.hitgram.ir#%F0%9F%87%A9%F0%9F%87%AA%20DE%20927ms
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.210:80?encryption=none&security=none&type=ws&host=tt.andishehparenting.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202243ms
