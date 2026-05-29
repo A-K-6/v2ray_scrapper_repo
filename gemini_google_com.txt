@@ -1,1 +1,3 @@
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.210:80?encryption=none&security=none&type=ws&host=tt.andishehparenting.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202243ms
+vless://3c5ca504-1ef8-43d5-ada6-e290f39722f2@104.18.12.65:443?encryption=none&security=tls&type=ws&host=varzesh24.yallda.com&path=%2Ft.me%2Fv2rayvpnlink&sni=jffjjhgfhh.yallda.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201017ms
+vless://3c5ca504-1ef8-43d5-ada6-e290f39722f2@mtn.vlink2.ir:443?encryption=none&security=tls&type=ws&host=varzesh24.yallda.com&path=%2Ft.me%2Fv2rayvpnlink&sni=jffjjhgfhh.yallda.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201796ms
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&host=www.creationlong.org#%F0%9F%87%AB%F0%9F%87%B7%20FR%204293ms
