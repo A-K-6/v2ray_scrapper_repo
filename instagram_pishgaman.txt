@@ -1,2 +1,2 @@
-trojan://humanity@172.64.146.211:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%203112ms
-vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@nl.omuvpn.tech:18443?encryption=none&security=reality&type=tcp&sni=www.miro.com&flow=xtls-rprx-vision&fp=chrome&pbk=YoVxvwAP6l4vRG9HZmePBcHxy9oaRyWKmp1fIXVzPAY&sid=16#%F0%9F%87%BA%F0%9F%87%B3%20UN%204550ms
+trojan://humanity@172.64.147.15:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201093ms
+trojan://humanity@172.64.146.211:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201165ms
