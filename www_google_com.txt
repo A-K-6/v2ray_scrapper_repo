@@ -1,14 +1,3 @@
-trojan://humanity@172.64.147.210:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201919ms
-trojan://humanity@172.64.147.166:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201934ms
-trojan://humanity@172.64.147.252:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201994ms
-trojan://humanity@172.64.147.119:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202210ms
-trojan://humanity@104.18.0.55:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%202519ms
-trojan://humanity@172.64.146.163:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202804ms
-trojan://humanity@104.21.227.134:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202867ms
-trojan://humanity@172.64.147.2:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202874ms
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@104.143.0.117:8443?security=tls&sni=vpn.rnmcnm.com&type=ws&path=%2Ftrojan#%F0%9F%87%A6%F0%9F%87%B9%20AT%203540ms
-trojan://humanity@172.66.47.45:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&host=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B3%20UN%204275ms
-trojan://humanity@172.64.147.223:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%204942ms
-trojan://humanity@172.64.155.209:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%206814ms
-trojan://humanity@188.114.99.0:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%207082ms
-trojan://humanity@172.64.146.1:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%207970ms
+trojan://humanity@172.64.147.15:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202864ms
+trojan://humanity@172.64.146.211:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%203112ms
+vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@nl.omuvpn.tech:18443?encryption=none&security=reality&type=tcp&sni=www.miro.com&flow=xtls-rprx-vision&fp=chrome&pbk=YoVxvwAP6l4vRG9HZmePBcHxy9oaRyWKmp1fIXVzPAY&sid=16#%F0%9F%87%BA%F0%9F%87%B3%20UN%204550ms
