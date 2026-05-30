@@ -1,3 +1,1 @@
-trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&type=ws&path=%252Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%203822ms
-trojan://humanity@172.64.146.211:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%206595ms
-trojan://humanity@172.64.147.85:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%207599ms
+trojan://humanity@172.64.146.211:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%207384ms
