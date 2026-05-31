@@ -1,4 +1,2 @@
-vless://2cd09b58-e32b-472e-9e98-6140e708f2f5@172.67.158.125:443?encryption=none&security=tls&type=ws&host=hzR07-Cdn.sOreN-ApP.coM.&path=%2F&sni=sSl.sOreN-ApP.coM.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20853ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWQ3MjdjZC0zMzBiLTRlZGQtODkxMS03YzIyNGRmNmFmZDU@43.164.128.196:22386#%F0%9F%87%B0%F0%9F%87%B7%20KR%201780ms
-trojan://7p52vhn9vs4naimm@freealireza3.nscl.ir:443?security=tls&sni=freealireza3.nscl.ir&type=ws&path=%2Fdashboard&host=freealireza3.nscl.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%203970ms
-trojan://humanity@172.67.155.199:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%207812ms
+trojan://7p52vhn9vs4naimm@freealireza3.nscl.ir:443?security=tls&sni=freealireza3.nscl.ir&type=ws&path=%2Fdashboard&host=freealireza3.nscl.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%201222ms
+trojan://gcuCpQfaiVeDBdWG@211.76.176.99:19128?security=tls&sni=yazhou10.dynu.net&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%204959ms
