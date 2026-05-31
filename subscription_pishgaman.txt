@@ -1,6 +1,2 @@
-vless://2cd09b58-e32b-472e-9e98-6140e708f2f5@172.67.158.125:443?encryption=none&security=tls&type=ws&host=hzR07-Cdn.sOreN-ApP.coM.&path=%2F&sni=sSl.sOreN-ApP.coM.&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20686ms
-trojan://GdL9nNA8km@188.114.97.6:443?security=tls&sni=ssss2.avaaal.ir&type=ws&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2FAvaal%2Fproduction%2Fsettings&host=ssss2.avaaal.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%20940ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIS2N3R1dSRVQyRXNwNmpFMDZkMFpB@c8811f70481d6448c8811f70481d6448.dadnode.ir:33699#%F0%9F%87%BA%F0%9F%87%B3%20UN%201522ms
-trojan://humanity@188.121.122.144:40443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&host=www.ignitelimit.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%204225ms
-trojan://GdL9nNA8km@ssss2.avaaal.ir:443?security=tls&type=ws&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2FAvaal%2Fproduction%2Fsettings#%F0%9F%87%BA%F0%9F%87%B3%20UN%207363ms
-trojan://humanity@185.231.112.217:40443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&host=www.ignitelimit.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%207795ms
+trojan://GdL9nNA8km@188.114.97.6:443?security=tls&sni=ssss2.avaaal.ir&type=ws&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2FAvaal%2Fproduction%2Fsettings&host=ssss2.avaaal.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%20876ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIS2N3R1dSRVQyRXNwNmpFMDZkMFpB@c8811f70481d6448c8811f70481d6448.dadnode.ir:33699#%F0%9F%87%BA%F0%9F%87%B3%20UN%20992ms
