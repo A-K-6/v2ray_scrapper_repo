@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.225.195.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime18.workers.dev&path=%2F#%F0%9F%87%A6%F0%9F%87%AA%20AE%20679ms
+vless://c3d4e5f6-7890-1234-5678-90abcdef1234@104.21.70.145:443?encryption=none&security=tls&type=ws&host=vpn3.rnmcnm.com&path=%2Fray&sni=vpn3.rnmcnm.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%206085ms
