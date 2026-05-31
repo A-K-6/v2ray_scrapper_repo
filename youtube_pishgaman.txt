@@ -1,8 +1,3 @@
-vless://651ae6ff-6938-4890-b44b-ec6e05ec8c3f@188.114.97.6:443?encryption=none&security=tls&type=xhttp&host=danjo.lezzatcore.ir&path=%2F&sni=danjo.lezzatcore.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201200ms
-trojan://humanity@141.193.213.30:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B8%20US%202472ms
-trojan://BstBsRr71p@104.18.32.47:8443?security=tls&sni=sv-free.n2buy.ir&type=xhttp#%F0%9F%87%BA%F0%9F%87%B3%20UN%202917ms
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@14.41.44.168:12300?security=tls&sni=vpn1.rnmcnm.com&type=ws&path=%2Ftrj-ws#%F0%9F%87%B0%F0%9F%87%B7%20KR%202960ms
-vless://7138233b-1e01-5507-b5de-f41286090bad@varzesh3.com:8880?encryption=none&security=none&type=ws&host=sport.mr100tomani.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%203503ms
-vless://65f04497-c10a-4783-aae7-40e4ece19a59@us.clickvpn.work:443?encryption=none&security=reality&type=tcp&sni=www.icloud.com&fp=chrome&pbk=gvbptNLMh_jNnAmr0Io1s94_Rc1ErZyCLUC_pLqoG3I&sid=390ec8#%F0%9F%87%BA%F0%9F%87%B3%20UN%205079ms
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@219.103.68.164:20770?security=tls&sni=vpn1.rnmcnm.com&type=ws&path=%2Ftrj-ws&host=vpn1.rnmcnm.com#%F0%9F%87%AF%F0%9F%87%B5%20JP%205164ms
-trojan://humanity@188.114.97.6:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%205464ms
+vless://ed515f4f-138a-4ca4-8d41-466a3e282502@river.cloudureld.com:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=qq&pbk=EpUIca4iGfvUZ6u9ZVRQhQsqIAb3HkK3XtvoE5aEkzY&sid=7e4a550359bc49ff#%F0%9F%87%BA%F0%9F%87%B3%20UN%202227ms
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@219.103.68.164:20770?security=tls&sni=vpn1.rnmcnm.com&type=ws&path=%2Ftrj-ws&host=vpn1.rnmcnm.com#%F0%9F%87%AF%F0%9F%87%B5%20JP%202277ms
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@14.41.44.168:12300?security=tls&sni=vpn1.rnmcnm.com&type=ws&path=%2Ftrj-ws#%F0%9F%87%B0%F0%9F%87%B7%20KR%202557ms
