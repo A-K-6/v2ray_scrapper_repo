@@ -1,1 +1,1 @@
-vless://f3368578-8389-458d-9aee-08dc350c5230@mzonede.3cloudhost.com:443?encryption=none&security=reality&type=tcp&sni=mzone.3cloudhost.com&flow=xtls-rprx-vision&pbk=SARDrN_d46PsugT2k5ILoQAJqaA1eCOZhe1BjKMonj8#%F0%9F%87%BA%F0%9F%87%B3%20UN%202307ms
+vless://f3368578-8389-458d-9aee-08dc350c5230@mzonede.3cloudhost.com:443?encryption=none&security=reality&type=tcp&sni=mzone.3cloudhost.com&flow=xtls-rprx-vision&pbk=SARDrN_d46PsugT2k5ILoQAJqaA1eCOZhe1BjKMonj8#%F0%9F%87%BA%F0%9F%87%B3%20UN%204937ms
