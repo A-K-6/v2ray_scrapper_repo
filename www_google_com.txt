@@ -1,1 +1,2 @@
-vless://c3d4e5f6-7890-1234-5678-90abcdef1234@104.21.70.145:443?encryption=none&security=tls&type=ws&host=vpn3.rnmcnm.com&path=%2Fray&sni=vpn3.rnmcnm.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%206085ms
+vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@pro.online.prostosetup.org:443?encryption=none&security=reality&type=tcp&sni=pro.online.prostosetup.org&flow=xtls-rprx-vision&fp=chrome&pbk=qBTTzM-_JJ5NDPfJc8_4StCYqeK4DpiZWEjxCf3KYXA&sid=a96e9c98e60fd8d5#%F0%9F%87%BA%F0%9F%87%B3%20UN%201860ms
+vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@nether.n1etwork.prostosetup.org:443?encryption=none&security=reality&type=tcp&sni=github.com&flow=xtls-rprx-vision&fp=chrome&pbk=Z_heo1gJ3FzlxVMQqbVT-W3RZrlL7ulNAvfpPg1jaXw&sid=bcb6b0637a1206c3#%F0%9F%87%BA%F0%9F%87%B3%20UN%202056ms
