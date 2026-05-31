@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.225.195.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime18.workers.dev&path=%2F#%F0%9F%87%A6%F0%9F%87%AA%20AE%20679ms
+vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@pro.online.prostosetup.org:443?encryption=none&security=reality&type=tcp&sni=pro.online.prostosetup.org&flow=xtls-rprx-vision&fp=chrome&pbk=qBTTzM-_JJ5NDPfJc8_4StCYqeK4DpiZWEjxCf3KYXA&sid=a96e9c98e60fd8d5#%F0%9F%87%BA%F0%9F%87%B3%20UN%201860ms
+vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@nether.n1etwork.prostosetup.org:443?encryption=none&security=reality&type=tcp&sni=github.com&flow=xtls-rprx-vision&fp=chrome&pbk=Z_heo1gJ3FzlxVMQqbVT-W3RZrlL7ulNAvfpPg1jaXw&sid=bcb6b0637a1206c3#%F0%9F%87%BA%F0%9F%87%B3%20UN%202056ms
