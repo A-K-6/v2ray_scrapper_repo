@@ -1,7 +1,5 @@
-trojan://BstBsRr71p@104.18.32.47:8443?security=tls&sni=sv-free.n2buy.ir&type=xhttp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20898ms
-trojan://humanity@104.17.25.173:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202710ms
-trojan://humanity@172.64.147.79:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202939ms
-trojan://humanity@172.64.147.165:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%203255ms
-trojan://humanity@172.64.147.52:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%203692ms
-trojan://humanity@45.82.138.35:40443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&host=www.ignitelimit.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%204405ms
-trojan://humanity@172.66.44.211:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&host=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B3%20UN%204766ms
+vless://f9fa9ed3-1381-441c-8672-588cbedd012d@45.130.125.206:443?encryption=none&security=tls&type=ws&host=r.bibak.bz&path=%2F&sni=r.bibak.bz#%F0%9F%87%B8%F0%9F%87%A8%20SC%20649ms
+trojan://BstBsRr71p@104.18.32.47:8443?security=tls&sni=sv-free.n2buy.ir&type=xhttp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20682ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDY5OG1zIiwiYWRkIjoiZnJlZS5wcm9qZWN0di5mdW4iLCJwb3J0IjoiODAiLCJpZCI6ImNkM2NkOGY5LThhMjItNDcxOC04Njg0LTczZDQ1NzEzNjZlYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii93cyIsInRscyI6Im5vbmUifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDcxNW1zIiwiYWRkIjoiaGV1ODN1amllaXdvZXU4M2oyZXdqZWh1d2VodTguZGVudGlzY2FuLmNhIiwicG9ydCI6IjgwIiwiaWQiOiJlMjkyM2JjNi04MjA0LTQ3NjgtOThlYS0zNzlkNDhlYThhN2EiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaGV1ODN1amllaXdvZXU4M2oyZXdqZWh1d2VodTguZGVudGlzY2FuLmNhIiwicGF0aCI6Ii8xYXdOenhSU3dLc2RrUFZLUDBaUXFsSGp0MTBzcCIsInRscyI6IiIsInNuaSI6IiJ9
+vless://fc0bdb3b-c61f-4e91-8eb7-9d2a9993fe03@195.85.23.82:2087?encryption=none&security=tls&type=ws&host=pOn.cCnnX.IR&path=%2F%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia&sni=pOn.cCnnX.IR&fp=chrome#%F0%9F%87%A8%F0%9F%87%BF%20CZ%203673ms
