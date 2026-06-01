@@ -1,4 +1,3 @@
-trojan://ASoZeIVwzX4w4wxwig@nl-1.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%201373ms
-trojan://ASoZeIVwzX4w4wxwig@uk-1.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%202412ms
-trojan://ASoZeIVwzX4w4wxwig@de-3.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%202792ms
-trojan://RJbtIstwtcU5buDY3r@nl-1.tr202604.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%205675ms
+vless://f86f5a03-3872-46b5-bf03-a50388a0261d@172.66.47.119:443?encryption=none&security=tls&type=ws&host=a1-tss.pages.dev&path=%2F&sni=a1-tss.pages.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%201088ms
+trojan://RJbtIstwtcU5buDY3r@nl-1.tr202604.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%203679ms
+vless://6cf0f91a-6398-4dfa-941b-3760a8cd58ab@121.127.37.173:443?encryption=none&security=reality&type=tcp&sni=www.microsoft.com&flow=xtls-rprx-vision&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU#%F0%9F%87%B7%F0%9F%87%BA%20RU%204475ms
