@@ -1,3 +1,1 @@
-trojan://LRvXTUTPHT@45.130.125.76:443?security=tls&sni=da.aananas.ir&type=ws&path=%2F%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%A8%20SC%20685ms
-vless://5da02d88-a8cb-4bbb-a667-7d543a72f0a4@god2.ultimagamest.com:443?encryption=none&security=reality&type=tcp&sni=god2.ultimagamest.com&flow=xtls-rprx-vision&fp=chrome&pbk=oqoNDQVcGzlSfB6v8mVlDZhLBUC9glFEOG853ZWiLh4&sid=4326#%F0%9F%87%BA%F0%9F%87%B3%20UN%20736ms
-vless://9a4e8fce-22ac-4e32-bada-f854ee737ec9@finland11.banovano.space:443?encryption=none&security=reality&type=tcp&sni=www.icloud.com&flow=xtls-rprx-vision&fp=chrome&pbk=2VJpo3kXJl9inZRLlXn65LvBUTyaHPmhggfQlzoAzkA&sid=655e55861e#%F0%9F%87%BA%F0%9F%87%B3%20UN%203405ms
+vless://d1aa0bc6-8b4f-45a8-8917-4664b3cab074@ctt.phantom.direct:443?encryption=none&security=reality&type=tcp&sni=yandex.ru&flow=xtls-rprx-vision&fp=chrome&pbk=MvulKIGlZrkM65ni5qzHCtoECLxj1vqbKHA5831RGnk&sid=f83fd840aa1e1bc6#%F0%9F%87%BA%F0%9F%87%B3%20UN%202249ms
