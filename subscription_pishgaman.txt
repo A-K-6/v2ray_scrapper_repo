@@ -1,7 +1,6 @@
-trojan://ASoZeIVwzX4w4wxwig@de-3.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20854ms
-trojan://humanity@2.144.15.210:40443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&host=www.ignitelimit.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%20987ms
-trojan://ASoZeIVwzX4w4wxwig@uk-1.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%201013ms
-vless://2c15f192-3812-98db-85a2-88cd7d02b868@151.101.193.57:80?encryption=none&security=none&type=ws&host=Vpsdelta.com&path=%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8%20US%201107ms
-vless://4859c235-2530-4062-9a0b-ea859cbbf861@162.159.39.157:2087?encryption=none&security=tls&type=ws&host=1.proxy2.us.ci&path=%2F%3Fed%3D2560&sni=1.proxy2.us.ci#%F0%9F%87%BA%F0%9F%87%B3%20UN%201665ms
-trojan://ASoZeIVwzX4w4wxwig@nl-1.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%201922ms
-trojan://RJbtIstwtcU5buDY3r@nl-1.tr202604.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%202272ms
+trojan://RJbtIstwtcU5buDY3r@nl-1.tr202604.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%201206ms
+trojan://ASoZeIVwzX4w4wxwig@nl-1.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%202279ms
+trojan://bpb-trojan@104.21.26.36:443?security=tls&sni=vless.herogoing.top&type=ws&path=%2Ftr%3Fed%3D2560&host=vless.herogoing.top#%F0%9F%87%BA%F0%9F%87%B3%20UN%202304ms
+vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@pl-1.omuvpn.tech:42346?encryption=none&security=reality&type=tcp&sni=www.tradingview.com&flow=xtls-rprx-vision&fp=random&pbk=0xOy6LYcvRIbgXBDMSV0ZiuJPi_hf2e7FV4icmsQYQY&sid=8b5017a8#%F0%9F%87%BA%F0%9F%87%B3%20UN%202687ms
+trojan://ASoZeIVwzX4w4wxwig@de-3.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%202783ms
+trojan://ASoZeIVwzX4w4wxwig@uk-1.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%204347ms
