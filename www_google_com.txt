@@ -1,7 +1,1 @@
-trojan://humanity@104.17.121.37:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201337ms
-trojan://humanity@104.20.6.134:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201608ms
-trojan://mitivpn@www.linkman1.ir:443?security=tls&sni=www.linkman1.ir&type=ws&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings#%F0%9F%87%BA%F0%9F%87%B3%20UN%202222ms
-trojan://BstBsRr71p@104.18.32.47:8443?security=tls&sni=sv-free.n2buy.ir&type=xhttp#%F0%9F%87%BA%F0%9F%87%B3%20UN%202374ms
-trojan://humanity@8.6.112.0:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202378ms
-trojan://humanity@104.18.16.56:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&host=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B3%20UN%202644ms
-vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%203303ms
+trojan://BstBsRr71p@104.18.32.47:8443?security=tls&sni=sv-free.n2buy.ir&type=xhttp#%F0%9F%87%BA%F0%9F%87%B3%20UN%201040ms
