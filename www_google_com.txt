@@ -1,2 +1,1 @@
-trojan://LRvXTUTPHT@45.130.125.76:443?security=tls&sni=da.aananas.ir&type=ws&path=%2F%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%A8%20SC%20606ms
-vless://9a4e8fce-22ac-4e32-bada-f854ee737ec9@finland11.banovano.space:443?encryption=none&security=reality&type=tcp&sni=www.icloud.com&flow=xtls-rprx-vision&fp=chrome&pbk=2VJpo3kXJl9inZRLlXn65LvBUTyaHPmhggfQlzoAzkA&sid=655e55861e#%F0%9F%87%BA%F0%9F%87%B3%20UN%20910ms
+ss://YWVzLTI1Ni1nY206ZmVuZzNkQHNzMjAyNQ@li.feng3d.com:8388#%F0%9F%87%BA%F0%9F%87%B3%20UN%201420ms
