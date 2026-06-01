@@ -1,2 +1,2 @@
-trojan://BstBsRr71p@104.18.32.47:8443?security=tls&sni=sv-free.n2buy.ir&type=xhttp#%F0%9F%87%BA%F0%9F%87%B3%20UN%20656ms
-vless://ed0e05af-49ab-4ea8-a39c-634855811b03@8.6.112.0:443?encryption=none&security=tls&type=ws&host=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&path=%2F&sni=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20910ms
+trojan://RJbtIstwtcU5buDY3r@nl-1.tr202604.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%201886ms
+vless://b146c1b7-feab-4b07-b0a8-bcb65b2289e4@varzesh3.com:2095?encryption=none&security=none&type=ws&host=rat.skycmd.org&path=%2Frat#%F0%9F%87%BA%F0%9F%87%B3%20UN%202267ms
