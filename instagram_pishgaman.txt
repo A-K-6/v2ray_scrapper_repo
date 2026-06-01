@@ -1,1 +1,1 @@
-vless://d1aa0bc6-8b4f-45a8-8917-4664b3cab074@ctt.phantom.direct:443?encryption=none&security=reality&type=tcp&sni=yandex.ru&flow=xtls-rprx-vision&fp=chrome&pbk=MvulKIGlZrkM65ni5qzHCtoECLxj1vqbKHA5831RGnk&sid=f83fd840aa1e1bc6#%F0%9F%87%BA%F0%9F%87%B3%20UN%207636ms
+trojan://LRvXTUTPHT@45.130.125.76:443?security=tls&sni=da.aananas.ir&type=ws&path=%2F%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%A8%20SC%201283ms
