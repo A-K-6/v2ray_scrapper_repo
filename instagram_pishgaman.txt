@@ -1,1 +1,3 @@
-trojan://LRvXTUTPHT@45.130.125.76:443?security=tls&sni=da.aananas.ir&type=ws&path=%2F%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%A8%20SC%201283ms
+trojan://LRvXTUTPHT@45.130.125.76:443?security=tls&sni=da.aananas.ir&type=ws&path=%2F%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%A8%20SC%20943ms
+vless://9a4e8fce-22ac-4e32-bada-f854ee737ec9@finland11.banovano.space:443?encryption=none&security=reality&type=tcp&sni=www.icloud.com&flow=xtls-rprx-vision&fp=chrome&pbk=2VJpo3kXJl9inZRLlXn65LvBUTyaHPmhggfQlzoAzkA&sid=655e55861e#%F0%9F%87%BA%F0%9F%87%B3%20UN%201323ms
+vless://a0b7c251-a27c-410a-89a7-73a31e4e6af9@de2.unoix.co:38148?encryption=none&security=reality&type=grpc&sni=www.yahoo.com&fp=chrome&pbk=CqnP5lpBUqGXHo1aqkUi4HuqD7SC3c27u0LqXQTSJGM&sid=40#%F0%9F%87%BA%F0%9F%87%B3%20UN%206665ms
