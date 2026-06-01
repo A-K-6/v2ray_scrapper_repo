@@ -1,4 +1,1 @@
-trojan://RJbtIstwtcU5buDY3r@nl-1.tr202604.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%201206ms
-trojan://ASoZeIVwzX4w4wxwig@nl-1.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%202279ms
-trojan://ASoZeIVwzX4w4wxwig@de-3.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%202783ms
-trojan://ASoZeIVwzX4w4wxwig@uk-1.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%204347ms
+trojan://RJbtIstwtcU5buDY3r@nl-1.tr202604.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%202931ms
