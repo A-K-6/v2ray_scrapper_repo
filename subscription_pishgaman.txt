@@ -1,5 +1,2 @@
-trojan://LRvXTUTPHT@45.130.125.76:443?security=tls&sni=da.aananas.ir&type=ws&path=%2F%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%A8%20SC%201124ms
-trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?security=tls&sni=zaintest.vuclip.com.cyylr.eu.cc&type=ws&path=%2Fmy-wbv&host=zaintest.vuclip.com.cyylr.eu.cc#%F0%9F%87%A9%F0%9F%87%AA%20DE%201702ms
-trojan://owreRY1bmquS1WcYN2@hk-2.tr202605.com:465?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%203005ms
-trojan://owreRY1bmquS1WcYN2@au-3.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%203189ms
-trojan://owreRY1bmquS1WcYN2@ty-3.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%203313ms
+trojan://LRvXTUTPHT@45.130.125.76:443?security=tls&sni=da.aananas.ir&type=ws&path=%2F%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%A8%20SC%20605ms
+trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?security=tls&sni=zaintest.vuclip.com.cyylr.eu.cc&type=ws&path=%2Fmy-wbv&host=zaintest.vuclip.com.cyylr.eu.cc#%F0%9F%87%A9%F0%9F%87%AA%20DE%20772ms
