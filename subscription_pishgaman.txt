@@ -1,6 +1,4 @@
-trojan://RJbtIstwtcU5buDY3r@nl-1.tr202604.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%201206ms
-trojan://ASoZeIVwzX4w4wxwig@nl-1.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%202279ms
-trojan://bpb-trojan@104.21.26.36:443?security=tls&sni=vless.herogoing.top&type=ws&path=%2Ftr%3Fed%3D2560&host=vless.herogoing.top#%F0%9F%87%BA%F0%9F%87%B3%20UN%202304ms
-vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@pl-1.omuvpn.tech:42346?encryption=none&security=reality&type=tcp&sni=www.tradingview.com&flow=xtls-rprx-vision&fp=random&pbk=0xOy6LYcvRIbgXBDMSV0ZiuJPi_hf2e7FV4icmsQYQY&sid=8b5017a8#%F0%9F%87%BA%F0%9F%87%B3%20UN%202687ms
-trojan://ASoZeIVwzX4w4wxwig@de-3.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%202783ms
-trojan://ASoZeIVwzX4w4wxwig@uk-1.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%204347ms
+trojan://ASoZeIVwzX4w4wxwig@nl-1.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%202117ms
+trojan://RJbtIstwtcU5buDY3r@nl-1.tr202604.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%202931ms
+trojan://ASoZeIVwzX4w4wxwig@de-3.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%204892ms
+trojan://ASoZeIVwzX4w4wxwig@uk-1.tr202605.com:443?security=tls&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%206104ms
