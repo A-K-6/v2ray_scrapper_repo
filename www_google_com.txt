@@ -1,4 +1,10 @@
-vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@45.130.125.160:443?encryption=none&security=tls&type=ws&path=%2F&sni=dl-pack.motionbetter.ir&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20SC%20993ms
-trojan://humanity@162.159.253.41:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202874ms
-trojan://humanity@45.130.125.18:443?security=tls&sni=www.creationlong.org&type=ws&path=%2F%2Fassignment#%F0%9F%87%B8%F0%9F%87%A8%20SC%206272ms
-trojan://humanity@104.20.26.246:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%206287ms
+trojan://humanity@104.19.64.105:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20760ms
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NXlaTGVmdzhOdHF3LzU4aXJUVzJPcE1zTnV5SmpSNjFCdVJlMmdDb3hqbz06SDVLWC9WVzNTZkZGOTJ6R0ZJZUtERmtqWmd5cWpTa3Z0eFo3dCttSXphST0@s.api50951.ir:443#%F0%9F%87%BA%F0%9F%87%B3%20UN%20772ms
+trojan://humanity@104.16.7.70:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20812ms
+vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@45.130.125.160:443?encryption=none&security=tls&type=ws&path=%2F&sni=dl-pack.motionbetter.ir&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20SC%20814ms
+trojan://humanity@162.159.253.41:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20836ms
+trojan://humanity@104.20.26.246:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%203185ms
+trojan://humanity@45.130.125.18:443?security=tls&sni=www.creationlong.org&type=ws&path=%2F%2Fassignment#%F0%9F%87%B8%F0%9F%87%A8%20SC%204017ms
+trojan://humanity@162.159.193.138:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%204260ms
+trojan://humanity@172.64.147.137:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%207579ms
+trojan://humanity@172.64.147.255:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%207763ms
