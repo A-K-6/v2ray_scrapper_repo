@@ -1,5 +1,5 @@
-trojan://aff9928f-7ba3-45fb-b56d-4dec45653ca9@23.227.38.178:443?security=tls&sni=q6clkp794liy3y90.hktimecsgo.xyz&type=ws&path=%2Fimages#%F0%9F%87%A8%F0%9F%87%A6%20CA%202551ms
-trojan://humanity@www.ignitelimit.com:443?security=tls&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%202814ms
-trojan://humanity@104.26.4.11:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%204800ms
-vless://0468a043-e12c-466e-881c-7d685c1b3950@31.76.106.50:8443?encryption=none&security=reality&type=tcp&sni=roz1r.skystreamgame.com&flow=xtls-rprx-vision&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#%F0%9F%87%AC%F0%9F%87%A7%20GB%207050ms
-trojan://humanity@2.144.20.145:40443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&host=www.creationlong.org#%F0%9F%87%AE%F0%9F%87%B7%20IR%207392ms
+trojan://humanity@162.159.193.138:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201351ms
+trojan://humanity@172.64.146.161:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201504ms
+trojan://humanity@172.64.146.21:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%201736ms
+trojan://humanity@104.20.26.246:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%201829ms
+trojan://humanity@172.64.147.255:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%202060ms
