@@ -1,14 +1,2 @@
-trojan://humanity@162.159.253.41:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20734ms
-trojan://humanity@162.159.36.20:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20734ms
-trojan://humanity@172.67.200.219:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%20809ms
-trojan://humanity@104.19.64.105:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20831ms
-trojan://humanity@104.16.7.70:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20834ms
-trojan://y5yef0udbqnu7sym@45.130.125.76:443?security=tls&sni=dashboard.nscl.ir&type=ws&path=%2Fdashboard&host=dashboard.nscl.ir#%F0%9F%87%B8%F0%9F%87%A8%20SC%201179ms
-trojan://humanity@162.159.193.138:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%201238ms
-trojan://humanity@104.26.4.11:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%201752ms
-trojan://humanity@172.64.146.161:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202185ms
-trojan://humanity@172.64.146.21:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%202209ms
-trojan://humanity@172.64.146.237:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%202417ms
-trojan://humanity@172.64.147.255:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%203101ms
-trojan://humanity@104.20.26.246:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%203236ms
-trojan://humanity@172.64.147.137:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%203305ms
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@202.85.76.170:13223#%F0%9F%87%AD%F0%9F%87%B0%20HK%206176ms
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@14.41.44.168:12300?security=tls&sni=vpn1.rnmcnm.com&type=ws&path=%2Ftrj-ws#%F0%9F%87%B0%F0%9F%87%B7%20KR%207099ms
