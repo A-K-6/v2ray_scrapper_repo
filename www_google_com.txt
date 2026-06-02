@@ -1,1 +1,4 @@
-trojan://humanity@216.24.57.6:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&host=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8%20US%207893ms
+vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@45.130.125.160:443?encryption=none&security=tls&type=ws&path=%2F&sni=dl-pack.motionbetter.ir&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20SC%20993ms
+trojan://humanity@162.159.253.41:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202874ms
+trojan://humanity@45.130.125.18:443?security=tls&sni=www.creationlong.org&type=ws&path=%2F%2Fassignment#%F0%9F%87%B8%F0%9F%87%A8%20SC%206272ms
+trojan://humanity@104.20.26.246:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%206287ms
