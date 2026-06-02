@@ -1,3 +1,5 @@
-trojan://humanity@104.26.5.11:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%20808ms
-trojan://humanity@104.26.4.11:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%20809ms
-trojan://humanity@172.64.147.205:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20818ms
+trojan://humanity@45.130.125.18:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment#%F0%9F%87%B8%F0%9F%87%A8%20SC%20726ms
+trojan://humanity@104.26.4.11:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%201643ms
+trojan://humanity@104.26.5.11:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%201680ms
+vless://48083240-0059-4636-9092-a0dd611ed5b7@45.130.125.76:443?encryption=none&security=tls&type=ws&host=meh.dorostify.com&path=%2F&sni=meh.dorostify.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8%20SC%201694ms
+trojan://humanity@172.64.147.205:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202427ms
