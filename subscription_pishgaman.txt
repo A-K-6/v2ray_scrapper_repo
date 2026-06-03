@@ -1,1 +1,5 @@
-vless://f9027ad1-082d-4063-8358-be48d15805a9@95.179.147.43:41530?encryption=none&security=none&type=httpupgrade&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20NL%20518ms
+trojan://humanity@104.18.152.179:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201098ms
+trojan://humanity@104.16.174.143:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201116ms
+trojan://humanity@104.18.152.133:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201336ms
+trojan://humanity@104.18.152.144:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201802ms
+trojan://humanity@188.121.112.93:40443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&host=www.ignitelimit.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%206090ms
