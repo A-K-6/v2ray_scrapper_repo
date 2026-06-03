@@ -1,11 +1,2 @@
-trojan://humanity@8.6.112.6:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20712ms
-trojan://humanity@188.114.96.4:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%20720ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?encryption=none&security=tls&type=ws&host=octopusss4.com&path=%2Ftsghdws&sni=octopusss4.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20730ms
-trojan://humanity@162.159.17.189:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2Fassignment&host=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20744ms
-trojan://humanity@104.18.12.149:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2Fassignment&host=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20773ms
-trojan://humanity@104.18.13.149:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20789ms
-trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%20792ms
-trojan://humanity@141.101.90.101:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20817ms
-trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20836ms
-trojan://humanity@172.64.147.24:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20860ms
-trojan://humanity@chatgpt.com:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%207092ms
+vless://2fb91bd1-f95f-4051-b278-be76c212c290@ar.hpsshop.ir:8880?encryption=none&security=none&type=ws&host=ar.hpsshop.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20691ms
+trojan://Config0plus@188.114.97.6:443?security=tls&sni=investors.spotify.com.cyylr.eu.cc&type=ws&path=%2Fin-pdr&host=investors.spotify.com.cyylr.eu.cc#%F0%9F%87%BA%F0%9F%87%B3%20UN%201317ms
