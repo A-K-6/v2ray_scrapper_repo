@@ -1,2 +1,5 @@
-vless://ed98e66d-5dbe-4b6d-9032-250e61eaf53f@31.76.119.159:443?encryption=none&security=reality&type=tcp&sni=de02.lumixvpn.org&fp=qq&pbk=DIHjDGgu5D5u6_MR58aXikctuSMiMsXM9TQO8AjnsFE&sid=f2036d26b59e10f9#%F0%9F%87%AC%F0%9F%87%A7%20GB%202334ms
-trojan://humanity@2.144.20.145:40443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&host=www.creationlong.org#%F0%9F%87%AE%F0%9F%87%B7%20IR%205347ms
+vless://6682035b-8de0-4603-9e8a-b496857897b2@172.67.220.199:2095?encryption=none&security=none&type=ws&host=n5.asmdns.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20833ms
+trojan://humanity@104.18.16.56:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&host=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B3%20UN%202389ms
+trojan://humanity@104.16.89.120:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&host=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B3%20UN%203490ms
+trojan://humanity@104.16.63.25:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&host=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B3%20UN%203590ms
+vless://e8b28c67-c240-4d06-b0e4-a692f7514194@95.38.188.68:12335?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%207557ms
