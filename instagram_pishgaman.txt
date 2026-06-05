@@ -1,4 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbXBleDJSZWNPT2krM3VBemsrcXdKTXA2Z0Y1RUVVVnJ4M290OTFxbzdzPQ@k1.cover20.ir:52502#%F0%9F%87%BA%F0%9F%87%B3%20UN%202447ms
-vless://19f51967-ca91-4fab-a37b-51c424de801d@fr.connfull.org:9443?encryption=none&security=tls&type=ws&path=%2Fstream&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202606ms
-vless://ec6b9cd8-0b2c-0014-996f-df26fee230f7@de01.goodmaximum.com:443?encryption=none&security=reality&type=tcp&sni=data.glimmerhouse.com&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=77778028b56c8704#%F0%9F%87%BA%F0%9F%87%B3%20UN%203181ms
-vless://ec6b9cd8-0b2c-000a-996f-df26fee230f7@nl01.goodmaximum.com:443?encryption=none&security=reality&type=tcp&sni=files.nimhogoa.com&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=77778028b56c8704#%F0%9F%87%BA%F0%9F%87%B3%20UN%203348ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbXBleDJSZWNPT2krM3VBemsrcXdKTXA2Z0Y1RUVVVnJ4M290OTFxbzdzPQ@k1.cover20.ir:52502#%F0%9F%87%BA%F0%9F%87%B3%20UN%201422ms
