@@ -1,2 +1,4 @@
-trojan://Tl5Qu5x5Tn@188.114.97.6:8443?security=tls&sni=sv-free.n2buy.ir&type=xhttp&path=%2F&host=sv-free.n2buy.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%202006ms
-vless://ed98e66d-5dbe-4b6d-9032-250e61eaf53f@31.76.119.159:443?encryption=none&security=reality&type=tcp&sni=de02.lumixvpn.org&pbk=DIHjDGgu5D5u6_MR58aXikctuSMiMsXM9TQO8AjnsFE&sid=f2036d26b59e10f9#%F0%9F%87%AC%F0%9F%87%A7%20GB%202699ms
+vless://ed98e66d-5dbe-4b6d-9032-250e61eaf53f@31.76.119.159:443?encryption=none&security=reality&type=tcp&sni=de02.lumixvpn.org&pbk=DIHjDGgu5D5u6_MR58aXikctuSMiMsXM9TQO8AjnsFE&sid=f2036d26b59e10f9#%F0%9F%87%AC%F0%9F%87%A7%20GB%20859ms
+trojan://humanity@104.16.174.121:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201632ms
+trojan://Tl5Qu5x5Tn@188.114.97.6:8443?security=tls&sni=sv-free.n2buy.ir&type=xhttp&path=%2F&host=sv-free.n2buy.ir#%F0%9F%87%BA%F0%9F%87%B3%20UN%201985ms
+vless://ed748c87-4201-4210-872e-f77265c27fde@188.114.97.6:443?encryption=none&security=tls&type=ws&host=SoftNetConnectcdn.sep-vpn.site&path=%2F&sni=SoftNetConnectcdn.sep-vpn.site&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%203176ms
