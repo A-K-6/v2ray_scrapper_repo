@@ -1,10 +1,1 @@
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?encryption=none&security=tls&type=ws&host=octopusss4.com&path=%2Ftsghdws&sni=octopusss4.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20976ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.68:443?encryption=none&security=tls&type=ws&host=octopusss4.com&path=%2Ftsghdws&sni=octopusss4.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20992ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.138:443?encryption=none&security=tls&type=ws&host=octopusss4.com&path=%2Ftsghdws&sni=octopusss4.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20992ms
-trojan://humanity@104.17.150.76:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%201361ms
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&sni=de-1.hysteria.ltd&type=tcp#%F0%9F%87%BA%F0%9F%87%B3%20UN%202461ms
-trojan://humanity@172.64.146.198:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202917ms
-trojan://humanity@172.64.147.224:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202921ms
-trojan://humanity@172.64.147.183:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202997ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDM3NDNtcyIsImFkZCI6InJlbmRlcmVyLXN0cmVhbS0xLTQxMS5taXJyYS5ub3ciLCJwb3J0IjoiNDQzIiwiaWQiOiJkZjljOTM1NS1iMDJjLTRjMTItOTA5ZC0wZGJlYjcyNWQ1MmIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwidGxzIjoidGxzIiwic25pIjoiIn0=
-trojan://humanity@104.18.6.147:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%205331ms
+trojan://humanity@141.101.90.101:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%205874ms
