@@ -1,8 +1,5 @@
-vless://0f943671-7245-4054-b554-a605dbf37954@snapp.ir:80?encryption=none&security=none&type=ws&host=kabotar.garfar.ir&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20628ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.146.138:443?encryption=none&security=tls&type=ws&host=octopusss4.com&path=%2Ftsghdws&sni=octopusss4.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20692ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.8:443?encryption=none&security=tls&type=ws&host=octopusss4.com&path=%2Ftsghdws&sni=octopusss4.com#%F0%9F%87%A9%F0%9F%87%AA%20DE%20696ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@108.162.192.75:443?encryption=none&security=tls&type=ws&host=octopusss4.com&path=%2Ftsghdws&sni=octopusss4.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20832ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?encryption=none&security=tls&type=ws&host=octopusss4.com&path=%2Ftsghdws&sni=octopusss4.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20840ms
-trojan://Nova-Proxy@104.27.30.190:8443?security=tls&sni=billowing-night-3b76.iranmountains.workers.dev&type=ws&path=%2F%3Fed%3D2560&host=billowing-night-3b76.iranmountains.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20875ms
-trojan://humanity@104.18.8.83:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%20886ms
-trojan://a2bfee94467080abd8f339322d92012b@hk-01.pg13900.com:443?security=tls&sni=hk-01.pg13900.com&type=ws&path=%2Fatlas-cdn&host=hk-01.pg13900.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%205840ms
+trojan://humanity@104.18.8.83:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%20736ms
+trojan://Nova-Proxy@104.27.30.190:8443?security=tls&sni=billowing-night-3b76.iranmountains.workers.dev&type=ws&path=%2F%3Fed%3D2560&host=billowing-night-3b76.iranmountains.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%201092ms
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.1.64.95:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#%F0%9F%87%B8%F0%9F%87%AC%20SG%201386ms
+vless://045acec8-7d9e-4793-9917-c909a4a70887@alma.parsgame.store:11332?encryption=none&security=reality&type=tcp&sni=www.yahoo.com&flow=xtls-rprx-vision&fp=chrome&pbk=Yozi8V5IYT7TzszTYwxnxMO-RZ93qCRFpgzZYehbqiM&sid=74bc0da65781e5dd#%F0%9F%87%BA%F0%9F%87%B3%20UN%202044ms
+trojan://a2bfee94467080abd8f339322d92012b@hk-01.pg13900.com:443?security=tls&sni=hk-01.pg13900.com&type=ws&path=%2Fatlas-cdn&host=hk-01.pg13900.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%204675ms
