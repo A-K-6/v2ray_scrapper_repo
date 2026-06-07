@@ -1,4 +1,7 @@
-trojan://humanity@89.116.46.8:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%A9%F0%9F%87%AA%20DE%20829ms
-trojan://humanity@104.17.150.76:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%20849ms
-trojan://humanity@172.64.147.205:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201771ms
-trojan://humanity@104.16.250.22:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%205214ms
+vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@94.183.153.83:55013?encryption=none&security=reality&type=tcp&sni=www.digikala.com&fp=chrome&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&sid=c385#%F0%9F%87%AE%F0%9F%87%B7%20IR%20824ms
+vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@94.183.153.83:55013?encryption=none&security=reality&type=raw&sni=www.digikala.com&fp=chrome&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&sid=c385#%F0%9F%87%AE%F0%9F%87%B7%20IR%20927ms
+trojan://humanity@104.16.250.22:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201277ms
+trojan://humanity@104.17.150.76:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%201426ms
+vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@host13.virgool.best:55013?encryption=none&security=reality&type=raw&sni=www.digikala.com&fp=chrome&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&sid=c385#%F0%9F%87%BA%F0%9F%87%B3%20UN%204595ms
+vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@host13.virgool.best:55013?encryption=none&security=reality&type=tcp&host=www.digikala.com&path=%2F&sni=www.digikala.com&fp=chrome&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&sid=c385#%F0%9F%87%BA%F0%9F%87%B3%20UN%204682ms
+vless://1d2f9718-b0a4-4c4d-90e6-b297b23d8999@host13.virgool.best:55013?encryption=none&security=reality&type=tcp&sni=www.digikala.com&fp=chrome&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&sid=c385#%F0%9F%87%BA%F0%9F%87%B3%20UN%204695ms
