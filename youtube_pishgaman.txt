@@ -1,5 +1,6 @@
-trojan://humanity@104.16.122.175:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201132ms
-trojan://humanity@188.114.97.4:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201152ms
-trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?security=tls&sni=spring-tooth-7fa3.ahmadrj.workers.dev&type=ws&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B3%20UN%202463ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphSThYVnpXcWV5VzZlU1Z5eXlqNnNn@frcip.signalf.shop:10808#%F0%9F%87%BA%F0%9F%87%B3%20UN%203280ms
-trojan://humanity@chat.openai.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%207289ms
+trojan://humanity@188.114.97.4:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20657ms
+trojan://humanity@104.16.122.175:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20752ms
+vless://ecf0bca3-b7d0-4727-89d9-ace5d0625556@188.114.97.6:8443?encryption=none&security=tls&type=ws&host=argoovpn.imanaghapour.ir&path=%2F&sni=argoovpn.imanaghapour.ir&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20789ms
+trojan://trojan@45.192.222.112:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&path=%2F%3Fed%3D2560&host=store.timimi.dpdns.org#%F0%9F%87%B2%F0%9F%87%BA%20MU%20912ms
+trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?security=tls&sni=spring-tooth-7fa3.ahmadrj.workers.dev&type=ws&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B3%20UN%202556ms
+vless://ed748c87-4201-4210-872e-f77265c27fde@188.114.97.6:443?encryption=none&security=tls&type=ws&host=SoftNetConnectcdn.sep-vpn.site&path=%2F&sni=SoftNetConnectcdn.sep-vpn.site&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%204676ms
