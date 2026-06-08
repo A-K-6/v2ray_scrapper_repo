@@ -1,1 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovb2NjR3dVVEY0YXdQdC92UFp1ajFRSzBZWEhJbFYrRDFpUW81N2FhK093PQ@95.38.234.44:13641#%F0%9F%87%AE%F0%9F%87%B7%20IR%20766ms
+trojan://zWFjJENcljZm@104.18.3.150:443?security=tls&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&type=ws&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B3%20UN%20800ms
+trojan://zWFjJENcljZm@104.18.2.150:443?security=tls&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&type=ws&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B3%20UN%20805ms
+vless://27bf927c-bb96-4265-887f-6cd3ddebb951@162.159.44.185:2096?encryption=none&security=tls&type=ws&host=lively-tree-4409.mohandes123.workers.dev&path=%2F&sni=lively-tree-4409.mohandes123.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201147ms
+trojan://zWFjJENcljZm@usa.visa.com:443?security=tls&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&type=ws&path=%2F&host=vahidqaz-7o61u7.vahidqaz.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%201227ms
