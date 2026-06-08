@@ -1,5 +1,5 @@
-trojan://humanity@172.64.147.236:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20851ms
-trojan://humanity@172.64.147.223:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20915ms
-trojan://humanity@172.64.146.161:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20992ms
-trojan://humanity@172.64.147.29:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20992ms
-trojan://humanity@172.64.147.227:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20999ms
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20US%20614ms
+trojan://KaQKzYh6dd@188.114.97.6:443?security=tls&sni=dd.aananas.ir.&type=ws&path=%2F%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B3%20UN%20659ms
+vless://1c94a079-e41d-48d3-b5b6-d8f7f761a00d@188.114.97.6:443?encryption=none&security=tls&type=ws&host=silent-king-5030.aiprointer.workers.dev&path=%2FeyJqdW5rIjoiZ3RXWk45UVhpRVB3R3VPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560&sni=SILENt-kiNG-5030.AipRoINteR.WorkErS.DEv&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20802ms
+ss://YWVzLTI1Ni1nY206TGlmZXZwbiA@janfada.bardiadev.site:1122#%F0%9F%87%BA%F0%9F%87%B3%20UN%201679ms
+vless://045acec8-7d9e-4793-9917-c909a4a70887@spain.portalcode.ir:11332?encryption=none&security=reality&type=tcp&sni=graphs.4cdn.de&flow=xtls-rprx-vision&fp=chrome&pbk=Yozi8V5IYT7TzszTYwxnxMO-RZ93qCRFpgzZYehbqiM&sid=74bc0da65781e5dd#%F0%9F%87%BA%F0%9F%87%B3%20UN%202066ms
