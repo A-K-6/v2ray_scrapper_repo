@@ -1,6 +1,2 @@
-ss://YWVzLTI1Ni1nY206d2MvZXFSUHJZam54ZkFKMkpLbmlvN2NHMktvOUs5RGlNd3pvblJqVTNMST0@103.130.147.40:1122#%F0%9F%87%AE%F0%9F%87%B7%20IR%20450ms
-trojan://humanity@104.25.109.237:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20798ms
-trojan://humanity@104.17.223.49:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%20844ms
-vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@labeller.neonime83.workers.dev:443?encryption=none&security=tls&type=ws&host=labeller.neonime83.workers.dev&path=%2F%3Fed%3D2560&sni=labeller.neonime83.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20898ms
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@54.180.95.237:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#%F0%9F%87%B0%F0%9F%87%B7%20KR%201610ms
-trojan://uR0TSWA@N^%u,Bni@restless-base-fe24.alirezahabibi20009.workers.dev:443?security=tls&sni=rESTless-basE-fe24.aLiReZaHabibi20009.woRKErS.DEv&type=ws&path=%2FeyJqdW5rIjoiM2VVWXFtczhRUVN5SHpGMyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&host=restless-base-fe24.alirezahabibi20009.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%203390ms
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&path=%2F&host=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20ES%201638ms
+trojan://trojan@azerb.net:443?security=tls&sni=store.timimi.dpdns.org&type=ws&path=%2F%3FBIA_TELEGRAM&host=store.timimi.dpdns.org#%F0%9F%87%BA%F0%9F%87%B3%20UN%202094ms
