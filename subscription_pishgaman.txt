@@ -1,10 +1,6 @@
-vless://e30ba9e9-afc6-4236-803f-7b4ca30ce44b@193.22.229.138:80?encryption=none&security=none&type=ws&host=pimxpass.alex96336997.workers.dev&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20NL%20865ms
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@singapore.com:443?encryption=none&security=tls&type=ws&host=misaka.cndyw.ggff.net&path=%2F%3Fed%3D2560fp%3Drandom&sni=misaka.cndyw.ggff.net#%F0%9F%87%BA%F0%9F%87%B3%20UN%20881ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.8:443?encryption=none&security=tls&type=ws&host=octopusss4.com&path=%2Ftsghdws&sni=octopusss4.com#%F0%9F%87%A9%F0%9F%87%AA%20DE%20973ms
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@188.114.97.7:2083?encryption=none&security=tls&type=ws&host=shy-fog-af06.alvlirm333.workers.dev&path=%2Fproxyip%3D104.223.62.204%2C99.254.66.219%2C45.133.17.106%2C40.233.87.120%2C40.233.110.251%2C40.233.68.138%2C68.233.122.42%2C144.217.76.62&sni=shy-fog-af06.alvlirm333.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20977ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?encryption=none&security=tls&type=ws&host=octopusss4.com&path=%2Ftsghdws&sni=octopusss4.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20987ms
-vless://7b110fd1-2c7f-4df3-8a2f-10085c500f4c@162.159.81.132:443?encryption=none&security=tls&type=ws&host=orange-math-8a2e.parsa-esfandpoor89.workers.dev&path=%2F&sni=orange-math-8a2e.parsa-esfandpoor89.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20993ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.98.0:443?encryption=none&security=tls&type=ws&host=octopusss4.com&path=%2Ftsghdws&sni=octopusss4.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201113ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.68:443?encryption=none&security=tls&type=ws&host=octopusss4.com&path=%2Ftsghdws&sni=octopusss4.com#%F0%9F%87%A9%F0%9F%87%AA%20DE%201277ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&host=octopusss4.com&path=%2Ftsghdws&sni=octopusss4.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201580ms
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.210:443?encryption=none&security=tls&type=ws&host=octopusss4.com&path=%2Ftsghdws&sni=octopusss4.com#%F0%9F%87%A9%F0%9F%87%AA%20DE%202382ms
+vless://5ba2ac3f-167a-4aca-86df-7c72dc281bc0@lv01.whost-solutions.ru:443?encryption=none&security=reality&type=tcp&sni=nl05.whost-solutions.ru&flow=xtls-rprx-vision&fp=chrome&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k#%F0%9F%87%BA%F0%9F%87%B3%20UN%201967ms
+vless://43949b0c-08a7-43ac-bf93-9cc77e9f4e89@dpv5wxbk2f9f.zozothedog.com:8443?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%202037ms
+vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:443?encryption=none&security=tls&type=ws&host=mjtbknetmkhremge.ordak.qzz.io&path=%2Ffl%3Fed%3D2560&sni=mjtbknetmkhremge.ordak.qzz.io&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202306ms
+vless://0e88bb0f-6882-4c3d-8050-0e1694caa721@chess-online24.com:443?encryption=none&security=tls&type=ws&path=%2Fws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202744ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@ru.moktana.app:51523#%F0%9F%87%BA%F0%9F%87%B3%20UN%202965ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWEwZDA5Mi02ZjBlLTQ3MDEtODFlZS00NTQ2NDNkNmQ1MDY@namrcg001640lrm.cybervena.com:50099#%F0%9F%87%BA%F0%9F%87%B3%20UN%203055ms
