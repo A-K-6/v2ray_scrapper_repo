@@ -1,2 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.160.204.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime37.workers.dev&path=%2F#%F0%9F%87%BA%F0%9F%87%B3%20UN%20885ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.133.1.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime36.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20US%201133ms
+vless://0440e93c-a9d3-4998-aeaa-d0e2363131e4@172.64.48.201:443?encryption=none&security=tls&type=ws&host=rahammahar.photoazadeh9100.workers.dev&path=%2F&sni=rahammahar.photoazadeh9100.workers.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20578ms
