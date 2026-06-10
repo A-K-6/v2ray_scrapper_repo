@@ -1,2 +1,1 @@
-vless://0d5cba76-b113-4085-ae38-1cd3f0f77523@quarenty.site:8443?encryption=none&security=reality&type=tcp&sni=storage.yandex.net&flow=xtls-rprx-vision&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=205748bc0f24a747#%F0%9F%87%BA%F0%9F%87%B3%20UN%20968ms
-trojan://humanity@94.140.0.100:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%A6%F0%9F%87%AA%20AE%203119ms
+trojan://humanity@94.140.0.100:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%A6%F0%9F%87%AA%20AE%20853ms
