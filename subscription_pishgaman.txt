@@ -1,1 +1,2 @@
-trojan://humanity@172.64.146.199:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%205719ms
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@chengbai02.ascwt179.com:13223#%F0%9F%87%BA%F0%9F%87%B3%20UN%207570ms
+trojan://humanity@172.64.146.199:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%207779ms
