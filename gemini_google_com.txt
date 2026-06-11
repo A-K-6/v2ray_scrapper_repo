@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmZvV2RaQkpTRUlPc1hDVThTOTMwTllXd0F6c0gvclFBcXZKUHFiVHVvPQ@212.16.68.170:55129#%F0%9F%87%AE%F0%9F%87%B7%20IR%20519ms
-vless://4859c235-2530-4062-9a0b-ea859cbbf861@162.159.39.157:2087?encryption=none&security=tls&type=ws&host=1.proxy2.us.ci&path=%2F%3Fed%3D2560&sni=1.proxy2.us.ci#%F0%9F%87%BA%F0%9F%87%B3%20UN%201180ms
+vless://85c42ce4-7789-49cb-9012-9d6d6ba16581@tralalero.site:8443?encryption=none&security=reality&type=tcp&sni=storage.yandex.net&flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff#%F0%9F%87%BA%F0%9F%87%B3%20UN%201051ms
+vless://f98ab063-1dfb-41da-b875-fc50f6bdc174@ch-gt-01.com:8443?encryption=none&security=reality&type=tcp&sni=storage.yandex.net&flow=xtls-rprx-vision&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#%F0%9F%87%BA%F0%9F%87%B3%20UN%204866ms
