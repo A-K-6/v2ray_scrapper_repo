@@ -1,2 +1,5 @@
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202558ms
-trojan://humanity@srv1.khatibirepair.ir:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%202670ms
+vless://98731bd6-07ae-4fd0-b05c-26253eea43db@45.85.119.181:2053?encryption=none&security=tls&type=xhttp&host=FREEchanell1.mobilezahra.com.&sni=FREEchanell1.mobilezahra.com.#%F0%9F%87%B7%F0%9F%87%B4%20RO%20759ms
+vless://Shh-proxy@45.131.5.144:8880?encryption=none&security=none&type=ws&host=shhp.akbarjoojeh.shop&path=%2F---%40SHH_PROXY%2F---%40SHH_PROXY%2F---%40SHH_PROXY%2F---%40SHH_PROXY%2F---%40SHH_PROXY#%F0%9F%87%B3%F0%9F%87%B1%20NL%201155ms
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201806ms
+trojan://humanity@srv1.khatibirepair.ir:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%202366ms
+trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%203086ms
