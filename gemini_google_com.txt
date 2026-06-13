@@ -1,8 +1,7 @@
-trojan://humanity@104.19.2.175:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%20593ms
-trojan://humanity@104.18.152.229:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20626ms
-trojan://humanity@172.64.146.28:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20692ms
-trojan://humanity@172.64.146.237:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%20797ms
-trojan://A4u^p(_UR*F6@104.17.148.22:443?security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&type=ws&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&host=027.electrocellco-cf-027.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20855ms
-trojan://A4u^p(_UR*F6@www.speedtest.net:443?security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&type=ws&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&host=027.electrocellco-cf-027.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20984ms
-trojan://A4u^p(_UR*F6@104.17.147.22:443?security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&type=ws&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&host=027.electrocellco-cf-027.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%201046ms
-trojan://humanity@104.18.0.55:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%201096ms
+trojan://A4u^p(_UR*F6@104.17.148.22:443?security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&type=ws&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&host=027.electrocellco-cf-027.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20602ms
+trojan://A4u^p(_UR*F6@104.17.147.22:443?security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&type=ws&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&host=027.electrocellco-cf-027.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20605ms
+trojan://humanity@104.18.152.229:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20709ms
+trojan://humanity@104.19.2.175:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%20792ms
+trojan://humanity@172.64.146.237:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%20808ms
+trojan://humanity@172.64.146.28:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20851ms
+trojan://humanity@104.18.0.55:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B3%20UN%20905ms
