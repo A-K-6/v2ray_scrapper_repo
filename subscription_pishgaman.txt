@@ -1,1 +1,2 @@
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.008500.xyz:443?encryption=none&security=tls&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F&sni=t1s1.rittbo.kdns.fr#%F0%9F%87%BA%F0%9F%87%B3%20UN%205646ms
+trojan://humanity@ip.myip2.qzz.io:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&host=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%203111ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGYzIFVOIDUxODltcyIsImFkZCI6Im15dnBzaG9zdGluZy5uYW1lLm5nIiwicG9ydCI6IjgwIiwiaWQiOiI5NjQwOGY5YS1kZjAzLTQ0OGItYjdlNC1lYzhlMmMyMTY2ODIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoibXl2cHNob3N0aW5nLm5hbWUubmciLCJwYXRoIjoiL3ZtZXNzIiwidGxzIjoibm9uZSIsInNuaSI6IiJ9
