@@ -1,6 +1,5 @@
-trojan://humanity@45.130.125.18:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment#%F0%9F%87%B8%F0%9F%87%A8%20SC%20822ms
-trojan://humanity@104.17.236.141:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20873ms
-trojan://humanity@104.18.8.83:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20900ms
-trojan://humanity@104.18.10.110:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2F%2Fassignment&host=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20902ms
-trojan://5b5c7abb-cbfa-4375-a2bc-96ee15ad4cd9@cf.090227.xyz:443?security=tls&sni=muddy-glitter-02cf.netshopvip.workers.dev&type=ws&path=%2F%3Fed%3D2048&host=muddy-glitter-02cf.netshopvip.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20972ms
-trojan://humanity@104.16.80.73:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&host=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B3%20UN%20974ms
+trojan://humanity@104.16.80.73:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&host=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B3%20UN%20771ms
+trojan://5b5c7abb-cbfa-4375-a2bc-96ee15ad4cd9@cf.090227.xyz:443?security=tls&sni=muddy-glitter-02cf.netshopvip.workers.dev&type=ws&path=%2F%3Fed%3D2048&host=muddy-glitter-02cf.netshopvip.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20941ms
+trojan://humanity@104.17.236.141:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201827ms
+trojan://humanity@104.18.10.110:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2F%2Fassignment&host=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202046ms
+trojan://humanity@104.18.8.83:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%204777ms
