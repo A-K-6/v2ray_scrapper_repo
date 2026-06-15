@@ -1,6 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?encryption=none&security=none&type=ws&host=vms.lifetime55.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%87%B7%F0%9F%87%B4%20RO%20684ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.107.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime55.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%87%B7%F0%9F%87%BA%20RU%20904ms
-trojan://Nova-Proxy@104.21.23.135:443?security=tls&sni=spring-tooth-7fa3.ahmadrj.workers.dev&type=ws&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B3%20UN%201011ms
-trojan://Nova-Proxy@103.21.244.200:8443?security=tls&sni=billowing-night-3b76.iranmountains.workers.dev&type=ws&path=%2F&host=billowing-night-3b76.iranmountains.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%201251ms
-trojan://Mehdi1234@172.64.144.251:2083?security=tls&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws&path=%2F%3Fed%3D2560&host=purple-recipe-5e30.cimavo4626.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%201447ms
-trojan://%&cc@customer.arabtimesonline.qzz.io:443?security=tls&sni=CustOMEr.ARaBTiMEsONLinE.qZZ.iO&type=ws&path=%2FeyJqdW5rIjoieWluc042Sm5kIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&host=customer.arabtimesonline.qzz.io#%F0%9F%87%BA%F0%9F%87%B3%20UN%202540ms
+trojan://Nova-Proxy@104.21.23.135:443?security=tls&sni=spring-tooth-7fa3.ahmadrj.workers.dev&type=ws&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B3%20UN%20610ms
+trojan://Nova-Proxy@103.21.244.200:8443?security=tls&sni=billowing-night-3b76.iranmountains.workers.dev&type=ws&path=%2F&host=billowing-night-3b76.iranmountains.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20734ms
