@@ -1,1 +1,4 @@
-trojan://Nova-Proxy@104.21.23.135:443?security=tls&sni=spring-tooth-7fa3.ahmadrj.workers.dev&type=ws&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B3%20UN%20845ms
+trojan://humanity@104.17.121.43:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20892ms
+vless://a06c22c0-527c-4cb1-9051-b64971c4a06a@104.21.68.9:2096?encryption=none&security=tls&type=ws&host=divine-leaf-28e3.amydrdam453.workers.dev&path=%2FeyJqdW5rIjoicXQxME5lZHVzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed%3D2560&sni=DIVINE-LeAF-28E3.AMYdrdAm453.woRKERS.deV&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201008ms
+trojan://humanity@104.18.10.110:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2F%2Fassignment&host=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201130ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLT0NjbHZLLUs4UEt3WWg0VHU1cnBn@daroo.iran-shop.co:1080#%F0%9F%87%BA%F0%9F%87%B3%20UN%205768ms
