@@ -1,5 +1,6 @@
-trojan://r137979f@104.19.63.25:443?security=tls&sni=sheleqaz.emotionreza.workers.dev&type=ws&path=%2F%3Fed%3D2560&host=sheleqaz.emotionreza.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20728ms
-trojan://humanity@104.18.10.110:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2F%2Fassignment&host=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20773ms
-trojan://r137979f@162.159.153.212:2087?security=tls&sni=sheleqaz.emotionreza.workers.dev&type=ws&path=%2F&host=sheleqaz.emotionreza.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20811ms
-trojan://humanity@104.17.236.141:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201287ms
-trojan://humanity@104.17.121.43:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201410ms
+trojan://r137979f@104.19.63.25:443?security=tls&sni=sheleqaz.emotionreza.workers.dev&type=ws&path=%2F%3Fed%3D2560&host=sheleqaz.emotionreza.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20550ms
+trojan://r137979f@162.159.153.212:2087?security=tls&sni=sheleqaz.emotionreza.workers.dev&type=ws&path=%2F&host=sheleqaz.emotionreza.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20643ms
+trojan://humanity@104.17.236.141:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20830ms
+trojan://humanity@104.18.10.110:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2F%2Fassignment&host=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20842ms
+trojan://humanity@104.17.121.43:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20939ms
+vless://ce068d3e-5c3c-4014-b464-b776ef95e778@d.lv-cdn.ru:443?encryption=none&security=reality&type=tcp&sni=d.lv-cdn.ru&flow=xtls-rprx-vision&fp=chrome&pbk=fHNZm9NrW_3Bp9xzCZhhoPuL4DFLqfaPu-uBhPE6dW4&sid=7a3f9e2b1c8d4f6a#%F0%9F%87%BA%F0%9F%87%B3%20UN%201390ms
