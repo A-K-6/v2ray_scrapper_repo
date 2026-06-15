@@ -1,9 +1,5 @@
-trojan://zWFjJENcljZm@104.18.3.150:443?security=tls&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&type=ws&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B3%20UN%20602ms
-trojan://zWFjJENcljZm@104.18.2.150:443?security=tls&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&type=ws&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B3%20UN%20630ms
-trojan://r137979f@104.19.63.25:443?security=tls&sni=sheleqaz.emotionreza.workers.dev&type=ws&path=%2F%3Fed%3D2560&host=sheleqaz.emotionreza.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20770ms
-trojan://humanity@104.17.121.43:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20795ms
+trojan://r137979f@104.19.63.25:443?security=tls&sni=sheleqaz.emotionreza.workers.dev&type=ws&path=%2F%3Fed%3D2560&host=sheleqaz.emotionreza.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20728ms
+trojan://humanity@104.18.10.110:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2F%2Fassignment&host=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20773ms
 trojan://r137979f@162.159.153.212:2087?security=tls&sni=sheleqaz.emotionreza.workers.dev&type=ws&path=%2F&host=sheleqaz.emotionreza.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20811ms
-trojan://humanity@104.18.10.110:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2F%2Fassignment&host=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20819ms
-trojan://humanity@104.17.236.141:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20835ms
-vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?encryption=none&security=tls&type=ws&host=rayan-007.parvin.dpdns.org&path=%2F%3Fed%3D2560&sni=rAyAn-007.pArViN.DpDnS.OrG&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%202508ms
-trojan://zWFjJENcljZm@usa.visa.com:443?security=tls&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&type=ws&path=%2F&host=vahidqaz-7o61u7.vahidqaz.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%202839ms
+trojan://humanity@104.17.236.141:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201287ms
+trojan://humanity@104.17.121.43:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201410ms
