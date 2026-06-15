@@ -1,2 +1,5 @@
-trojan://Nova-Proxy@104.21.23.135:443?security=tls&sni=spring-tooth-7fa3.ahmadrj.workers.dev&type=ws&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B3%20UN%20610ms
-trojan://Nova-Proxy@103.21.244.200:8443?security=tls&sni=billowing-night-3b76.iranmountains.workers.dev&type=ws&path=%2F&host=billowing-night-3b76.iranmountains.workers.dev#%F0%9F%87%BA%F0%9F%87%B3%20UN%20734ms
+trojan://Nova-Proxy@104.21.23.135:443?security=tls&sni=spring-tooth-7fa3.ahmadrj.workers.dev&type=ws&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B3%20UN%20659ms
+vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@104.19.250.98:2083?encryption=none&security=tls&type=ws&host=yousef.varzesh.dpdns.org&path=%2F%3Fed%3D2560&sni=yousef.varzesh.dpdns.org&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20784ms
+vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@172.66.40.99:2083?encryption=none&security=tls&type=ws&host=yousef.varzesh.dpdns.org&path=%2F%3Fed%3D2560&sni=yousef.varzesh.dpdns.org&fp=random#%F0%9F%87%BA%F0%9F%87%B3%20UN%20784ms
+vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@172.66.40.99:2083?encryption=none&security=tls&type=ws&host=yousef.varzesh.dpdns.org&path=%2F&sni=yousef.varzesh.dpdns.org#%F0%9F%87%BA%F0%9F%87%B3%20UN%20882ms
+vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@172.66.40.99:2083?encryption=none&security=tls&type=ws&host=yousef.varzesh.dpdns.org&sni=yousef.varzesh.dpdns.org#%F0%9F%87%BA%F0%9F%87%B3%20UN%20885ms
