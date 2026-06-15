@@ -1,8 +1,4 @@
-trojan://humanity@141.193.213.10:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B8%20US%201014ms
-trojan://Nova-Proxy@104.21.23.135:443?security=tls&sni=spring-tooth-7fa3.ahmadrj.workers.dev&type=ws&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B3%20UN%201034ms
-trojan://humanity@45.130.125.158:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&host=www.ignitelimit.com#%F0%9F%87%B8%F0%9F%87%A8%20SC%201062ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#%F0%9F%87%BA%F0%9F%87%B3%20UN%201159ms
-vless://25e0282e-7bb8-4aeb-be15-b5b610f2235a@www.speedtest.net:443?encryption=none&security=tls&type=ws&host=jolly-snowflake-951d.apextunnelnumber3.workers.dev&path=%2FeyJqdW5rIjoiczlRdnZ2OTdrdWFwQyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ%3D%3D%3Fed%3D2560&sni=jOLLY-snOwFlAKE-951d.apExtunNElnumbEr3.WORkERS.deV&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%201167ms
-vless://3b7950ed-e076-4a51-8df2-222a88689700@ch-gt-01.com:8443?encryption=none&security=reality&type=tcp&sni=storage.yandex.net&flow=xtls-rprx-vision&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d037f6f67cc90016#%F0%9F%87%BA%F0%9F%87%B3%20UN%201235ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001269pz2.cybervena.com:50099#%F0%9F%87%BA%F0%9F%87%B3%20UN%201516ms
-vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?encryption=none&security=reality&type=tcp&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5#%F0%9F%87%BA%F0%9F%87%B3%20UN%205231ms
+trojan://humanity@104.18.10.110:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2F%2Fassignment&host=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%20635ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg00129437x.cybervena.com:50099#%F0%9F%87%BA%F0%9F%87%B3%20UN%201368ms
+trojan://humanity@104.17.121.43:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201684ms
+trojan://humanity@104.17.236.141:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%202203ms
