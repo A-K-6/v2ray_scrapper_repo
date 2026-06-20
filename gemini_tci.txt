@@ -1,9 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMc2F5RW1BMXFuMnpGS0tT@20.223.176.12:443#%F0%9F%87%AE%F0%9F%87%AA%20IE%20311ms
-vless://17d21ae6-4fb9-cc7d-757a-b11fb2ecc622@tmesubgift.up.railway.app:443?encryption=none&security=tls&type=ws&host=tmesubgift.up.railway.app&path=%2Fws%2F17d21ae6-4fb9-cc7d-757a-b11fb2ecc622&sni=tmesubgift.up.railway.app&fp=chrome#%F0%9F%87%BA%F0%9F%87%B3%20UN%20638ms
-trojan://humanity@104.19.229.21:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201194ms
-trojan://humanity@104.19.229.21:443?security=tls&sni=www.multiplydose.com&type=ws&path=%2F%2Fassignment&host=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201230ms
-trojan://humanity@104.19.229.21:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%201838ms
-vless://09d8ebf3-c4bb-4597-91e4-5cebfa593b7c@109.248.161.206:443?encryption=none&security=reality&type=tcp&sni=www.yahoo.com&fp=chrome&pbk=oqrU5jM7qTRqjb1N-cakTOyTtVU3Zs9lmet-irbr8TU&sid=6443cb87ea#%F0%9F%87%AE%F0%9F%87%B3%20IN%202448ms
-vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?encryption=none&security=reality&type=tcp&sni=www.alibaba.com&flow=xtls-rprx-vision&fp=chrome&pbk=UkoqOh9VtAhhMrlKY3wAmijgjCrLIKMZT-An0NjrHng&sid=8d17b7ebab7b99d7#%F0%9F%87%BF%F0%9F%87%A6%20ZA%203282ms
-trojan://humanity@104.19.229.21:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%207822ms
-trojan://humanity@104.19.229.21:443?security=tls&sni=www.gossipglove.com&type=ws&path=%2Fassignment&host=www.gossipglove.com#%F0%9F%87%BA%F0%9F%87%B3%20UN%207836ms
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&host=xcegj.redpixelport-zen.info&path=%2Fsea&sni=xcegj.redpixelport-zen.info#%F0%9F%87%BA%F0%9F%87%B3%20UN%202805ms
