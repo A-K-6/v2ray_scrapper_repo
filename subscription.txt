@@ -1,0 +1,1 @@
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&host=josni.hoyes.cloudns.ch&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#%F0%9F%87%BA%F0%9F%87%B3%20UN%20435ms
