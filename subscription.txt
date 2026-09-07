@@ -1,6 +1,9 @@
-hy2://sxc15led4b0vp5fy@2.26.49.16:443?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#%F0%9F%87%AC%F0%9F%87%A7%20GB%20536ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20881ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#%F0%9F%87%A8%F0%9F%87%B3%20CN%201185ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@118.107.222.231:65443#%F0%9F%87%B2%F0%9F%87%BE%20MY%201385ms
-hy2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ru1.sferavpn.pro#%F0%9F%87%BA%F0%9F%87%B8%20US%202472ms
-vless://8b54a46a-e66b-48cc-bf5a-88f0855a3598@plll.banibus.ir:8118?encryption=none&fp=chrome&pbk=LjAkLizwkZf35ObrUMFZ22UHXTEJzpgcTvHk9AuzcUM&security=reality&sni=play.googleapis.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20PL%203028ms
+hy2://sxc15led4b0vp5fy@2.26.49.16:443?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#%F0%9F%87%AC%F0%9F%87%A7%20GB%20452ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20476ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@118.107.222.231:65443#%F0%9F%87%B2%F0%9F%87%BE%20MY%20846ms
+vless://daee66b7-3f5e-46d7-83c1-4d93a5fb33c3@k2.cloud--vpn.site:443?encryption=none&fp=chrome&host=c12.com&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20860ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#%F0%9F%87%A8%F0%9F%87%B3%20CN%201069ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#%F0%9F%87%A8%F0%9F%87%B3%20CN%201933ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.232:65443#%F0%9F%87%A8%F0%9F%87%B3%20CN%202486ms
+hy2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=nl1.sferavpn.pro#%F0%9F%87%AC%F0%9F%87%A7%20GB%202548ms
+hy2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ru1.sferavpn.pro#%F0%9F%87%BA%F0%9F%87%B8%20US%203512ms
