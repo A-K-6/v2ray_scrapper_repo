@@ -1,10 +1,6 @@
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20457ms
-hy2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#%F0%9F%87%B7%F0%9F%87%B4%20RO%20807ms
-hy2://sxc15led4b0vp5fy@2.26.49.16:443?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#%F0%9F%87%AC%F0%9F%87%A7%20GB%20928ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.137:65443#%F0%9F%87%A8%F0%9F%87%B3%20CN%201104ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.233:65443#%F0%9F%87%A8%F0%9F%87%B3%20CN%201418ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.57:13979#%F0%9F%87%B0%F0%9F%87%B7%20KR%201470ms
-vless://9abe6dbd-5988-4943-8a93-afc65ab50f54@vips.irhubby.ir:8080?encryption=none&host=vips.irhubby.ir&path=%2F&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B3%20UN%201735ms
-hy2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ru1.sferavpn.pro#%F0%9F%87%BA%F0%9F%87%B8%20US%202743ms
-ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.232:65443#%F0%9F%87%A8%F0%9F%87%B3%20CN%202771ms
-vless://8b54a46a-e66b-48cc-bf5a-88f0855a3598@plll.banibus.ir:8118?encryption=none&fp=chrome&pbk=LjAkLizwkZf35ObrUMFZ22UHXTEJzpgcTvHk9AuzcUM&security=reality&sni=play.googleapis.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20PL%203050ms
+hy2://sxc15led4b0vp5fy@2.26.49.16:443?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#%F0%9F%87%AC%F0%9F%87%A7%20GB%20536ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20881ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.138:65443#%F0%9F%87%A8%F0%9F%87%B3%20CN%201185ms
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@118.107.222.231:65443#%F0%9F%87%B2%F0%9F%87%BE%20MY%201385ms
+hy2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&sni=ru1.sferavpn.pro#%F0%9F%87%BA%F0%9F%87%B8%20US%202472ms
+vless://8b54a46a-e66b-48cc-bf5a-88f0855a3598@plll.banibus.ir:8118?encryption=none&fp=chrome&pbk=LjAkLizwkZf35ObrUMFZ22UHXTEJzpgcTvHk9AuzcUM&security=reality&sni=play.googleapis.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20PL%203028ms
