@@ -1,4 +1,6 @@
-ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg@195.238.126.20:9068#%F0%9F%87%B1%F0%9F%87%B9%20LT%20347ms
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dlMvMitFMnZPRzFDNjhRZ211Z05MREF4SnF0R1FlSUpWSThsVXUyMG45WT06K2FGeCtGYmhpdzE5NjZ5TU5heEdFbitGVGxydEVhYzBSL0NvS3ZxeHlXbz0@31.57.185.82:23114#%F0%9F%87%BA%F0%9F%87%B8%20US%20550ms
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@13.230.30.102:38830?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5E5p5boHrgCyBlt5qZPX1XozU9I90JoBgS4zmXngllI&security=reality&sid=ac12ed79&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%201358ms
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@51.20.122.188:443#%F0%9F%87%B8%F0%9F%87%AA%20SE%203278ms
+ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg@195.238.126.20:9068#%F0%9F%87%B1%F0%9F%87%B9%20LT%20358ms
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dlMvMitFMnZPRzFDNjhRZ211Z05MREF4SnF0R1FlSUpWSThsVXUyMG45WT06K2FGeCtGYmhpdzE5NjZ5TU5heEdFbitGVGxydEVhYzBSL0NvS3ZxeHlXbz0@31.57.185.82:23114#%F0%9F%87%BA%F0%9F%87%B8%20US%20593ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.205.21.144:443#%F0%9F%87%BA%F0%9F%87%B8%20US%20666ms
+vmess://eyJhZGQiOiJ2MzYuaGRhY2QuY29tIiwiYWlkIjoyLCJob3N0IjoiIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMwODM2IiwicHMiOiLwn4et8J+HsCBISyAxOTMybXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@13.230.30.102:38830?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5E5p5boHrgCyBlt5qZPX1XozU9I90JoBgS4zmXngllI&security=reality&sid=ac12ed79&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%202356ms
+vless://e2a4dbed-1353-44ac-b4ff-51dcfdc58dcf@199.232.78.159:443?encryption=none&host=pannn1.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%203368ms
