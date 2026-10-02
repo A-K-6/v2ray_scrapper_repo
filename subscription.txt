@@ -1,9 +1,7 @@
-vless://24c2a873-4584-4c53-8679-61029682d0bb@104.16.107.139:8880?encryption=none&host=soft-thunder-bc22.111-f59.workers.dev&path=%2Fpyip&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B3%20UN%20405ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20447ms
-vless://080fad7c-ff4b-499f-ab5d-52d69ea5745a@185.207.197.12:80?encryption=none&host=calm-tree-22b0.215-d2a.workers.dev&path=%2Fpyip&security=none&type=ws#%F0%9F%87%B2%F0%9F%87%AD%20MH%20688ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20691ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20701ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20SG%201455ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201668ms
-vless://bfb1ec97-a326-4cf3-adcf-d2a0e2dc49f8@199.232.78.159:443?encryption=none&host=pan2e.global.ssl.fastly.net&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%203304ms
-vless://bfb1ec97-a326-4cf3-adcf-d2a0e2dc49f8@199.232.78.159:443?encryption=none&host=pan2e.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%204716ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@51.20.86.152:443#%F0%9F%87%B8%F0%9F%87%AA%20SE%20271ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@51.20.143.248:443#%F0%9F%87%B8%F0%9F%87%AA%20SE%20271ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20695ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20695ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20977ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20SG%201505ms
+vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?encryption=none&host=pannn1.global.ssl.fastly.net&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%202389ms
