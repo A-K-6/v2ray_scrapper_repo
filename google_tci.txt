@@ -1,6 +1,4 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@51.20.122.188:443#%F0%9F%87%B8%F0%9F%87%AA%20SE%20269ms
-vmess://eyJhZGQiOiIxODguMTE0Ljk2LjE5IiwiYWlkIjowLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZG5zLWxvb2suc3BhY2UuIiwiaWQiOiJjNTk2NWQ0Ny00NWQ2LTQ1YWYtYjYxOS0zYjJhNmJmODk2YTIiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiLwn4e68J+HsyBVTiA0NDNtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20687ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20689ms
-ss://YWVzLTEyOC1nY206NzBkYWExNjk1OTdjNGJiZTE3M2YwZjg4NmNlNGViZTk@14.1.29.107:11379#%F0%9F%87%BA%F0%9F%87%B8%20US%20697ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20916ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20725ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20728ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@51.20.86.152:443#%F0%9F%87%B8%F0%9F%87%AA%20SE%201387ms
+vmess://eyJhZGQiOiJ3bzZhaDBmLWcwNi5qcDA2LWp6LXZtMC5lbnRyeS5mcjA1MjguYXJ0IiwiYWlkIjoxLCJob3N0IjoiIiwiaWQiOiJhM2I1YTZmYy0wYjkyLTNiNjYtYmVkYS1lYjJhNDkzNjFhMjEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4Nzg4IiwicHMiOiLwn4ev8J+HtSBKUCAxNTg1bXMiLCJzY3kiOiJhdXRvIiwic25pIjoid282YWgwZi1nMDYuanAwNi1qei12bTAuZW50cnkuZnIwNTI4LmFydCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
