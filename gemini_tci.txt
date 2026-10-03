@@ -1,5 +1,9 @@
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20377ms
-vless://36e8e5e8-8010-45a1-9fb7-9fa21f7e4c66@199.232.78.159:443?encryption=none&host=pannn1.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20919ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%AC%20SG%201145ms
-vless://2e8cd1fa-0dcc-4402-bb99-be3d623fc1d5@199.232.78.159:443?encryption=none&host=pokerrr.global.ssl.fastly.net&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%202853ms
-vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@fast.jkerm.com:443?encryption=none&host=pokerrr.global.ssl.fastly.net.&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%205091ms
+vmess://eyJhZGQiOiI5MS4xMDcuMTkxLjE2NSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiOWYxNWI2MDAtY2U1Mi00NDdmLWIzODgtZWY3MGRlNzUzMDhlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxIiwicHMiOiLwn4ep8J+HqiBERSAyODltcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20413ms
+vless://a5dd2dd9-0995-449e-be67-4a409890dc42@177.3.209.165:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=mYtQrGiR9EkOpUsvsI7E18AWnFZZqfOPXUdpzE3luz8&security=reality&sid=da4d87fa&sni=owkd.pashalloh.org&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20BR%20474ms
+vless://a5dd2dd9-0995-449e-be67-4a409890dc42@177.3.209.165:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mYtQrGiR9EkOpUsvsI7E18AWnFZZqfOPXUdpzE3luz8&security=reality&sid=da4d87fa&sni=owkd.pashalloh.org&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20BR%20497ms
+vless://6c713691-3ca2-4446-ad25-113d1bed6b03@ee10.zazazuza.ru:8443?encryption=none&fp=chrome&host=fdghyt.com&path=%2Fvpn-wss%2Ffluxor%2F59011%2F&security=tls&sni=fdghyt.com&type=ws#%F0%9F%87%AA%F0%9F%87%AA%20EE%20567ms
+vless://2e8cd1fa-0dcc-4402-bb99-be3d623fc1d5@199.232.78.159:443?encryption=none&host=pokerrr.global.ssl.fastly.net&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20714ms
+vless://9f15b600-ce52-447f-b388-ef70de75308e@91.107.191.165:2?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%201470ms
+vless://2e8cd1fa-0dcc-4402-bb99-be3d623fc1d5@199.232.78.159:443?encryption=none&host=pokerrr.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%201765ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@51.20.86.152:443#%F0%9F%87%B8%F0%9F%87%AA%20SE%202486ms
