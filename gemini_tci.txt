@@ -1,8 +1,9 @@
-vless://9f15b600-ce52-447f-b388-ef70de75308e@91.107.191.165:2?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20291ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20369ms
-vless://6c713691-3ca2-4446-ad25-113d1bed6b03@ee10.zazazuza.ru:8443?encryption=none&fp=chrome&host=fdghyt.com&path=%2Fvpn-wss%2Ffluxor%2F59011%2F&security=tls&sni=fdghyt.com&type=ws#%F0%9F%87%AA%F0%9F%87%AA%20EE%20518ms
-vmess://eyJhZGQiOiI5MS4xMDcuMTkxLjE2NSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiOWYxNWI2MDAtY2U1Mi00NDdmLWIzODgtZWY3MGRlNzUzMDhlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxIiwicHMiOiLwn4ep8J+HqiBERSA5NDBtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@199.232.78.159:443?encryption=none&host=canadajji.global.ssl.fastly.net.&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%201264ms
-vless://8e8ea5d2-6941-40fb-9efe-f9062b11b2b9@213.171.31.34:5002?encryption=none&fp=chrome&path=media.playback.v1.SessionGateway&security=tls&sni=us.centermass.net&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20RU%201424ms
-vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@199.232.78.159:443?encryption=none&host=canadajji.global.ssl.fastly.net.&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%201439ms
-vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?encryption=none&host=pan2e.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%202662ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@51.20.143.248:443#%F0%9F%87%B8%F0%9F%87%AA%20SE%20370ms
+vmess://eyJhZGQiOiIxODguMTE0Ljk2LjE5IiwiYWlkIjowLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZG5zLWxvb2suc3BhY2UuIiwiaWQiOiJjNTk2NWQ0Ny00NWQ2LTQ1YWYtYjYxOS0zYjJhNmJmODk2YTIiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiLwn4e68J+HsyBVTiAzNzNtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20431ms
+vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@199.232.78.159:443?encryption=none&host=canadajji.global.ssl.fastly.net.&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%201162ms
+vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@199.232.78.159:443?encryption=none&host=canadajji.global.ssl.fastly.net.&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%201703ms
+vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@fast.jkerm.com:443?encryption=none&host=pokerrr.global.ssl.fastly.net.&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%202548ms
+vless://8453bdb7-dd58-419d-b002-9456dd2e73d7@199.232.78.159:443?encryption=none&host=pan2e.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%202630ms
+vless://2e8cd1fa-0dcc-4402-bb99-be3d623fc1d5@199.232.78.159:443?encryption=none&host=pokerrr.global.ssl.fastly.net&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%205277ms
+vless://2e8cd1fa-0dcc-4402-bb99-be3d623fc1d5@199.232.78.159:443?encryption=none&host=pokerrr.global.ssl.fastly.net&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%205347ms
