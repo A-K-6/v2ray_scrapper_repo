@@ -1,6 +1,10 @@
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20996ms
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi.pythonsetupbib.online:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&security=reality&sid=bdf5852d1423e694&sni=fi.pythonsetupbib.online&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%201216ms
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi.pythonsetupbib.online:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&security=reality&sid=bdf5852d1423e694&sni=fi.pythonsetupbib.online&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%201507ms
-ss://YWVzLTI1Ni1nY206VXNJdjVhS0phYmlxbll0WThJZldkNkZmZ2p6ckpsZlo@43.155.223.71:8388#%F0%9F%87%B0%F0%9F%87%B7%20KR%202427ms
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%202865ms
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@212.74.39.188:8080?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%203903ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20441ms
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20647ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#%F0%9F%87%B7%F0%9F%87%B4%20RO%201052ms
+vmess://eyJhZGQiOiIyNDg2NDE2ODU0NTE2NC5kNmY1NGhkMWouY2MiLCJhaWQiOjAsImhvc3QiOiIyNDg2NDE2ODU0NTE2NC5kNmY1NGhkMWouY2MiLCJpZCI6ImVjZGMzMDNkLWJjYmYtNDEyOS1iYzAyLWRkNjc3MDNmNzA4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e58J+HvCBUVyAxODMzbXMiLCJzY3kiOiJhdXRvIiwic25pIjoiMjQ4NjQxNjg1NDUxNjQuZDZmNTRoZDFqLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://accfae78-b31c-47cb-86a1-bb9a07973e4a@13.143.166.18:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0F1gTB2erb0KWXeMUp06kbj887WVHYd3lt-i8OSHBCI&security=reality&sid=84fe6d42d253f1b1&sni=google.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%202348ms
+ss://YWVzLTI1Ni1nY206VXNJdjVhS0phYmlxbll0WThJZldkNkZmZ2p6ckpsZlo@43.155.223.71:8388#%F0%9F%87%B0%F0%9F%87%B7%20KR%202847ms
+vmess://eyJhZGQiOiJ2MzYuaGRhY2QuY29tIiwiYWlkIjoyLCJob3N0IjoiIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMwODM2IiwicHMiOiLwn4et8J+HsCBISyAzMzYxbXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://fc87e0d6-0f6a-423a-828e-1fed7e7ef29c@u6.luxcloud.space:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=u6.luxcloud.space&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%203451ms
+vless://ff3b79c1-1fd9-4e86-95a5-cf3863b3d162@p11real1.greewebservices.ir:1020?encryption=none&fp=chrome&pbk=GzjL8Jq6iNwatTxuqL9gXElWIUgtOfbbCDaZ_wHG5SY&security=reality&sid=9b60d3&sni=play.googleapis.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%204189ms
+vless://b118fc0a-c535-11f1-9902-a337233c6cda@178.214.110.4:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Zjex_cLrMyB7UKgGP8iUZaUtKWuDJnpylpf1WUcfOA0&security=reality&sid=080c8affc0204b46&sni=nl-1.wizard.select&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%205362ms
