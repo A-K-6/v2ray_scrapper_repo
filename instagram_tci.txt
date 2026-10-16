@@ -1,8 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYXlZYTJWN3BVYkpCZkt1@20.234.97.18:443#%F0%9F%87%AE%F0%9F%87%AA%20IE%20332ms
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA@5.188.181.201:9014#%F0%9F%87%AA%F0%9F%87%B8%20ES%20376ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20439ms
-vless://c9c219dc-50da-4135-8e5b-67020291f0ec@5.129.206.155:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=esjSMExL6v40ksVJD5urvmQD4XZVWfBOCvStdk-q4DE&security=reality&sid=6ba85179e30d4fc2&sni=p92e5mc7t.zenaltra-hub95.cyou&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20516ms
-vless://1fc575d3-81bb-44d5-9efa-4131c7cc677a@103.126.51.58:995?encryption=none&fp=chrome&host=ocober-romania-new.yyuyy.com&path=%2Fapi%2Fv1&security=tls&sni=ocober-romania-new.yyuyy.com&type=httpupgrade#%F0%9F%87%B7%F0%9F%87%B4%20RO%20577ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%201436ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMHd4YzNSVVl3eEl6S1Nm@102.37.103.137:443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%201440ms
-hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0%20HK%203102ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20414ms
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%203033ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%203352ms

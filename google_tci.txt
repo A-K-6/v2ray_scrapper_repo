@@ -1,11 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYXlZYTJWN3BVYkpCZkt1@20.234.97.18:443#%F0%9F%87%AE%F0%9F%87%AA%20IE%20307ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20395ms
-vless://c9c219dc-50da-4135-8e5b-67020291f0ec@5.129.206.155:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=esjSMExL6v40ksVJD5urvmQD4XZVWfBOCvStdk-q4DE&security=reality&sid=6ba85179e30d4fc2&sni=p92e5mc7t.zenaltra-hub95.cyou&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20493ms
-vless://1fc575d3-81bb-44d5-9efa-4131c7cc677a@103.126.51.58:995?encryption=none&fp=chrome&host=ocober-romania-new.yyuyy.com&path=%2Fapi%2Fv1&security=tls&sni=ocober-romania-new.yyuyy.com&type=httpupgrade#%F0%9F%87%B7%F0%9F%87%B4%20RO%20592ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20752ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20763ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%20923ms
-vless://c7336a70-9d56-4ef9-8cb8-8eeb9c82a3e3@217.69.167.167:43000?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yVypeNRnQF6yM3z2FJLL6jJcvZY8SArZN34JQbiEzzY&security=reality&sid=5c97b3bc&sni=217.69.167.167&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20953ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20SG%201034ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%AC%20SG%201117ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMHd4YzNSVVl3eEl6S1Nm@102.37.103.137:443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%201443ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20255ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20414ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0NTY@95.169.3.45:46005#%F0%9F%87%BA%F0%9F%87%B8%20US%20700ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%20911ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%203352ms
