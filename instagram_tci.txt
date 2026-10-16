@@ -1,9 +1,6 @@
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OkRldU8zRXNYTmtkVWlWVkNTOG5VMlE9PQ@n2.rehan-iogsar.ir:4680#%F0%9F%87%A9%F0%9F%87%AA%20DE%20297ms
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OkRldU8zRXNYTmtkVWlWVkNTOG5VMlE9PQ@95.38.68.152:2089#%F0%9F%87%AE%F0%9F%87%B7%20IR%20433ms
-vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@revers.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TIKEWdxQBblFGWMQmQWserNef8P1rqJCfCLLi-KB32s&security=reality&sni=poland.travel&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20BR%20522ms
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&security=reality&sid=28f5c1f8f98a&sni=www.lamer.com.sg&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%201335ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201419ms
-ss://YWVzLTI1Ni1nY206SnVENk1OZ3RYM25WcEN6RnpYWVZZakRUWjduc21hVHY@191.223.221.53:8388#%F0%9F%87%A7%F0%9F%87%B7%20BR%201832ms
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56656?encryption=none&flow=xtls-rprx-vision&pbk=QFM3jTzb5n-E9L2cfFo6GHqioGmIkjmG60l8wXA4IXc&security=reality&sid=aae6d935&sni=cdn-dynmedia-1.microsoft.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%202187ms
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47672?encryption=none&flow=xtls-rprx-vision&pbk=tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4&security=reality&sid=70ab6d813e&sni=us1p1.xn--ghq880n3na965a.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%202265ms
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?encryption=none&flow=xtls-rprx-vision&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&security=reality&sid=e51285e3&sni=us1p1.xn--ghq880n3na965a.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%202493ms
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OkRldU8zRXNYTmtkVWlWVkNTOG5VMlE9PQ@95.38.68.152:2089#%F0%9F%87%AE%F0%9F%87%B7%20IR%20773ms
+vmess://eyJhZGQiOiIzOC40NS42Ni4xODciLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImFlNjY3MmRkLWZmMjAtNDUzZi1lZDk4LTQ3YTA3OGJkMGNiYyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTIyODgiLCJwcyI6IvCfh7rwn4e4IFVTIDgxN21zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+ss://YWVzLTI1Ni1nY206SnVENk1OZ3RYM25WcEN6RnpYWVZZakRUWjduc21hVHY@191.223.221.53:8388#%F0%9F%87%A7%F0%9F%87%B7%20BR%202290ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%202468ms
+vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@revers.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TIKEWdxQBblFGWMQmQWserNef8P1rqJCfCLLi-KB32s&security=reality&sni=poland.travel&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20BR%202972ms
+ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU@194.87.196.107:18443#%F0%9F%87%B7%F0%9F%87%BA%20RU%203588ms
