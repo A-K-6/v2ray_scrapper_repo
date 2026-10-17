@@ -1,0 +1,2 @@
+vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@revers.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TIKEWdxQBblFGWMQmQWserNef8P1rqJCfCLLi-KB32s&security=reality&sni=poland.travel&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20BR%20671ms
+vmess://eyJhZGQiOiJ6ZmQtaGt2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYxMTYiLCJwcyI6IvCfh7rwn4e4IFVTIDMyMDdtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
