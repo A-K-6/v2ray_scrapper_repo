@@ -1,9 +1,6 @@
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20453ms
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206anIrVDJSUzBzQ0hCbUM0dTZhWTZWZz09@172.86.108.79:30832#%F0%9F%87%BA%F0%9F%87%B8%20US%20477ms
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&fp=chrome&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&security=reality&sid=a73f0410d728c823&sni=www.samsung.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20536ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0TTBzVjNDcmpBVTBub2tk@20.164.216.208:443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%20894ms
-vmess://eyJhZGQiOiIxNTQuNjQuMjM5LjIyIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5ZmE3MzJkNi1kY2Q2LTQ3YmItYzI1NS0wOTRiYWQ3MTc2NWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI2NDIxIiwicHMiOiLwn4e68J+HuCBVUyAxMzI3bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?encryption=none&fp=firefox&pbk=TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY&security=reality&sid=cd7e85995ae2afc9&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%201587ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201876ms
-vless://fb5c43f4-bd23-453d-a3cf-45ad5b9c020b@85.133.244.214:443?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%203140ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%204241ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20283ms
+vless://b374647d-7516-4d1e-8c85-544c7d734c1f@p1tun01.greewebservices.ir:38830?encryption=none&fp=chrome&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&sid=e3085d4f&sni=play.google.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20380ms
+vmess://eyJhZGQiOiIxNTQuNjQuMjM5LjIyIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5ZmE3MzJkNi1kY2Q2LTQ3YmItYzI1NS0wOTRiYWQ3MTc2NWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI2NDIxIiwicHMiOiLwn4e68J+HuCBVUyA2ODNtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&fp=chrome&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&security=reality&sid=a73f0410d728c823&sni=www.samsung.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20749ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0TTBzVjNDcmpBVTBub2tk@20.164.216.208:443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%20889ms
+vless://fb5c43f4-bd23-453d-a3cf-45ad5b9c020b@85.133.244.214:443?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%202603ms
