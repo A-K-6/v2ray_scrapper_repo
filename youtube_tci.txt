@@ -1,8 +1,9 @@
-trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?host=freetoplay-2.tetris-game.world&path=%2Ff2fc2a1f&security=tls&sni=FREETOPLAY-2.TETRIS-GAME.WORLD&type=ws#%F0%9F%87%AE%F0%9F%87%AA%20IE%20595ms
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20613ms
-vless://a7cb5ab8-46c1-4d9a-b260-8c2a8c16f49f@43.249.72.254:443?encryption=none&fp=chrome&host=henzoo.global.ssl.fastly.net&path=%2F&security=tls&sni=default.ssl.fastly.net&type=ws#%F0%9F%87%B3%F0%9F%87%BF%20NZ%201346ms
-vless://a7cb5ab8-46c1-4d9a-b260-8c2a8c16f49f@43.249.72.255:443?encryption=none&fp=chrome&host=henzoo.global.ssl.fastly.net&path=%2F&security=tls&sni=default.ssl.fastly.net&type=ws#%F0%9F%87%B3%F0%9F%87%BF%20NZ%201358ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.105:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%201601ms
-vless://a7cb5ab8-46c1-4d9a-b260-8c2a8c16f49f@151.101.39.60:443?encryption=none&fp=chrome&host=henzoo.global.ssl.fastly.net&path=%2F&security=tls&sni=default.ssl.fastly.net&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20NL%201775ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%202579ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.141.221.124:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%202714ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20452ms
+vless://a7cb5ab8-46c1-4d9a-b260-8c2a8c16f49f@43.249.72.255:443?encryption=none&fp=chrome&host=henzoo.global.ssl.fastly.net&path=%2F&security=tls&sni=default.ssl.fastly.net&type=ws#%F0%9F%87%B3%F0%9F%87%BF%20NZ%20673ms
+vless://a7cb5ab8-46c1-4d9a-b260-8c2a8c16f49f@43.249.72.254:443?encryption=none&fp=chrome&host=henzoo.global.ssl.fastly.net&path=%2F&security=tls&sni=default.ssl.fastly.net&type=ws#%F0%9F%87%B3%F0%9F%87%BF%20NZ%20730ms
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?encryption=none&flow=xtls-rprx-vision&fp=chrome&host=funagfrdfs.alixxplay.com&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&security=reality&sid=28f5c1f8f98a&sni=www.lamer.com.sg&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%201094ms
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:55688?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KeV1nArisy7FO5DjqTSmn0hBnlNd38rzhbIMMpe-MBw&security=reality&sid=a46bb5972cf50671&sni=bilibili-vn.biliimg.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%201312ms
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&security=reality&sid=28f5c1f8f98a&sni=www.lamer.com.sg&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%201373ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201730ms
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47672?encryption=none&flow=xtls-rprx-vision&pbk=tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4&security=reality&sid=70ab6d813e&sni=us1p1.xn--ghq880n3na965a.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%201790ms
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?encryption=none&flow=xtls-rprx-vision&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&security=reality&sid=e51285e3&sni=us1p1.xn--ghq880n3na965a.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%201924ms
