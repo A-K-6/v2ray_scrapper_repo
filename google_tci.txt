@@ -1,4 +1,5 @@
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20322ms
-vless://fb5c43f4-bd23-453d-a3cf-45ad5b9c020b@85.133.244.214:443?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20397ms
-ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20467ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0TTBzVjNDcmpBVTBub2tk@20.164.216.208:443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%201437ms
+vless://fb5c43f4-bd23-453d-a3cf-45ad5b9c020b@85.133.244.214:443?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20703ms
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&fp=chrome&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&security=reality&sid=a73f0410d728c823&sni=www.samsung.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20720ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20820ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0TTBzVjNDcmpBVTBub2tk@20.164.216.208:443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%201462ms
+ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#%F0%9F%87%A8%F0%9F%87%BF%20CZ%203804ms
