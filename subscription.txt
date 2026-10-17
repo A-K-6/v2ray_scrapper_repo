@@ -1,9 +1,7 @@
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20270ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20449ms
-vmess://eyJhZGQiOiJkb2ctaGsua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDE4IiwicHMiOiLwn4e68J+HuCBVUyA3MTFtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%201133ms
-vless://d54a7512-dda3-4218-8ae7-c591d300fd7c@164.37.224.244:25239?encryption=none&pbk=0hYbfdNYeWetabbW1wCcrwi0e1VQA45Jhgi42YxU5nk&security=reality&sid=9a382b227140e86f&sni=www.microsoft.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20SE%202105ms
-vless://05c8eabe-96af-4db2-bb2f-a24fa84344ba@31.76.227.60:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CcMEJ-JOS4clB3gXbc6wXgzkiJQbyNpKY90I8B6AqyU&security=reality&sid=4c188683e2c14a3c&sni=assets-mi-29.spbstudentlife.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%202332ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%202958ms
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?encryption=none&security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%203732ms
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?encryption=none&security=none&sni=45.138.100.248&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%204449ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20317ms
+ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@176.32.32.108:18443#%F0%9F%87%B7%F0%9F%87%BA%20RU%20328ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20404ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%201096ms
+ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#%F0%9F%87%A8%F0%9F%87%BF%20CZ%201153ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%202006ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%202947ms
