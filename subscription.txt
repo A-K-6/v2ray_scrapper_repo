@@ -1,10 +1,7 @@
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20267ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20453ms
-vmess://eyJhZGQiOiJjZi4wc20uY29tIiwiYWlkIjowLCJob3N0Ijoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6IjgwIiwicHMiOiLwn4e68J+HsyBVTiA4MDltcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20938ms
-ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20955ms
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?encryption=none&security=none&sni=45.138.100.248&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%201042ms
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?encryption=none&security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%201051ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%AC%20SG%201135ms
-vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@revers.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TIKEWdxQBblFGWMQmQWserNef8P1rqJCfCLLi-KB32s&security=reality&sni=poland.travel&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20BR%202988ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%204158ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20269ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20440ms
+vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@revers.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TIKEWdxQBblFGWMQmQWserNef8P1rqJCfCLLi-KB32s&security=reality&sni=poland.travel&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20BR%20557ms
+ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20966ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%AC%20SG%201125ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201455ms
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?encryption=none&security=none&sni=45.138.100.248&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%202535ms
