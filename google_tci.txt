@@ -1,6 +1,4 @@
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20266ms
-ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20512ms
-vless://a7cb5ab8-46c1-4d9a-b260-8c2a8c16f49f@151.101.39.60:443?encryption=none&fp=chrome&host=henzoo.global.ssl.fastly.net&path=%2F&security=tls&sni=default.ssl.fastly.net&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20NL%20685ms
-vless://a7cb5ab8-46c1-4d9a-b260-8c2a8c16f49f@43.249.72.254:443?encryption=none&fp=chrome&host=henzoo.global.ssl.fastly.net&path=%2F&security=tls&sni=default.ssl.fastly.net&type=ws#%F0%9F%87%B3%F0%9F%87%BF%20NZ%20793ms
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:1222?encryption=none&fp=chrome&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&security=reality&sid=a25d0f&sni=play.google.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%201142ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201997ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20265ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20402ms
+ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20951ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%202704ms

@@ -1,3 +1,1 @@
-ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw@67.159.18.34:17001#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20512ms
-vless://a7cb5ab8-46c1-4d9a-b260-8c2a8c16f49f@151.101.39.60:443?encryption=none&fp=chrome&host=henzoo.global.ssl.fastly.net&path=%2F&security=tls&sni=default.ssl.fastly.net&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20NL%20685ms
-vless://a7cb5ab8-46c1-4d9a-b260-8c2a8c16f49f@43.249.72.254:443?encryption=none&fp=chrome&host=henzoo.global.ssl.fastly.net&path=%2F&security=tls&sni=default.ssl.fastly.net&type=ws#%F0%9F%87%B3%F0%9F%87%BF%20NZ%20793ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20402ms
