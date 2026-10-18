@@ -1,6 +1,5 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.83.65:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20284ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20293ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.178.165.98:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20807ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVWpwaGtRQWg1QmtPZGJm@20.223.172.81:443#%F0%9F%87%AE%F0%9F%87%AA%20IE%201437ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201910ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%203483ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20273ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVWpwaGtRQWg1QmtPZGJm@20.223.172.81:443#%F0%9F%87%AE%F0%9F%87%AA%20IE%20842ms
+vmess://eyJhZGQiOiIxMDQuMjEuNy4xMzMiLCJhaWQiOjAsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODAiLCJwcyI6IvCfh7rwn4ezIFVOIDEwODBtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201430ms
+vless://7e68e32f-8015-4f37-9082-70e8b0b58043@3.36.52.183:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DHOrfoin7TeRpnIoU3d6qT5Yrq3QPVFp49kApATA4iE&security=reality&sid=e04a526b0b09c765&sni=aicall-dev.batonserver.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20KR%203990ms
