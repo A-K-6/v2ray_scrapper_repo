@@ -1,7 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.146.230:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20264ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.146.230:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20269ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.146.230:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20269ms
-hy2://l6rbd8u8yr003yl0@46.8.112.169:443?obfs=salamander&obfs-password=amyr5i21tg78b3oa&sni=node-1.wt419.site#%F0%9F%87%B3%F0%9F%87%B1%20NL%20366ms
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&fp=chrome&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&security=reality&sid=a73f0410d728c823&sni=www.samsung.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20525ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201519ms
-vless://0f32f9e7-d83c-4052-9a5e-103ed967b11c@136.148.64.229:2083?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%203281ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201396ms
