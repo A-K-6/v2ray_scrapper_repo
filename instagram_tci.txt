@@ -1,9 +1,3 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.17.74:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20268ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.17.74:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20273ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.17.74:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20284ms
-ss://YWVzLTEyOC1nY206MTc2MTllODZkY2ZiZjY5NmE2Mjc0YjFmNGE3MTQ0MTk@89.238.165.94:12023#%F0%9F%87%AC%F0%9F%87%A7%20GB%20303ms
-vmess://eyJhZGQiOiIxNTQuNjQuMjM5LjIyIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5ZmE3MzJkNi1kY2Q2LTQ3YmItYzI1NS0wOTRiYWQ3MTc2NWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI2NDIxIiwicHMiOiLwn4e68J+HuCBVUyAxMjEybXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0TTBzVjNDcmpBVTBub2tk@20.164.216.208:443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%201449ms
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.191.10:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=si1.lazeroe.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%202102ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%202124ms
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?encryption=none&security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%202617ms
+ss://YWVzLTEyOC1nY206MTc2MTllODZkY2ZiZjY5NmE2Mjc0YjFmNGE3MTQ0MTk@89.238.165.94:12023#%F0%9F%87%AC%F0%9F%87%A7%20GB%20280ms
+vless://932b2343-2a3b-45c2-9699-7642a85abdc1@43.249.72.254:443?encryption=none&fp=chrome&host=henzoo.global.ssl.fastly.net&security=tls&sni=default.ssl.fastly.net&type=ws#%F0%9F%87%B3%F0%9F%87%BF%20NZ%201647ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%202317ms
