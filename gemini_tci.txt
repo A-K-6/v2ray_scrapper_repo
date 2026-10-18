@@ -1,4 +1,6 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.83.65:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20294ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.83.65:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20302ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.83.65:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20302ms
-vless://7e68e32f-8015-4f37-9082-70e8b0b58043@3.36.52.183:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DHOrfoin7TeRpnIoU3d6qT5Yrq3QPVFp49kApATA4iE&security=reality&sid=e04a526b0b09c765&sni=aicall-dev.batonserver.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20KR%205115ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.83.65:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20270ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.83.65:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20272ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.83.65:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20281ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTU2NOMlFLN21SOXBWNHhI@96.45.186.114:8443#%F0%9F%87%BA%F0%9F%87%B8%20US%201027ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%201405ms
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&security=reality&sid=a73f0410d728c823&sni=www.samsung.com&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20BR%202954ms
