@@ -1,8 +1,7 @@
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20282ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.104.202:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20334ms
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&fp=chrome&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&security=reality&sid=a73f0410d728c823&sni=www.samsung.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20537ms
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20576ms
-vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@revers.bachidze.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TIKEWdxQBblFGWMQmQWserNef8P1rqJCfCLLi-KB32s&security=reality&sni=poland.travel&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20BR%20634ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0TTBzVjNDcmpBVTBub2tk@20.164.216.208:443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%20918ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201445ms
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?encryption=none&security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%203557ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20284ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.104.202:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20320ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20413ms
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&fp=chrome&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&security=reality&sid=a73f0410d728c823&sni=www.samsung.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20804ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0TTBzVjNDcmpBVTBub2tk@20.164.216.208:443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%20891ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201634ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%AC%20SG%202678ms
