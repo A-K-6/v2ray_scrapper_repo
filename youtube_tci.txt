@@ -1,8 +1,4 @@
-vless://28b983d7-f532-4eb7-b3e7-75aa60290c76@45.135.194.193:80?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20311ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%20898ms
-vmess://eyJhZGQiOiIxNzYuMTIyLjEzNC42NiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZGZmN2NiMmMtODJiNy00MDBiLWI5YTEtMjliODdmYTk2ZjI2IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjY5OTciLCJwcyI6IvCfh7rwn4e4IFVTIDk2MG1zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%201003ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7%20KR%201436ms
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@e1-us.edgemedia.lol:21443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&security=reality&sid=d2061bb1&sni=ya.ru&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%201497ms
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@e1-ee.edgemedia.lol:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&security=reality&sid=d2061bb1&sni=ya.ru&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%202000ms
-vmess://eyJhZGQiOiI1Ny4xMzEuMTY4LjIwMiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYTNmOTU2ODUtNmQ4NC00NjI1LWEwZWEtOGExMGU3ZDI2ZDg5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MzE4MyIsInBzIjoi8J+Hq/Cfh7cgRlIgMjg2N21zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://28b983d7-f532-4eb7-b3e7-75aa60290c76@45.135.194.193:80?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20303ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20470ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.183.80:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%201058ms
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%202911ms
