@@ -1,6 +1,2 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.38.194:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20262ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.38.194:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20267ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.38.194:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20275ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20427ms
-vmess://eyJhZGQiOiIxNzYuMTIyLjEzNC42NiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZGZmN2NiMmMtODJiNy00MDBiLWI5YTEtMjliODdmYTk2ZjI2IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjY5OTciLCJwcyI6IvCfh7rwn4e4IFVTIDI5NjZtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://535e8568-4429-4c47-b6bc-2de46505c229@p11real3.greewebservices.ir:2202?encryption=none&fp=chrome&host=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&sid=e3085d4fc679ba12&sni=play.googleapis.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%203405ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%201020ms
+vless://583c7684-5059-427c-a50e-bdd73e81f24e@s9-pan.redmbred.ir:52491?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%202822ms
