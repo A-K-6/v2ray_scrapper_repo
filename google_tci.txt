@@ -1,6 +1,3 @@
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20262ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201811ms
-vmess://eyJhZGQiOiIxNzYuMTIyLjEzNC42NiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZGZmN2NiMmMtODJiNy00MDBiLWI5YTEtMjliODdmYTk2ZjI2IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjY5OTciLCJwcyI6IvCfh7rwn4e4IFVTIDI3ODJtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@54.151.162.109:8443#%F0%9F%87%B8%F0%9F%87%AC%20SG%202785ms
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%202925ms
-vless://a44325f8-138f-4bac-99ae-1e2981083b2c@dl1-tr.penguin-easyconnet.ir:443?encryption=none&fp=chrome&host=dl1-tr.penguin-easyconnet.ir&path=%2Fgames%2Ffortnite-tr&security=tls&sni=dl1-tr.penguin-easyconnet.ir&type=ws#%F0%9F%87%A6%F0%9F%87%AA%20AE%205337ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20272ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@54.151.162.109:8443#%F0%9F%87%B8%F0%9F%87%AC%20SG%202289ms
+vmess://eyJhZGQiOiIxNzYuMTIyLjEzNC42NiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZGZmN2NiMmMtODJiNy00MDBiLWI5YTEtMjliODdmYTk2ZjI2IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjY5OTciLCJwcyI6IvCfh7rwn4e4IFVTIDM3MTRtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
