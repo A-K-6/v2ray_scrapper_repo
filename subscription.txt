@@ -1,5 +1,5 @@
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20251ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20471ms
-vmess://eyJhZGQiOiIxNzIuNjcuMTg3LjE0NSIsImFpZCI6MCwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOiI4MCIsInBzIjoi8J+HuvCfh7MgVU4gNzcxbXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%202853ms
-vmess://eyJhZGQiOiIxNzYuMTIyLjEzNC42NiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZGZmN2NiMmMtODJiNy00MDBiLWI5YTEtMjliODdmYTk2ZjI2IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjY5OTciLCJwcyI6IvCfh7rwn4e4IFVTIDQwMTZtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20273ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20484ms
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20690ms
+vless://583c7684-5059-427c-a50e-bdd73e81f24e@s9-pan.redmbred.ir:52491?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%202864ms
+vmess://eyJhZGQiOiIxNzYuMTIyLjEzNC42NiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZGZmN2NiMmMtODJiNy00MDBiLWI5YTEtMjliODdmYTk2ZjI2IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjY5OTciLCJwcyI6IvCfh7rwn4e4IFVTIDM0MDJtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
