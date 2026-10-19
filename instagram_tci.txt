@@ -1,11 +1,3 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.38.194:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20265ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.38.194:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20275ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.38.194:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20294ms
-vmess://eyJhZGQiOiI1Ny4xMzEuMTY4LjIwMiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMmNiMDkyZjYtZDYyYy00ZThjLWE5ZjItZGI5ZDQ2ZjQyZGU3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MzE4MyIsInBzIjoi8J+Hq/Cfh7cgRlIgNDAxbXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20461ms
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&security=reality&sid=a73f0410d728c823&sni=www.samsung.com&type=tcp#%F0%9F%87%BA%F0%9F%87%A6%20UA%20671ms
-ss://YWVzLTEyOC1nY206Qkkyb21YZ1hkdXU5NXhBVHU1dWFVM2puMkxwYjktcUs@78.135.77.110:11700#%F0%9F%87%B9%F0%9F%87%B7%20TR%20823ms
-vmess://eyJhZGQiOiIxNzYuMTIyLjEzNC42NiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZGZmN2NiMmMtODJiNy00MDBiLWI5YTEtMjliODdmYTk2ZjI2IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjY5OTciLCJwcyI6IvCfh7rwn4e4IFVTIDgzNW1zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://a44325f8-138f-4bac-99ae-1e2981083b2c@dl1-tr.penguin-easyconnet.ir:443?encryption=none&fp=chrome&host=dl1-tr.penguin-easyconnet.ir&path=%2Fgames%2Ffortnite-tr&security=tls&sni=dl1-tr.penguin-easyconnet.ir&type=ws#%F0%9F%87%A6%F0%9F%87%AA%20AE%201475ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@54.151.162.109:8443#%F0%9F%87%B8%F0%9F%87%AC%20SG%201853ms
-vless://fc12fb20-4380-11ec-8c97-d707e267af0b@hk03.ccdn3.work:795?encryption=none&flow=xtls-rprx-vision&fp=chrome&host=i1.hdslb.com&pbk=y_DoQCjABoe8YBWpEbBTTQJp8d62WJc_-vNUzKgwtS8&security=reality&sid=fec557fa67449ccc&sni=i1.hdslb.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20HK%202479ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20452ms
+ss://YWVzLTEyOC1nY206Qkkyb21YZ1hkdXU5NXhBVHU1dWFVM2puMkxwYjktcUs@78.135.77.110:11700#%F0%9F%87%B9%F0%9F%87%B7%20TR%201538ms
+vmess://eyJhZGQiOiIxNzYuMTIyLjEzNC42NiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZGZmN2NiMmMtODJiNy00MDBiLWI5YTEtMjliODdmYTk2ZjI2IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjY5OTciLCJwcyI6IvCfh7rwn4e4IFVTIDI1NTNtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
