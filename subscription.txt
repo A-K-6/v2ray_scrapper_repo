@@ -1,6 +1,6 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.54.244:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20272ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20275ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20264ms
+ss://YWVzLTEyOC1nY206Qkkyb21YZ1hkdXU5NXhBVHU1dWFVM2puMkxwYjktcUs@78.135.77.110:11700#%F0%9F%87%B9%F0%9F%87%B7%20TR%20798ms
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%201020ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%201060ms
-vless://583c7684-5059-427c-a50e-bdd73e81f24e@s9-pan.redmbred.ir:52491?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%202822ms
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%205302ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%201028ms
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?encryption=none&flow=xtls-rprx-vision&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&security=reality&sid=e51285e3&sni=us1p1.xn--ghq880n3na965a.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%202221ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@54.151.162.109:8443#%F0%9F%87%B8%F0%9F%87%AC%20SG%203249ms
