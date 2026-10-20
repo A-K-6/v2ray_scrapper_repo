@@ -1,8 +1,5 @@
-vless://80ee276b-1eb4-4570-8757-1d9cd978f6fa@92.119.166.36:1080?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20271ms
-vless://b1247bbd-33c5-4e00-b1b2-58dc5d8b565a@goold.zovip2.ir:443?encryption=none&fp=chrome&host=goold.zovip2.ir&path=%2Fapi%2Fv3%2Fpulse&security=tls&sni=goold.zovip2.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20318ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20362ms
-vmess://eyJhZGQiOiJkb2ctaGsua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDIxIiwicHMiOiLwn4et8J+HsCBISyA3MzJtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVVWpwaGtRQWg1QmtPZGJm@4.210.68.244:443#%F0%9F%87%AE%F0%9F%87%AA%20IE%20836ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.54.202:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%201348ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201472ms
-vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-ss-64.ecom-ai-search.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xXMV-UbVMpP75hZoXS_QSaj_DK1O58mrPIrreudQ71o&security=reality&sid=294cd0660fde9027&sni=assets-ss-64.ecom-ai-search.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%203212ms
+vless://0ad58d97-922c-4e85-b820-9d04dab5b8ec@206.1.103.26:443?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20227ms
+vless://80ee276b-1eb4-4570-8757-1d9cd978f6fa@92.119.166.36:1080?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20294ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20875ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201398ms
+vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%202902ms
