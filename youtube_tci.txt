@@ -1,8 +1,6 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.145.160:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20289ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.145.160:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20295ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.145.160:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20296ms
-vless://415a1a3e-20da-4860-a15a-cf89c2ae5d80@fun.zovip2.ir:443?encryption=none&fp=chrome&host=fun.zovip2.ir&path=%2Fapi%2Fv3%2Fpulse&security=tls&sni=fun.zovip2.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20364ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20415ms
-vless://b2dacbda-8221-4548-a104-aa8aa56ab282@tun2.w-ert.org:56841?encryption=none&fp=chrome&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&security=reality&sid=ca4134a0ed2592b6&sni=www.aparat.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20668ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%201168ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201687ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.101.74:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20291ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.101.74:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20291ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.101.74:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20310ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20439ms
+vless://415a1a3e-20da-4860-a15a-cf89c2ae5d80@fun.zovip2.ir:443?encryption=none&fp=chrome&host=fun.zovip2.ir&path=%2Fapi%2Fv3%2Fpulse&security=tls&sni=fun.zovip2.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%201465ms
+ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU@176.32.34.253:18443#%F0%9F%87%B7%F0%9F%87%BA%20RU%202202ms
