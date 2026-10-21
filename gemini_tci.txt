@@ -1,2 +1,2 @@
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20439ms
-vless://415a1a3e-20da-4860-a15a-cf89c2ae5d80@fun.zovip2.ir:443?encryption=none&fp=chrome&host=fun.zovip2.ir&path=%2Fapi%2Fv3%2Fpulse&security=tls&sni=fun.zovip2.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%201465ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20432ms
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20563ms
