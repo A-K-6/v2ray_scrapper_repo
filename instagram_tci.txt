@@ -1,2 +1,6 @@
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20456ms
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999#%F0%9F%87%B3%F0%9F%87%B1%20NL%20577ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.101.74:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20294ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.101.74:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20297ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdTdmRnhTZ3VDZkNGT2hZ@20.166.51.228:443#%F0%9F%87%AE%F0%9F%87%AA%20IE%20320ms
+vless://415a1a3e-20da-4860-a15a-cf89c2ae5d80@fun.zovip2.ir:443?encryption=none&fp=chrome&host=fun.zovip2.ir&path=%2Fapi%2Fv3%2Fpulse&security=tls&sni=fun.zovip2.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20364ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20415ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%201168ms
