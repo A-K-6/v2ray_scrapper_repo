@@ -1,5 +1,6 @@
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20279ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.186.150:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20327ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.186.150:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20328ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.186.150:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20329ms
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@212.74.39.214:8080?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%201920ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20283ms
+hy2://Telegram-vpnjey@179.61.138.145:36264?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=de2.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA%20DE%20418ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201316ms
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@45.144.30.92:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&security=reality&sni=astana.vkusnews.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%202050ms
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@212.74.39.214:8080?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%204421ms
+vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%204544ms
