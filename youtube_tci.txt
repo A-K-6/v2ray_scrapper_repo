@@ -1,8 +1,2 @@
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@45.144.52.65:443?encryption=none&flow=xtls-rprx-vision&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&security=reality&sid=7271129440ade8fa&sni=web.moscowvibe.fyi&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%20422ms
-vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2real4.greewebservices.ir:1340?encryption=none&fp=chrome&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&sid=9b60d3&sni=play.googleapis.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20750ms
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%AC%20SG%201591ms
-hy2://Telegram-vpnjey@179.61.138.145:36264?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=de2.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA%20DE%201706ms
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@212.74.39.214:8080?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%201710ms
-vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2real5.greewebservices.ir:1350?encryption=none&fp=chrome&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&sid=9b60d3&sni=play.googleapis.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%202009ms
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%203158ms
-vless://c0a06843-8a72-4eca-b124-a589da434c98@goold.zovip2.ir:443?encryption=none&fp=chrome&host=goold.zovip2.ir&path=%2Fapi%2Fv3%2Fpulse&security=tls&sni=goold.zovip2.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%203407ms
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@212.74.39.214:8080?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20583ms
+hy2://Telegram-vpnjey@179.61.138.145:36264?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=de2.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA%20DE%202841ms

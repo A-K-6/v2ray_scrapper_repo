@@ -1,6 +1,3 @@
-vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2real4.greewebservices.ir:1340?encryption=none&fp=chrome&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&sid=9b60d3&sni=play.googleapis.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20750ms
-hy2://Telegram-vpnjey@179.61.138.145:36264?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=de2.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA%20DE%201706ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201960ms
-vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2real5.greewebservices.ir:1350?encryption=none&fp=chrome&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&sid=9b60d3&sni=play.googleapis.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%202009ms
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%203158ms
-vless://c0a06843-8a72-4eca-b124-a589da434c98@goold.zovip2.ir:443?encryption=none&fp=chrome&host=goold.zovip2.ir&path=%2Fapi%2Fv3%2Fpulse&security=tls&sni=goold.zovip2.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%203407ms
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@212.74.39.214:8080?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20583ms
+hy2://Telegram-vpnjey@179.61.138.145:36264?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=de2.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA%20DE%202841ms
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&security=reality&sid=6c5c7900406a1ae7&sni=www.samsung.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%205592ms
