@@ -1,2 +1,4 @@
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20577ms
-hy2://Telegram-vpnjey@179.61.138.145:36264?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=de2.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA%20DE%201018ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.186.150:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20287ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.186.150:22224?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20301ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.186.150:22222?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20305ms
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@212.74.39.214:8080?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%201598ms

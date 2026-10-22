@@ -1,5 +1,0 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.90.187:22223?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20446ms
-hy2://Telegram-vpnjey@179.61.138.145:36264?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=de2.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA%20DE%201018ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201414ms
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?encryption=none&flow=xtls-rprx-vision&fp=chrome&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&security=reality&sid=25c79e5856c7&sni=iosapps.itunes.apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%201874ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNHNjNUVuSzVtS0c1aWVzVnRtUmlUZ2pETEpXYWJleQ@dns2.m3hrzd.ir:8044#%F0%9F%87%B3%F0%9F%87%B1%20NL%202976ms
