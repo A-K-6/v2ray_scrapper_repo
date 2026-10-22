@@ -1,3 +1,4 @@
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20285ms
-hy2://Telegram-vpnjey@179.61.138.145:36264?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=de2.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA%20DE%202841ms
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&security=reality&sid=6c5c7900406a1ae7&sni=www.samsung.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%205592ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20298ms
+vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?encryption=none&fp=chrome&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&security=reality&sid=6bdc8320&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20976ms
+hy2://Telegram-vpnjey@179.61.138.145:36264?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=de2.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA%20DE%202842ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%202960ms
