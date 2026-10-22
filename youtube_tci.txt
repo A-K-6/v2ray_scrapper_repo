@@ -1,5 +1,3 @@
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20433ms
-vmess://eyJhZGQiOiI2NS4xMDkuMjA5LjIzOSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYzVmNTlkNjgtNWEyNi00MGI4LWEwODYtMmY1MzFlMDY3MzdjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxNjkxMSIsInBzIjoi8J+Hq/Cfh64gRkkgODEzbXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201457ms
-vless://c0a06843-8a72-4eca-b124-a589da434c98@goold.zovip2.ir:443?encryption=none&fp=chrome&host=goold.zovip2.ir&path=%2Fapi%2Fv3%2Fpulse&security=tls&sni=goold.zovip2.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%202951ms
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%203476ms
+vmess://eyJhZGQiOiI2NS4xMDkuMjA5LjIzOSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYzVmNTlkNjgtNWEyNi00MGI4LWEwODYtMmY1MzFlMDY3MzdjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxNjkxMSIsInBzIjoi8J+Hq/Cfh64gRkkgMzI2bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20914ms
+vless://c0a06843-8a72-4eca-b124-a589da434c98@goold.zovip2.ir:443?encryption=none&fp=chrome&host=goold.zovip2.ir&path=%2Fapi%2Fv3%2Fpulse&security=tls&sni=goold.zovip2.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%201021ms
