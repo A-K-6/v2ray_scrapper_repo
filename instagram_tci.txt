@@ -1,3 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%202507ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.169:443#%F0%9F%87%AC%F0%9F%87%A7%20GB%203373ms
-vless://6c688f63-fad4-45d8-a6a1-1e978ed26b8b@static.86.39.13.49.clients.your-server.de:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=static.75.209.109.65.clients.your-server.de&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%204771ms
+vmess://eyJhZGQiOiI2NS4xMDkuMjA5LjIzOSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYzVmNTlkNjgtNWEyNi00MGI4LWEwODYtMmY1MzFlMDY3MzdjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxNjkxMSIsInBzIjoi8J+Hq/Cfh64gRkkgMzAxbXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%201010ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%202173ms
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?encryption=none&flow=xtls-rprx-vision&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&security=reality&sid=54cca3c1c1c7&sni=www.apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%202219ms
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47691?encryption=none&flow=xtls-rprx-vision&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&security=reality&sid=2905326a&sni=m.media-amazon.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%203133ms
