@@ -1,6 +1,8 @@
-vmess://eyJhZGQiOiI2NS4xMDkuMjA5LjIzOSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYzVmNTlkNjgtNWEyNi00MGI4LWEwODYtMmY1MzFlMDY3MzdjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxNjkxMSIsInBzIjoi8J+Hq/Cfh64gRkkgMzA4bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@5.188.181.201:9011#%F0%9F%87%AA%F0%9F%87%B8%20ES%20424ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20550ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201166ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%202149ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.169:443#%F0%9F%87%AC%F0%9F%87%A7%20GB%204884ms
+vmess://eyJhZGQiOiI2NS4xMDkuMjA5LjIzOSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYzVmNTlkNjgtNWEyNi00MGI4LWEwODYtMmY1MzFlMDY3MzdjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxNjkxMSIsInBzIjoi8J+Hq/Cfh64gRkkgMzE5bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+hy2://Telegram-vpnjey@179.61.138.145:36264?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=de2.jey.cc.cd#%F0%9F%87%A9%F0%9F%87%AA%20DE%20343ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20789ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%201091ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201470ms
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK%201501ms
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?encryption=none&flow=xtls-rprx-vision&fp=chrome&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&security=reality&sid=25c79e5856c7&sni=iosapps.itunes.apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%201742ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.169:443#%F0%9F%87%AC%F0%9F%87%A7%20GB%204622ms
