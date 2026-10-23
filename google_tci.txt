@@ -1,7 +1,8 @@
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20563ms
-vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20694ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20NL%20898ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7%20KR%201514ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201641ms
-vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2real5.greewebservices.ir:1350?encryption=none&fp=chrome&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&sid=9b60d3&sni=play.googleapis.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%202237ms
-vless://2582857a-632b-4c4e-9b67-96213cbaf58c@areal5.greewebservices.ir:5455?encryption=none&fp=chrome&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&security=reality&sid=e3085d4fc679ba12&sni=amp-api-edge.apps.apple.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%202280ms
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=v3p.sabermusic.ir&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20299ms
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20624ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20KR%201451ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7%20KR%201519ms
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56415?encryption=none&flow=xtls-rprx-vision&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&security=reality&sid=cbd39bea0805e2&sni=www.kaidee.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%202190ms
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?encryption=none&flow=xtls-rprx-vision&fp=chrome&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&security=reality&sid=28f5c1f8f98a&sni=www.lamer.com.sg&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%202307ms
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56415?encryption=none&flow=xtls-rprx-vision&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&security=reality&sid=cbd39bea0805e2&sni=www.kaidee.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%202343ms
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?encryption=none&flow=xtls-rprx-vision&fp=chrome&host=www.apple.com&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&security=reality&sid=54cca3c1c1c7&sni=www.apple.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%203555ms
